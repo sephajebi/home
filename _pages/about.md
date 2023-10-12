@@ -10,7 +10,9 @@ profile:
   more_info: >
     <p>MC-5119</p>
     <p>200 University Avenue West</p>
-    <p>Waterloo, ON, Canada N2L 3E9</p>
+    <p>Waterloo, ON, Canada</p>
+    <p>N2L 3E9</p>
+    
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -25,8 +27,8 @@ Currently I study structural combinatorics, mostly induced subgraphs and graph m
 I am also interested in a few other areas including algebraic and geometric topology and analytic number theory.
 
 
-<a href='mailto:shajebi@uwaterloo.ca'>Email(current)</a>\
-<a href='mailto:sepehr.hajebi@gmail.com'>Email(personal)</a>\
-<a href='https://arxiv.org/a/hajebi_s_1.html'>arXiv</a>\
-<a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'>Google Scholar</a>
+<a href='mailto:shajebi@uwaterloo.ca'><i class="fa-solid fa-envelope"></i>Email(current)</a>\
+<a href='mailto:sepehr.hajebi@gmail.com'><i class="fa-regular fa-envelope"></i>Email(personal)</a>\
+<a href='https://arxiv.org/a/hajebi_s_1.html'><i class="fa-regular fa-face-smile"></i>arXiv</a>\
+<a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'><i class="ai ai-google-scholar"></i>Google Scholar</a>\
 <a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i>CV (updated Oct 12, 2023)</a>
