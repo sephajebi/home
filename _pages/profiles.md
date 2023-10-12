@@ -14,15 +14,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>MC5119</p>
+      <p>200 University Avenue West</p>
+      <p>Waterloo, ON N2L 3E9, Canada</p>
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>MC5119</p>
+      <p>200 University Avenue West</p>
+      <p>Waterloo, ON N2L 3E9, Canada</p>
 ---
