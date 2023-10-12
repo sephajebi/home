@@ -8,10 +8,7 @@ profile:
   image: sepehr_hajebi_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MC-5119</p>
-    <p>200 University Avenue West</p>
-    <p>Waterloo, ON, Canada</p>
-    <p>N2L 3E9</p>
+    <p>Me and Atlas (2023)</p>
     
 
 news: false  # includes a list of news items
