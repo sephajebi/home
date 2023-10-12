@@ -27,8 +27,8 @@ Currently I study structural combinatorics, mostly induced subgraphs and graph m
 I am also interested in a few other areas including algebraic and geometric topology and analytic number theory.
 
 
-<a href='mailto:shajebi@uwaterloo.ca'><i class="fas fa-envelope"></i> Email (current)</a>\
-<a href='mailto:sepehr.hajebi@gmail.com'><i class="fas fa-envelope"></i> Email (personal)</a>\
+<a href='mailto:shajebi@uwaterloo.ca'><i class="fas fa-envelope"></i> shajebi@uwaterloo.ca</a> (current)\
+<a href='mailto:sepehr.hajebi@gmail.com'><i class="fas fa-envelope"></i> sepehr.hajebi@gmail.com</a> (personal)\
 <a href='https://arxiv.org/a/hajebi_s_1.html'><i class="fas fa-face-smile"></i> arXiv</a>\
 <a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'><i class="ai ai-google-scholar"></i> Google Scholar</a>\
 <a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> CV (updated Oct 12, 2023)</a>
