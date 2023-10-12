@@ -29,4 +29,4 @@ I am also interested in a few other areas including algebraic and geometric topo
 <a href='mailto:sepehr.hajebi@gmail.com'>Email(personal)</a>\
 <a href='https://arxiv.org/a/hajebi_s_1.html'>arXiv</a>\
 <a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'>Google Scholar</a>
-<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i>CV (updated Oct 12, 2023)</a>
+<a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i>CV (updated Oct 12, 2023)</a>

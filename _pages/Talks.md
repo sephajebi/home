@@ -4,7 +4,7 @@ permalink: /talks/
 title: Talks
 description: Talks in reversed chronological order.
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 _2023_
