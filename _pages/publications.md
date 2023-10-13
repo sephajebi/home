@@ -50,7 +50,7 @@ One neighbor in a hole**\
 [J. Graph Theory (accepted with minor revisions) -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
 
-**2. Hitting all maximum stable sets in $P_5$-free graphs**\
+**2. Hitting all maximum stable sets in \\(\mathbf{P}\_5\\)-free graphs**\
 [J. Comb. Theory Ser. B (in revision) -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]\
 with Yanjia Li and Sophie Spirkl.
 
