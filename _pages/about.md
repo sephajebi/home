@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: sepehr_hajebi_profile.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Me and Atlas (2023)</p>
     
