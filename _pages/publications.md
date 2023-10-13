@@ -93,14 +93,14 @@ with Tara Abrishami, Maria Chudnovsky and Sophie Spirkl.
 _In progress_
 
 **5. Induced subgraphs and tree decompositions XIII.\
-Basic obstrctions in $\mathcal{H}$-free graphs for finite $\mathcal{H}$**\
+Basic obstrctions in \\(\mathcal{H}\\)-free graphs for finite \\(\mathcal{H}\\)**\
 Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 **4. Induced subgraphs and tree decompositions XIV.\
 Two neighbors in a hole**\\
 with Maria Chudnovsky and Sophie Spirkl. 
 
-**3. List$-k-$Coloring $H$-free graphs for all $k>4$.**\
+**3. List\\(-k-\\)Coloring \\(H\\)-free graphs for all \\(k>4\\).**\
 with Maria Chudnovsky and Sophie Spirkl.
 
 **2. More chordal graphs in even-hole-free graphs of large treewidth.**
