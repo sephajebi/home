@@ -100,7 +100,7 @@ Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 Two neighbors in a hole**\\
 with Maria Chudnovsky and Sophie Spirkl. 
 
-**3. List\\(-k-\\)Coloring \\(H\\)-free graphs for all \\(k>4\\).**\
+**3. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\).**\
 with Maria Chudnovsky and Sophie Spirkl.
 
 **2. More chordal graphs in even-hole-free graphs of large treewidth.**
