@@ -83,7 +83,7 @@ Grid Theorem for perforated graphs** [<a href='https://arxiv.org/pdf/2305.15615.
 in Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 **2. Induced subgraphs and tree decompositions VII.\
-Basic obstructions in H-free graphs** [<a href='https://arxiv.org/pdf/2212.02737.pdf'>arXiv (2022)</a>]\
+Basic obstructions in \\(H\\)-free graphs** [<a href='https://arxiv.org/pdf/2212.02737.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 **1. Induced subgraphs and tree decompositions VI.\

@@ -8,7 +8,7 @@ profile:
   image: sepehr_hajebi_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <center>This is me and Atlas. (2023)</center>
+    <center>This is me and Atlas (2023)</center>
     
 
 news: false  # includes a list of news items

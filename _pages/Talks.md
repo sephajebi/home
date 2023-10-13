@@ -16,7 +16,7 @@ _2023_
 2. (Upcoming) **Several Gyarfas-Sumner-type result for treewidth**\
 Graphs and Matroids Seminar, University of Waterloo, Canada (Nov 23)
 
-3. **Hitting all maximum stable sets in P5-free graphs**\
+3. **Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
 Graphs and Matroids Seminar, University of Waterloo, Canada (February 6)
 
 _2022_
