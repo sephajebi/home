@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-_Accepted/In revision_
+_Accepted/In revision:_
 
 **6. Induced subgraphs and tree decompositions\
 VII .Basic obstructions in \\(H\\)-free graphs**\
@@ -38,7 +38,7 @@ with Yanjia Li and Sophie Spirkl.
 with Yanjia Li and Sophie Spirkl.
 
 
-_Published_
+_Published:_
 
 **5. Induced subgraphs and tree decompositions\
 IV. (Even hole, diamond, pyramid)-free graphs**\
@@ -63,7 +63,7 @@ with Joseph Cheriyan, Zishen Qu and Sophie Spirkl.
 with Ramin Javadi.
 
 
-_Submitted_
+_Submitted:_
 
 **7. Induced subgraphs and tree decompositions\
 XII. Grid Theorem for pinched graphs** [<a href='https://arxiv.org/pdf/2309.12227.pdf'>arXiv (2023)</a>]\
@@ -90,7 +90,7 @@ in Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 VI. Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Maria Chudnovsky and Sophie Spirkl.
 
-_In progress_
+_In progress:_
 
 **5. Induced subgraphs and tree decompositions.\
 XIII. Basic obstrctions in \\(\mathcal{H}\\)-free graphs for finite \\(\mathcal{H}\\)**\
