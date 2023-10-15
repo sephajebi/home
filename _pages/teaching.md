@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-_TA at University of Waterloo_
+_TA at University of Waterloo:_
 
 
 1. **CO456 Game theory** (instructed by Martin Pei -- Fall 2023)
@@ -27,7 +27,7 @@ _TA at University of Waterloo_
 
     
 
-_TA at Isfahan University of Technology_
+_TA at Isfahan University of Technology:_
 
 1. **Computational complexity (graduate)** (instructed by Ramin Javadi -- 2019)
 2. **Elements of matrics and linear algebra** (instructed by Ramin Javadi -- 2018)
