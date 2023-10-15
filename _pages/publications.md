@@ -7,6 +7,37 @@ nav: true
 nav_order: 1
 ---
 
+_Accepted/In revision_
+
+**6. Induced subgraphs and tree decompositions VII.\
+Basic obstructions in \\(H\\)-free graphs**\
+[J. Comb. Theory Ser. B (accepted with minor revisions) [<a href='https://arxiv.org/pdf/2212.02737.pdf'>arXiv (2022)</a>]\
+with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
+
+**5. Induced subgraphs and tree decompositions VIII.\
+Excluding a forest in (theta, prism)-free graphs**\
+[Combinatorica (in revision) -- <a href='https://arxiv.org/pdf/2301.02138.pdf'>arXiv (2023)</a>]\
+with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
+
+**4. Induced subgraphs and tree decompositions II.\
+Toward walls and their line graphs in graphs of bounded degree**\
+[J. Comb. Theory Ser. B (accepted) -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]\
+with Tara Abrishami, Maria Chudnovsky, Cemil Dibek, Pawel Rzasewski, Sophie Spirkl and Kristina Vuskovic.
+
+**3. Induced subgraphs and tree decompositions V.\
+One neighbor in a hole**\
+[J. Graph Theory (accepted) -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]\
+with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
+
+**2. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
+[J. Comb. Theory Ser. B (in revision) -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]\
+with Yanjia Li and Sophie Spirkl.
+
+**1. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
+[SIAM J. Discrete Math (in revision) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
+with Yanjia Li and Sophie Spirkl.
+
+
 _Published_
 
 **5. Induced subgraphs and tree decompositions IV.\
@@ -32,59 +63,28 @@ with Joseph Cheriyan, Zishen Qu and Sophie Spirkl.
 with Ramin Javadi.
 
 
-_Accepted/In revision_
-
-**5. Induced subgraphs and tree decompositions VIII.\
-Excluding a forest in (theta, prism)-free graphs**\
-[Combinatorica (in revision) -- <a href='https://arxiv.org/pdf/2301.02138.pdf'>arXiv (2023)</a>]\
-with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
-
-**4. Induced subgraphs and tree decompositions II.\
-Toward walls and their line graphs in graphs of bounded degree**\
-[J. Comb. Theory Ser. B (accepted) -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]\
-with Tara Abrishami, Maria Chudnovsky, Cemil Dibek, Pawel Rzasewski, Sophie Spirkl and Kristina Vuskovic.
-
-
-**3. Induced subgraphs and tree decompositions V.\
-One neighbor in a hole**\
-[J. Graph Theory (accepted) -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]\
-with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
-
-**2. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
-[J. Comb. Theory Ser. B (in revision) -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]\
-with Yanjia Li and Sophie Spirkl.
-
-**1. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
-[SIAM J. Discrete Math (in revision) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
-with Yanjia Li and Sophie Spirkl.
-
-
 _Submitted_
 
-**8. Induced subgraphs and tree decompositions XII.\
+**7. Induced subgraphs and tree decompositions XII.\
 Grid Theorem for pinched graphs** [<a href='https://arxiv.org/pdf/2309.12227.pdf'>arXiv (2023)</a>]\
 with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**7. Induced subgraphs and tree decompositions XI.\
+**6. Induced subgraphs and tree decompositions XI.\
 Local strcture for even-hole-free graphs of large treewidth** [<a href='https://arxiv.org/pdf/2309.04390.pdf'>arXiv (2023)</a>]\
 with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**6. Induced subdivisions with pinned branch vertices** [<a href='https://arxiv.org/pdf/2308.01502.pdf'>arXiv (2023)</a>]
+**5. Induced subdivisions with pinned branch vertices** [<a href='https://arxiv.org/pdf/2308.01502.pdf'>arXiv (2023)</a>]
 
-**5. Induced subgraphs and tree decompositions X.\
+**4. Induced subgraphs and tree decompositions X.\
 Towards logarithmic treewidth for even-hole-free graphs** [<a href='https://arxiv.org/pdf/2307.13684.pdf'>arXiv (2023)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**4. Tree independence number for (even hole, diamond, pyramid)-free graphs** [<a href='https://arxiv.org/pdf/2305.16258.pdf'>arXiv (2023)</a>]\
+**3. Tree independence number for (even hole, diamond, pyramid)-free graphs** [<a href='https://arxiv.org/pdf/2305.16258.pdf'>arXiv (2023)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
 
-**3. Induced subgraphs and tree decompositions IX.\
+**2. Induced subgraphs and tree decompositions IX.**\
 Grid Theorem for perforated graphs** [<a href='https://arxiv.org/pdf/2305.15615.pdf'>arXiv (2023)</a>]\
 in Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
-
-**2. Induced subgraphs and tree decompositions VII.\
-Basic obstructions in \\(H\\)-free graphs** [<a href='https://arxiv.org/pdf/2212.02737.pdf'>arXiv (2022)</a>]\
-with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 **1. Induced subgraphs and tree decompositions VI.\
 Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXiv (2022)</a>]\
@@ -103,7 +103,7 @@ with Maria Chudnovsky and Sophie Spirkl.
 **3. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\).**\
 with Maria Chudnovsky and Sophie Spirkl.
 
-**2. More chordal graphs in even-hole-free graphs of large treewidth.**
+**2. Chordal induced subgraphs in even-hole-free graphs of large treewidth.**
 
 **1. Proof labelling schemes for forbidden induced
 subgraphs.**\
