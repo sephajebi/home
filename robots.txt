@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sepehrhajebi.github.io/home/sitemap.xml
+Sitemap: https://sepehrhajebi.com/sitemap.xml
