@@ -13,7 +13,7 @@ _2023_
 1. (Upcoming) **Treewidth, Erdos-Posa and induced subgraphs**\
    New York Combinatorics Seminar (Dec 8)
 
-2. (Upcoming) **Several Gyarfas-Sumner-type result for treewidth**\
+2. (Upcoming) **Several Gyarfas-Sumner-type results for treewidth**\
 Graphs and Matroids Seminar, University of Waterloo, Canada (Nov 23)
 
 3. **Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
