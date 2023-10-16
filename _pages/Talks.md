@@ -17,7 +17,7 @@ _2023_
 Graphs and Matroids Seminar, University of Waterloo, Canada (Nov 23)
 
 1. **Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
-Graphs and Matroids Seminar, University of Waterloo, Canada (February 6)
+Graphs and Matroids Seminar, University of Waterloo, Canada (Feb 6)
 
 _2022_
 
