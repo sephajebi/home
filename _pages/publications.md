@@ -92,7 +92,7 @@ with Tara Abrishami, Maria Chudnovsky and Sophie Spirkl.
 
 _In progress:_
 
-**5. Induced subgraphs and tree decompositions.\
+**5. Induced subgraphs and tree decompositions\
 XIII. Basic obstrctions in \\(\mathcal{H}\\)-free graphs for finite \\(\mathcal{H}\\)**\
 Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
