@@ -90,7 +90,7 @@ in Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 VI. Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Maria Chudnovsky and Sophie Spirkl.
 
-_In progress:_
+_Upcoming:_
 
 **5. Induced subgraphs and tree decompositions\
 XIII. Basic obstrctions in \\(\mathcal{H}\\)-free graphs for finite \\(\mathcal{H}\\)**\
