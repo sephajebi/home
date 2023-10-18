@@ -22,7 +22,7 @@ with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 **4. Induced subgraphs and tree decompositions\
 II. Toward walls and their line graphs in graphs of bounded degree**\
 [J. Comb. Theory Ser. B (accepted) -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]\
-with Tara Abrishami, Maria Chudnovsky, Cemil Dibek, Pawel Rzasewski, Sophie Spirkl and Kristina Vuskovic.
+with Tara Abrishami, Maria Chudnovsky, Cemil Dibek, Pawel Rzazewski, Sophie Spirkl and Kristina Vuskovic.
 
 **3. Induced subgraphs and tree decompositions\
 V. One neighbor in a hole**\
