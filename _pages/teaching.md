@@ -16,7 +16,7 @@ _TA at University of Waterloo:_
 4. **MATH138 Calculus II for honors of mathematics** (various instructors -- Winter 2023)
 5. **CO250 Introduction to optimization** (instructed by Henry Wolkowicz, Jorn van der Pol, David Aleman Espinosa, Martin Pei -- Winter 2023)
 6. **MATH600 Mathematical software** (instructed by Sarah Chan -- Fall 2022)
-7. **CO456 Game theory** (instructed by David Gao -- Fall 2022)
+7. **CO456 Game theory** (instructed by David Jao -- Fall 2022)
 8. **CO380 Mathematical discovery and invention** (instructed by Logan Crew -- Spring 2022)
 9. **MATH239 Introduction to combinatorics** (instructed by Jane Gao, Debbie Leung and Kanstantsin Pashkovich -- Winter 2022)
 10. **CO255 Advanced optimization** instructed by Bill Cook -- Winter 2022)
