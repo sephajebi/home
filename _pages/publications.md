@@ -34,7 +34,7 @@ with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina 
 with Yanjia Li and Sophie Spirkl.
 
 **1. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
-[SIAM J. Discrete Math (accepted with minor revisions) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
+[SIAM J. Discrete Math (accepted) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
 with Yanjia Li and Sophie Spirkl.
 
 
