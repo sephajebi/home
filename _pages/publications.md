@@ -103,7 +103,7 @@ with Maria Chudnovsky and Sophie Spirkl.
 **3. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\).**\
 with Maria Chudnovsky and Sophie Spirkl.
 
-**2. Chordal induced subgraphs in even-hole-free graphs of large treewidth.**
+**2. Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth.**
 
 **1. Proof labelling schemes for forbidden induced
 subgraphs.**\
