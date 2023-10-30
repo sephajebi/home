@@ -34,7 +34,7 @@ with Yanjia Li and Sophie Spirkl.
 
 **6. Induced subgraphs and tree decompositions\
 II. Toward walls and their line graphs in graphs of bounded degree**\
-[J. Comb. Theory Ser. B. 164 (2024); <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>_free access until Dec 19, 2023_</a> -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]\
+[J. Comb. Theory Ser. B. 164 (2024); <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>free access until Dec 19, 2023</a> -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]\
 with Tara Abrishami, Maria Chudnovsky, Cemil Dibek, Pawel Rzazewski, Sophie Spirkl and Kristina Vuskovic.
 
 **5. Induced subgraphs and tree decompositions\
