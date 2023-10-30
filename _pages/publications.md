@@ -20,23 +20,22 @@ VIII. Excluding a forest in (theta, prism)-free graphs**\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 **9. Induced subgraphs and tree decompositions\
-II. Toward walls and their line graphs in graphs of bounded degree**\
-[J. Comb. Theory Ser. B (accepted) -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]\
-with Tara Abrishami, Maria Chudnovsky, Cemil Dibek, Pawel Rzazewski, Sophie Spirkl and Kristina Vuskovic.
-
-**8. Induced subgraphs and tree decompositions\
 V. One neighbor in a hole**\
 [J. Graph Theory (accepted) -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
 
-**7. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
+**8. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
 [J. Comb. Theory Ser. B (in revision) -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]\
 with Yanjia Li and Sophie Spirkl.
 
-**6. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
+**7. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
 [SIAM J. Discrete Math (accepted) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
 with Yanjia Li and Sophie Spirkl.
 
+**6. Induced subgraphs and tree decompositions\
+II. Toward walls and their line graphs in graphs of bounded degree**\
+[J. Comb. Theory Ser. B. 164 (2024); <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>_free access until Dec 19, 2023_</a> -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]\
+with Tara Abrishami, Maria Chudnovsky, Cemil Dibek, Pawel Rzazewski, Sophie Spirkl and Kristina Vuskovic.
 
 **5. Induced subgraphs and tree decompositions\
 IV. (Even hole, diamond, pyramid)-free graphs**\
