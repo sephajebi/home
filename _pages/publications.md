@@ -103,4 +103,4 @@ with Maria Chudnovsky and Sophie Spirkl.
 **2. Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth.**
 
 **1. Certification for \\(H\\)-free graphs and beyound.**\
-with Nicolas Bousquet, Aristotelis Chaniotis, Linda Cook, Sophie Spirkl, Pierron Theo and Sebastien Zeitoun
+with Nicolas Bousquet, Aristotelis Chaniotis, Linda Cook, Sophie Spirkl, Pierron Theo and Sebastien Zeitoun.
