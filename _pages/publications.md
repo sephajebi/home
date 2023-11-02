@@ -70,7 +70,8 @@ with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 XI. Local strcture for even-hole-free graphs of large treewidth** [<a href='https://arxiv.org/pdf/2309.04390.pdf'>arXiv (2023)</a>]\
 with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**10. Induced subdivisions with pinned branch vertices** [<a href='https://arxiv.org/pdf/2308.01502.pdf'>arXiv (2023)</a>]
+**10. Induced subdivisions with pinned branch vertices** [<a href='https://arxiv.org/pdf/2308.01502.pdf'>arXiv (2023)</a>]\
+solo paper.
 
 **9. Induced subgraphs and tree decompositions\
 X. Towards logarithmic treewidth for even-hole-free graphs** [<a href='https://arxiv.org/pdf/2307.13684.pdf'>arXiv (2023)</a>]\
@@ -97,10 +98,11 @@ Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 XIV. Non-adjacent neighbors in a hole**\
 with Maria Chudnovsky and Sophie Spirkl. 
 
-**3. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\).**\
+**3. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)**\
 with Maria Chudnovsky and Sophie Spirkl.
 
-**2. Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth.**
+**2. Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth**\
+solo paper.
 
-**1. Certification for \\(H\\)-free graphs and beyound.**\
+**1. Certification for \\(H\\)-free graphs and beyound**\
 with Nicolas Bousquet, Aristotelis Chaniotis, Linda Cook, Sophie Spirkl, Pierron Theo and Sebastien Zeitoun.
