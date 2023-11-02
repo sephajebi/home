@@ -94,7 +94,7 @@ XIII. Basic obstrctions in \\(\mathcal{H}\\)-free graphs for finite \\(\mathcal{
 Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 **4. Induced subgraphs and tree decompositions\
-XIV. Non-adjacent neighbors in a hole**\\
+XIV. Non-adjacent neighbors in a hole**\
 with Maria Chudnovsky and Sophie Spirkl. 
 
 **3. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\).**\
@@ -102,6 +102,5 @@ with Maria Chudnovsky and Sophie Spirkl.
 
 **2. Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth.**
 
-**1. Proof labelling schemes for forbidden induced
-subgraphs.**\
-with Aristotelis Chaniotis, Linda Cook and Sophie Spirkl.
+**1. Certification for \\(H\\)-free graphs and beyound.**\
+with Nicolas Bousquet, Aristotelis Chaniotis, Linda Cook, Sophie Spirkl, Pierron Theo and Sebastien Zeitoun
