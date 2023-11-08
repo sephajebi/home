@@ -10,31 +10,31 @@ nav_order: 1
 _Published, accepted or in revision:_
 
 **23. Induced subgraphs and tree decompositions\
-VII .Basic obstructions in \\(H\\)-free graphs**\
-[J. Comb. Theory Ser. B (accepted) -- <a href='https://arxiv.org/pdf/2212.02737.pdf'>arXiv (2022)</a>]\
-with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
-
-**22. Induced subgraphs and tree decompositions\
 VIII. Excluding a forest in (theta, prism)-free graphs**\
 [Combinatorica (in revision) -- <a href='https://arxiv.org/pdf/2301.02138.pdf'>arXiv (2023)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**21. Induced subgraphs and tree decompositions\
+**22. Induced subgraphs and tree decompositions\
 V. One neighbor in a hole**\
 [J. Graph Theory (accepted) -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
 
-**20. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
+**21. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
 [J. Comb. Theory Ser. B (in revision) -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]\
 with Yanjia Li and Sophie Spirkl.
 
-**19. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
+**20. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
 [SIAM J. Discrete Math (accepted) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
 with Yanjia Li and Sophie Spirkl.
 
+**19. Induced subgraphs and tree decompositions\
+VII. Basic obstructions in \\(H\\)-free graphs**\
+[[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'>J. Comb. Theory Ser. B. 164 (2024) </a> -- <a href='https://arxiv.org/pdf/2212.02737.pdf'>arXiv (2022)</a>]\
+with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
+
 **18. Induced subgraphs and tree decompositions\
 II. Toward walls and their line graphs in graphs of bounded degree**\
-[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>J. Comb. Theory Ser. B. 164 (2024) -- free access until Dec 19, 2023</a> -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]\
+[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>J. Comb. Theory Ser. B. 164 (2024) </a> -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]\
 with Tara Abrishami, Maria Chudnovsky, Cemil Dibek, Pawel Rzazewski, Sophie Spirkl and Kristina Vuskovic.
 
 **17. Induced subgraphs and tree decompositions\
