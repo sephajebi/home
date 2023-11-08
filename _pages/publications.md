@@ -29,7 +29,7 @@ with Yanjia Li and Sophie Spirkl.
 
 **19. Induced subgraphs and tree decompositions\
 VII. Basic obstructions in \\(H\\)-free graphs**\
-[[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'>J. Comb. Theory Ser. B. 164 (2024) </a> -- <a href='https://arxiv.org/pdf/2212.02737.pdf'>arXiv (2022)</a>]\
+[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'>J. Comb. Theory Ser. B. 164 (2024) </a> -- <a href='https://arxiv.org/pdf/2212.02737.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 **18. Induced subgraphs and tree decompositions\
