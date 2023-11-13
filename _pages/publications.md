@@ -73,7 +73,7 @@ with Maria Chudnovsky and Sophie Spirkl.
 
 **10. Induced subgraphs and tree decompositions\
 XIII. Basic obstrctions in \\(\mathcal{H}\\)-free graphs for finite \\(\mathcal{H}\\)** [<a href='https://arxiv.org/pdf/2311.05066.pdf'>arXiv (2023)</a>]\
-Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
+with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 **9. Induced subgraphs and tree decompositions\
 XII. Grid Theorem for pinched graphs** [<a href='https://arxiv.org/pdf/2309.12227.pdf'>arXiv (2023)</a>]\
@@ -95,7 +95,7 @@ with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina 
 
 **4. Induced subgraphs and tree decompositions\
 IX. Grid Theorem for perforated graphs** [<a href='https://arxiv.org/pdf/2305.15615.pdf'>arXiv (2023)</a>]\
-in Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
+with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 **3. Induced subgraphs and tree decompositions\
 VI. Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXiv (2022)</a>]\
