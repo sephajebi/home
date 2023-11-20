@@ -43,23 +43,23 @@ with Ramin Javadi.
 
 _Accepted or in revision:_
 
-**16. Induced subgraphs and tree decompositions\
-VIII. Excluding a forest in (theta, prism)-free graphs**\
-[Combinatorica (in revision) -- <a href='https://arxiv.org/pdf/2301.02138.pdf'>arXiv (2023)</a>]\
-with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
+**16. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
+[J. Comb. Theory Ser. B (accepted) -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]\
+with Yanjia Li and Sophie Spirkl.
 
-**15. Induced subgraphs and tree decompositions\
+**15. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
+[SIAM J. Discrete Math (accepted) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
+with Yanjia Li and Sophie Spirkl.
+
+**14. Induced subgraphs and tree decompositions\
 V. One neighbor in a hole**\
 [J. Graph Theory (accepted) -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
 
-**14. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
-[J. Comb. Theory Ser. B (in revision) -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]\
-with Yanjia Li and Sophie Spirkl.
-
-**13. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
-[SIAM J. Discrete Math (accepted) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
-with Yanjia Li and Sophie Spirkl.
+**13. Induced subgraphs and tree decompositions\
+VIII. Excluding a forest in (theta, prism)-free graphs**\
+[Combinatorica (in revision) -- <a href='https://arxiv.org/pdf/2301.02138.pdf'>arXiv (2023)</a>]\
+with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 
 _Submitted:_
