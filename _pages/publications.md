@@ -20,41 +20,41 @@ II. Toward walls and their line graphs in graphs of bounded degree**\
 with Tara Abrishami, Maria Chudnovsky, Cemil Dibek, Pawel Rzazewski, Sophie Spirkl and Kristina Vuskovic.
 
 **21. Induced subgraphs and tree decompositions\
+V. One neighbor in a hole**\
+[<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'> J. Graph Theory (2023) </a> -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]\
+with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
+
+**20. Induced subgraphs and tree decompositions\
 IV. (Even hole, diamond, pyramid)-free graphs**\
 [<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/p30i2p42'> Electron. J. Comb. 30(2) (2023)</a> -- <a href='https://arxiv.org/pdf/2203.06775.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Maria Chudnovsky and Sophie Spirkl.
 
-**20. Induced subgraphs and tree decompositions\
+**19. Induced subgraphs and tree decompositions\
 III. Three-path-configurations and logarithmic treewidth**\
 [<a href='https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth'>Adv. Comb. (6) (2022)</a> -- <a href='https://arxiv.org/pdf/2109.01310v1.pdf'>arXiv (2021)</a>]\
 with Tara Abrishami, Maria Chudnovsky and Sophie Spirkl.
 
-**19. Complexity dichotomy for List-5-Coloring with a forbidden induced subgraph**\
+**18. Complexity dichotomy for List-5-Coloring with a forbidden induced subgraph**\
 [<a href='https://epubs.siam.org/doi/abs/10.1137/21M1443352'>SIAM J. Discrete Math 256(6) (2022)</a> -- <a href='https://arxiv.org/pdf/2105.01787.pdf'>arXiv (2021)</a>]\
 with Yanjia Li and Sophie Spirkl.
 
-**18. Minimal induced subgraphs of two classes of 2-connected non-Hamiltonian graphs**\
+**17. Minimal induced subgraphs of two classes of 2-connected non-Hamiltonian graphs**\
 [<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?dgcid=coauthor'>Discrete Math. 345(7) (2022)</a> -- <a href='https://arxiv.org/pdf/2108.13558.pdf'>arXiv (2021)</a>]\
 with Joseph Cheriyan, Zishen Qu and Sophie Spirkl.
 
-**17. Edge clique cover of claw-free graphs**\
+**16. Edge clique cover of claw-free graphs**\
 [<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'>J. Graph Theory  90(3) (2019)</a> -- <a href='https://arxiv.org/pdf/1608.07723.pdf'>arXiv (2016)</a>]\
 with Ramin Javadi.
 
 _Accepted or in revision:_
 
-**16. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
+**15. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
 [J. Comb. Theory Ser. B (accepted) -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]\
 with Yanjia Li and Sophie Spirkl.
 
-**15. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
+**14. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
 [SIAM J. Discrete Math (accepted) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
 with Yanjia Li and Sophie Spirkl.
-
-**14. Induced subgraphs and tree decompositions\
-V. One neighbor in a hole**\
-[J. Graph Theory (accepted) -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]\
-with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
 
 **13. Induced subgraphs and tree decompositions\
 VIII. Excluding a forest in (theta, prism)-free graphs**\
