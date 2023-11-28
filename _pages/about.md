@@ -29,10 +29,13 @@ I am also interested in a few other areas including algebraic and geometric topo
 <a href='mailto:sepehr.hajebi@gmail.com'><i class="fas fa-envelope"></i> sepehr.hajebi@gmail.com</a> (personal)\
 <a href='https://arxiv.org/a/hajebi_s_1.html'><i class="fas fa-face-smile"></i> arXiv</a>\
 <a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'><i class="ai ai-google-scholar"></i> Google Scholar</a>\
-<a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> CV</a>\
+<a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> CV</a>
+
+<p
 \
-\
-\
-<p style="font-family: 'Chalkduster', sans-serif; font-size:10pt; font-style:italic">
+  \
+  \
+  \
+  style="font-family: 'Chalkduster', sans-serif; font-size:10pt; font-style:italic">
 "... Imagine a lifetime of this struggle… always probing and rejecting, and this constant dedication to perfection, to the principle of inevitability. Somehow this is the key, the only key we can have to the mystery of a great artist, that for reasons unknown to him, or to anybody else for that matter, he will give away his life and his energies just to make sure that one note follows the other with complete inevitability. Seems rather an odd way to spend one’s life. But it isn’t so odd when we think that the composer by doing this leaves us at the finish with the feeling that something is right in the world, that checks throughout, something that follows its own law consistently, something we can trust, that will never let us down." </p>
 <p style="font-family: 'Chalkduster', sans-serif; font-size:10pt"> Leonard Bernstein </p>
