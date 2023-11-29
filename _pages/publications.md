@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-_Published:_
+_Published (9):_
 
 **23. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
 [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>J. Comb. Theory Ser. B. 165 (2024) </a> -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]\
@@ -50,7 +50,7 @@ with Joseph Cheriyan, Zishen Qu and Sophie Spirkl.
 [<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'>J. Graph Theory  90(3) (2019)</a> -- <a href='https://arxiv.org/pdf/1608.07723.pdf'>arXiv (2016)</a>]\
 with Ramin Javadi.
 
-_Accepted or in revision:_
+_Accepted or in revision (2):_
 
 **14. List-3-Coloring ordered graphs with a forbidden induced subgraph**\
 [SIAM J. Discrete Math (accepted) -- <a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]\
@@ -62,7 +62,7 @@ VIII. Excluding a forest in (theta, prism)-free graphs**\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 
-_Submitted:_
+_Submitted (10):_
 
 **12. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)** [<a href='https://arxiv.org/pdf/2311.05713.pdf'>arXiv (2023)</a>]\
 with Maria Chudnovsky and Sophie Spirkl.
@@ -101,7 +101,7 @@ with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 VI. Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Maria Chudnovsky and Sophie Spirkl.
 
-_Upcoming:_
+_Upcoming (2):_
 
 **2. Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth**\
 solo paper.
