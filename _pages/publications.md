@@ -101,7 +101,7 @@ with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 VI. Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Maria Chudnovsky and Sophie Spirkl.
 
-_Upcoming (2):_
+_Upcoming (3):_
 
 **3. Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth**\
 solo paper.
