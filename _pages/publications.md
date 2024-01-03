@@ -62,49 +62,49 @@ VIII. Excluding a forest in (theta, prism)-free graphs**\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
 
-_Submitted (10):_
+_Submitted (11):_
 
-**13. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)** [<a href='https://arxiv.org/pdf/2311.05713.pdf'>arXiv (2023)</a>]\
+**13. Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth** [<a href='https://arxiv.org/pdf/2401.01299.pdf'>arXiv (2024)</a>]\
+solo paper.
+
+**12. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)** [<a href='https://arxiv.org/pdf/2311.05713.pdf'>arXiv (2023)</a>]\
 with Maria Chudnovsky and Sophie Spirkl.
 
-**12. Induced subgraphs and tree decompositions\
+**11. Induced subgraphs and tree decompositions\
 XIV. Non-adjacent neighbors in a hole** [<a href='https://arxiv.org/pdf/2311.05719.pdf'>arXiv (2023)</a>]\
 with Maria Chudnovsky and Sophie Spirkl. 
 
-**11. Induced subgraphs and tree decompositions\
+**10. Induced subgraphs and tree decompositions\
 XIII. Basic obstructions in \\(\mathcal{H}\\)-free graphs for finite \\(\mathcal{H}\\)** [<a href='https://arxiv.org/pdf/2311.05066.pdf'>arXiv (2023)</a>]\
 with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**10. Induced subgraphs and tree decompositions\
+**9. Induced subgraphs and tree decompositions\
 XII. Grid Theorem for pinched graphs** [<a href='https://arxiv.org/pdf/2309.12227.pdf'>arXiv (2023)</a>]\
 with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**9. Induced subgraphs and tree decompositions\
+**8. Induced subgraphs and tree decompositions\
 XI. Local structure for even-hole-free graphs of large treewidth** [<a href='https://arxiv.org/pdf/2309.04390.pdf'>arXiv (2023)</a>]\
 with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**8. Induced subdivisions with pinned branch vertices** [<a href='https://arxiv.org/pdf/2308.01502.pdf'>arXiv (2023)</a>]\
+**7. Induced subdivisions with pinned branch vertices** [<a href='https://arxiv.org/pdf/2308.01502.pdf'>arXiv (2023)</a>]\
 solo paper.
 
-**7. Induced subgraphs and tree decompositions\
+**6. Induced subgraphs and tree decompositions\
 X. Towards logarithmic treewidth for even-hole-free graphs** [<a href='https://arxiv.org/pdf/2307.13684.pdf'>arXiv (2023)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**6. Tree independence number for (even hole, diamond, pyramid)-free graphs** [<a href='https://arxiv.org/pdf/2305.16258.pdf'>arXiv (2023)</a>]\
+**5. Tree independence number for (even hole, diamond, pyramid)-free graphs** [<a href='https://arxiv.org/pdf/2305.16258.pdf'>arXiv (2023)</a>]\
 with Tara Abrishami, Bogdan Alecu, Maria Chudnovsky, Sophie Spirkl and Kristina Vuskovic.
 
-**5. Induced subgraphs and tree decompositions\
+**4. Induced subgraphs and tree decompositions\
 IX. Grid Theorem for perforated graphs** [<a href='https://arxiv.org/pdf/2305.15615.pdf'>arXiv (2023)</a>]\
 with Bogdan Alecu, Maria Chudnovsky and Sophie Spirkl.
 
-**4. Induced subgraphs and tree decompositions\
+**3. Induced subgraphs and tree decompositions\
 VI. Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXiv (2022)</a>]\
 with Tara Abrishami, Maria Chudnovsky and Sophie Spirkl.
 
-_Upcoming (3):_
-
-**3. Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth**\
-solo paper.
+_Upcoming (2):_
 
 **2. Induced subgraphs and tree decompositions\
 XV. Even-hole-free graphs have logarithmic treewidth**\
