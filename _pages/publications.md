@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
->_Treewidth and tree decompositions_
+>_Treewidth (and allies)_
 
 
 
