@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
->_Treewidth (and allies)_
+> Treewidth (and allies)
 
 
 
@@ -64,7 +64,7 @@ II. Toward walls and their line graphs in graphs of bounded degree**\
 [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>JCTB 164 (2024) </a> -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]
 
 
-> _Complexity of coloring in hereditary classes_
+> Complexity of coloring in hereditary classes
 
 **3. List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)** [<a href='https://arxiv.org/pdf/2311.05713.pdf'>arXiv (2023)</a>]
 
@@ -74,7 +74,7 @@ II. Toward walls and their line graphs in graphs of bounded degree**\
 [<a href='https://epubs.siam.org/doi/abs/10.1137/21M1443352'>SIDMA 256(6) (2022)</a> -- <a href='https://arxiv.org/pdf/2105.01787.pdf'>arXiv (2021)</a>]
 
 
-> _Miscellaneous_
+> Miscellaneous
 
 **4. Induced subdivisions with pinned branch vertices** [<a href='https://arxiv.org/pdf/2308.01502.pdf'>arXiv (2023)</a>]
 
