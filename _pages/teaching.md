@@ -7,9 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-_TA at University of Waterloo:_
-
-
+> TA at University of Waterloo
 
 1. **CO342 Graph Theory** (Spring 2023)
 2. **MATH138 Calculus II for honors of mathematics** (Winter 2023)
@@ -25,7 +23,7 @@ _TA at University of Waterloo:_
 
     
 
-_TA at Isfahan University of Technology:_
+> TA at Isfahan University of Technology
 
 1. **Computational complexity (graduate)** (2019)
 2. **Elements of matrics and linear algebra** (2018)
