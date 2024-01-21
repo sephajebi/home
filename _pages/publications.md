@@ -47,13 +47,13 @@ VI. Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXi
 
 **5. Induced subgraphs and tree decompositions\
 V. One neighbor in a hole**\
-[<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'> JGT (2023) </a> -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]
+[<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'>JGT (2023) </a> -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]
 
 **4. Tree independence number for (even hole, diamond, pyramid)-free graphs** [<a href='https://arxiv.org/pdf/2305.16258.pdf'>arXiv (2023)</a>]
 
 **3. Induced subgraphs and tree decompositions\
 IV. (Even hole, diamond, pyramid)-free graphs**\
-[<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/p30i2p42'> Electron. J. Comb. 30(2) (2023)</a> -- <a href='https://arxiv.org/pdf/2203.06775.pdf'>arXiv (2022)</a>]
+[<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/p30i2p42'>Electron. J. Comb. 30(2) (2023)</a> -- <a href='https://arxiv.org/pdf/2203.06775.pdf'>arXiv (2022)</a>]
 
 **2. Induced subgraphs and tree decompositions\
 III. Three-path-configurations and logarithmic treewidth**\
@@ -61,7 +61,7 @@ III. Three-path-configurations and logarithmic treewidth**\
 
 **1. Induced subgraphs and tree decompositions\
 II. Toward walls and their line graphs in graphs of bounded degree**\
-[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'> JCTB 164 (2024) </a> -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]
+[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>JCTB 164 (2024) </a> -- <a href='https://arxiv.org/pdf/2108.01162.pdf'>arXiv (2021)</a>]
 
 
 > _Complexity of coloring in hereditary classes_
@@ -71,7 +71,7 @@ II. Toward walls and their line graphs in graphs of bounded degree**\
 **2. List-3-Coloring ordered graphs with a forbidden induced subgraph** [<a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]
 
 **1. Complexity dichotomy for List-5-Coloring with a forbidden induced subgraph**\
-[<a href='https://epubs.siam.org/doi/abs/10.1137/21M1443352'> SIDMA 256(6) (2022)</a> -- <a href='https://arxiv.org/pdf/2105.01787.pdf'>arXiv (2021)</a>]
+[<a href='https://epubs.siam.org/doi/abs/10.1137/21M1443352'>SIDMA 256(6) (2022)</a> -- <a href='https://arxiv.org/pdf/2105.01787.pdf'>arXiv (2021)</a>]
 
 
 > _Miscellaneous_
@@ -79,10 +79,10 @@ II. Toward walls and their line graphs in graphs of bounded degree**\
 **4. Induced subdivisions with pinned branch vertices** [<a href='https://arxiv.org/pdf/2308.01502.pdf'>arXiv (2023)</a>]
 
 **3. Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
-[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'> JCTB 165 (2024) </a> -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]
+[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>JCTB 165 (2024) </a> -- <a href='https://arxiv.org/pdf/2302.04986.pdf'>arXiv (2023)</a>]
 
 **2. Minimal induced subgraphs of two classes of 2-connected non-Hamiltonian graphs**\
-[<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?dgcid=coauthor'> Discrete Math. 345(7) (2022)</a> -- <a href='https://arxiv.org/pdf/2108.13558.pdf'>arXiv (2021)</a>]
+[<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?dgcid=coauthor'>Discrete Math. 345(7) (2022)</a> -- <a href='https://arxiv.org/pdf/2108.13558.pdf'>arXiv (2021)</a>]
 
 **1. Edge clique cover of claw-free graphs**\
-[<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'> JGT 90(3) (2019)</a> -- <a href='https://arxiv.org/pdf/1608.07723.pdf'>arXiv (2016)</a>]
+[<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'>JGT 90(3) (2019)</a> -- <a href='https://arxiv.org/pdf/1608.07723.pdf'>arXiv (2016)</a>]
