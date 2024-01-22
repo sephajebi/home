@@ -6,13 +6,11 @@ nav: true
 nav_order: 1
 ---
 
-My list of publications can be found
-<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> here</a> <br /> .
+The list of my publications can be found
+<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"></i> here</a> <br />
+.
 
 > Treewidth (and allies)
-
-
-
 
 **15. Induced subgraphs and tree decompositions\
 XIV. Non-adjacent neighbors in a hole** [<a href='https://arxiv.org/pdf/2311.05719.pdf'>arXiv (2023)</a>]
