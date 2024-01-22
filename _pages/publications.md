@@ -34,8 +34,7 @@ X. Towards logarithmic treewidth for even-hole-free graphs** [<a href='https://a
 IX. Grid Theorem for perforated graphs** [<a href='https://arxiv.org/pdf/2305.15615.pdf'>arXiv (2023)</a>]
 
 **8. Induced subgraphs and tree decompositions\
-VIII. Excluding a forest in (theta, prism)-free graphs**\
-[<a href='https://arxiv.org/pdf/2301.02138.pdf'>arXiv (2023)</a>]
+VIII. Excluding a forest in (theta, prism)-free graphs** [<a href='https://arxiv.org/pdf/2301.02138.pdf'>arXiv (2023)</a>]
 
 
 **7. Induced subgraphs and tree decompositions\
