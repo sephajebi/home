@@ -7,8 +7,7 @@ nav_order: 1
 ---
 
 The list of my publications can be found
-<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"></i> here</a> <br />
-.
+<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> here.</a> <br />
 
 > Treewidth (and allies)
 
