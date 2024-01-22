@@ -6,8 +6,10 @@ nav: true
 nav_order: 1
 ---
 
-The list of my publications can be found
-<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> here.</a> <br />
+
+Here is my <a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> list of publications </a> in the reverse chronological order with details such as my coauthors and the publication status.
+
+These are my papers grouped according to their subject:
 
 > Treewidth (and allies)
 
