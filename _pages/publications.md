@@ -6,6 +6,9 @@ nav: true
 nav_order: 1
 ---
 
+My list of publications can be found
+<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> here</a> <br /> .
+
 > Treewidth (and allies)
 
 
