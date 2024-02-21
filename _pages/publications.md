@@ -50,7 +50,8 @@ VI. Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXi
 V. One neighbor in a hole**\
 [<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'>JGT (2023) </a> -- <a href='https://arxiv.org/pdf/2205.04420.pdf'>arXiv (2022)</a>]
 
-**Tree independence number for (even hole, diamond, pyramid)-free graphs** [<a href='https://arxiv.org/pdf/2305.16258.pdf'>arXiv (2023)</a>]
+**Tree independence number\
+I. (Even hole, diamond, pyramid)-free graphs** [<a href='https://arxiv.org/pdf/2305.16258.pdf'>arXiv (2023)</a>]
 
 **Induced subgraphs and tree decompositions\
 IV. (Even hole, diamond, pyramid)-free graphs**\
