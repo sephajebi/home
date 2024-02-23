@@ -7,11 +7,15 @@ nav_order: 1
 ---
 
 
-**<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">Here</a>** is a list of my (total of 22) papers in the reverse chronological order, with details such as my coauthors and the publication status.
+**<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">Here</a>** is a list of my (total of 23) papers in the reverse chronological order, with details such as my coauthors and the publication status.
 
 I have also grouped my papers according to their subjects:
 
 > Treewidth (and allies)
+
+
+**Induced subgraphs and tree decompositions\
+XV. Even-hole-free graphs of bounded clique number have logarithmic treewidth** [<a href='https://arxiv.org/pdf/2402.14211.pdf'>arXiv (2024)</a>]
 
 **Induced subgraphs and tree decompositions\
 XIV. Non-adjacent neighbors in a hole** [<a href='https://arxiv.org/pdf/2311.05719.pdf'>arXiv (2023)</a>]
