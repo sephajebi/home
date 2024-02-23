@@ -9,7 +9,7 @@ nav_order: 2
 
 
 
-1. (Upcoming) **Treewidth, Erdos-Posa and induced subgraphs** [virtual]\
+1. **Treewidth, Erdos-Posa and induced subgraphs** [virtual]\
    New York Combinatorics Seminar (Feb 23, 2024)
 
 2. **Several Gyarfas-Sumner-type results for treewidth**\
