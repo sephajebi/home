@@ -69,7 +69,7 @@ I. (Even hole, diamond, pyramid)-free graphs**\
 
 **Induced subgraphs and tree decompositions\
 IV. (Even hole, diamond, pyramid)-free graphs**\
-[<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/p30i2p42'>Electron. J. Comb. 30(2) (2023)</a> -- <a href='https://arxiv.org/pdf/2203.06775.pdf'>arXiv (2022)</a>]
+[<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42'>Electron. J. Comb. 30(2) (2023)</a> -- <a href='https://arxiv.org/pdf/2203.06775.pdf'>arXiv (2022)</a>]
 
 **Induced subgraphs and tree decompositions\
 III. Three-path-configurations and logarithmic treewidth**\
