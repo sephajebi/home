@@ -70,7 +70,7 @@ II. Toward walls and their line graphs in graphs of bounded degree**\
 
 **List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)** [<a href='https://arxiv.org/pdf/2311.05713.pdf'>arXiv (2023)</a>]
 
-**List-3-Coloring ordered graphs with a forbidden induced subgraph** [<a href='https://arxiv.org/pdf/2206.06543.pdf'>arXiv (2022)</a>]
+**List-3-Coloring ordered graphs with a forbidden induced subgraph** [<a href='https://epubs.siam.org/doi/10.1137/22M1515768'>SIDMA 38(1) (2024)</a>]
 
 **Complexity dichotomy for List-5-Coloring with a forbidden induced subgraph** [<a href='https://epubs.siam.org/doi/abs/10.1137/21M1443352'>SIDMA 256(6) (2022)</a>]
 
