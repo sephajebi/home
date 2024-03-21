@@ -40,7 +40,7 @@ IX. Grid Theorem for perforated graphs** [<a href='https://arxiv.org/pdf/2305.15
 VIII. Excluding a forest in (theta, prism)-free graphs** [<a href='https://arxiv.org/pdf/2301.02138.pdf'>arXiv (2023)</a>]
 
 **Induced subgraphs and tree decompositions\
-VII. Basic obstructions in \\(H\\)-free graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'>JCT B. 164 (2024) </a>]
+VII. Basic obstructions in \\(H\\)-free graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'>JCT B. 164 (2024)</a>]
 
 
 **Induced subgraphs and tree decompositions\
@@ -48,7 +48,7 @@ VI. Graphs with 2-cutsets** [<a href='https://arxiv.org/pdf/2207.05538.pdf'>arXi
 
 
 **Induced subgraphs and tree decompositions\
-V. One neighbor in a hole** [<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'>JGT (2023) </a>]
+V. One neighbor in a hole** [<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'>JGT (2023)</a>]
 
 **Tree independence number\
 I. (Even hole, diamond, pyramid)-free graphs** [<a href='https://arxiv.org/pdf/2305.16258.pdf'>arXiv (2023)</a>]
@@ -63,7 +63,7 @@ III. Three-path-configurations and logarithmic treewidth**\
 
 **Induced subgraphs and tree decompositions\
 II. Toward walls and their line graphs in graphs of bounded degree**\
-[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>JCTB 164 (2024) </a>]
+[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>JCTB 164 (2024)</a>]
 
 
 > Complexity of coloring in hereditary classes
@@ -79,7 +79,7 @@ II. Toward walls and their line graphs in graphs of bounded degree**\
 
 **Induced subdivisions with pinned branch vertices** [<a href='https://arxiv.org/pdf/2308.01502.pdf'>arXiv (2023)</a>]
 
-**Hitting all maximum stable sets in \\(P\_5\\)-free graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>JCTB 165 (2024) </a>]
+**Hitting all maximum stable sets in \\(P\_5\\)-free graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>JCTB 165 (2024)</a>]
 
 **Minimal induced subgraphs of two classes of 2-connected non-Hamiltonian graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?dgcid=coauthor'>Discrete Math. 345(7) (2022)</a>]
 
