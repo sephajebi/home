@@ -58,12 +58,10 @@ I. (Even hole, diamond, pyramid)-free graphs** [<a href='https://arxiv.org/pdf/2
 IV. (Even hole, diamond, pyramid)-free graphs** [<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42'>Electron. J. Comb. 30(2) (2023)</a>]
 
 **Induced subgraphs and tree decompositions\
-III. Three-path-configurations and logarithmic treewidth**\
-[<a href='https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth'>Adv. Comb. (6) (2022)</a>]
+III. Three-path-configurations and logarithmic treewidth** [<a href='https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth'>Adv. Comb. (6) (2022)</a>]
 
 **Induced subgraphs and tree decompositions\
-II. Toward walls and their line graphs in graphs of bounded degree**\
-[<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>JCTB 164 (2024)</a>]
+II. Toward walls and their line graphs in graphs of bounded degree** [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>JCTB 164 (2024)</a>]
 
 
 > Complexity of coloring in hereditary classes
