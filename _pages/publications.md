@@ -79,6 +79,6 @@ II. Toward walls and their line graphs in graphs of bounded degree** [<a href='h
 
 **Hitting all maximum stable sets in \\(P\_5\\)-free graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>JCTB 165 (2024)</a>]
 
-**Minimal induced subgraphs of two classes of 2-connected non-Hamiltonian graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?dgcid=coauthor'>Discrete Math. 345(7) (2022)</a>]
+**Minimal induced subgraphs in two classes of non-Hamiltonian graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?dgcid=coauthor'>Discrete Math. 345(7) (2022)</a>]
 
 **Edge clique cover of claw-free graphs** [<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'>JGT 90(3) (2019)</a>]
