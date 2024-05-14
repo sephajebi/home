@@ -70,7 +70,7 @@ II. Three-path-configurations** [<a href='https://arxiv.org/pdf/2405.00265'>arXi
 
 > Complexity of coloring in hereditary classes
 
-**List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)** [<a href='https://arxiv.org/pdf/2311.05713.pdf'>arXiv (2023)</a>]
+**List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)** [<a href='https://link.springer.com/article/10.1007/s00493-024-00106-2?utm_source=rct_congratemailt'>Combinatorica (2024)</a>]
 
 **List-3-Coloring ordered graphs with a forbidden induced subgraph** [<a href='https://epubs.siam.org/doi/10.1137/22M1515768'>SIDMA 38(1) (2024)</a>]
 
