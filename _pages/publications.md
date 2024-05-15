@@ -57,7 +57,7 @@ XIV. Non-adjacent neighbors in a hole** [<a href='https://arxiv.org/pdf/2311.057
 **Induced subgraphs and tree decompositions\
 XV. Even-hole-free graphs of bounded clique number have logarithmic treewidth** [<a href='https://arxiv.org/pdf/2402.14211.pdf'>arXiv (2024)</a>]
 
-> Tree independence number
+> Tree-\\(\alpha\\)
 
 **Tree independence number\
 I. (Even hole, diamond, pyramid)-free graphs** [<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.23104'>JGT (2024)</a>]
