@@ -51,6 +51,6 @@ I. (Even hole, diamond, pyramid)-free graphs** [<a href='https://onlinelibrary.w
 
 **Hitting all maximum stable sets in \\(P\_5\\)-free graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>Journal of Combinatorial Theory, Series B (2024)</a>]
 
-**Minimal induced subgraphs in two classes of non-Hamiltonian graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?dgcid=coauthor'>Discrete Mathematics 345(7) (2022)</a>]
+**Minimal induced subgraphs in two classes of non-Hamiltonian graphs** [<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?dgcid=coauthor'>Discrete Mathematics (2022)</a>]
 
 **Edge clique cover of claw-free graphs** [<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'>Journal of Graph Theory (2019)</a>]
