@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-**<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">Here</a>** is a list of my (total of 24) papers in the reverse chronological order, with details such as my coauthors and the publication status.
+**<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">Here</a>** is a list of my (total of 24) papers in reverse chronological order, with details such as my coauthors and the publication status.
 
 I have also grouped my <ins>published</ins> articles according to their subjects:
 
