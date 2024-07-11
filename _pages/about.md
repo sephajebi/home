@@ -7,7 +7,7 @@ profile:
   align: right
   image: sepehr_hajebi_profile.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
+  more_info:
     <center> <p font-size:8pt">
     This is me and Atlas (2023) </p> </center>
     
