@@ -8,7 +8,7 @@ profile:
   image: sepehr_hajebi_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <center> <p font-size:10pt">
+    <center> <p font-size:8pt">
     This is me and Atlas (2023) </p> </center>
     
 
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Combinatorics and Optimization at University of Waterloo, working with <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>.\
+I am a PhD student in Combinatorics and Optimization at the University of Waterloo, working with <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>.\
 I expect to graduate in Spring 2024.
 
 Currently I study structural combinatorics, mostly induced subgraphs and graph minors, and sometimes algorithms.\
