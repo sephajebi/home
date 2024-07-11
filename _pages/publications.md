@@ -7,9 +7,9 @@ nav_order: 1
 ---
 
 
-**<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">Here</a>** is a list of my (total of 24) papers in reverse chronological order, with details such as my coauthors and the publication status.
+**<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">Here</a>** is a list of my (total of 24) publications in reverse chronological order, with details such as my coauthors and the submission status.
 
-See below my published papers grouped by subject:
+See below my published works grouped by subject:
 
 > Treewidth
 
