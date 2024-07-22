@@ -11,7 +11,9 @@ nav_order: 1
 
 See below my published works grouped by subject:
 
-> Treewidth
+<details>
+  <summary><b>Treewidth</b></summary>
+  <br />
 
 **Induced subgraphs and tree decompositions\
 VIII. Excluding a forest in (theta, prism)-free graphs**\
@@ -36,16 +38,27 @@ III. Three-path-configurations and logarithmic treewidth**\
 **Induced subgraphs and tree decompositions\
 II. Toward walls and their line graphs in graphs of bounded degree**\
 [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'>Journal of Combinatorial Theory, Series B (2024)</a>]
+  
+</details>
 
 
-> Tree-\\(\alpha\\)
 
+<details>
+  <summary><b>Tree-\\(\alpha\\)</b></summary>
+  <br />
+  
 **Tree independence number\
 I. (Even hole, diamond, pyramid)-free graphs**\
 [<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.23104'>Journal of Graph Theory (2024)</a>]
 
+</details>
 
-> Complexity of coloring in hereditary classes
+
+
+<details>
+  <summary><b>Complexity of coloring in hereditary classes</b></summary>
+  <br />
+
 
 **List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)**\
 [<a href='https://link.springer.com/article/10.1007/s00493-024-00106-2'>Combinatorica (2024)</a>]
@@ -56,8 +69,14 @@ I. (Even hole, diamond, pyramid)-free graphs**\
 **Complexity dichotomy for List-5-Coloring with a forbidden induced subgraph**\
 [<a href='https://epubs.siam.org/doi/abs/10.1137/21M1443352'>SIAM Journal on Discrete Mathematics (2022)</a>]
 
+</details>
 
-> Miscellaneous
+
+
+<details>
+  <summary><b>Miscellaneous</b></summary>
+  <br />
+
 
 **Hitting all maximum stable sets in \\(P\_5\\)-free graphs**\
 [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>Journal of Combinatorial Theory, Series B (2024)</a>]
@@ -67,3 +86,5 @@ I. (Even hole, diamond, pyramid)-free graphs**\
 
 **Edge clique cover of claw-free graphs**\
 [<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'>Journal of Graph Theory (2019)</a>]
+
+</details>
