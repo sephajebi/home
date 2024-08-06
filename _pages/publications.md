@@ -27,7 +27,7 @@ V. One neighbor in a hole**\
 
 **Induced subgraphs and tree decompositions\
 IV. (Even hole, diamond, pyramid)-free graphs**\
-[<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42'>Electronic Journal of Combinatorics (2023)</a>]
+[<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42/pdf'>Electronic Journal of Combinatorics (2023)</a>]
 
 **Induced subgraphs and tree decompositions\
 III. Three-path-configurations and logarithmic treewidth**\
