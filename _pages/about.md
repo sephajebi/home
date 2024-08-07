@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I completed my PhD in Combinatorics and Optimization from the University of Waterloo in August 2024. My Advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. My thesis is available <a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9ffc-58bd5950c99b'>here</a>.
+I completed my PhD in Combinatorics and Optimization at the University of Waterloo in August 2024. My Advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. My thesis is available <a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9ffc-58bd5950c99b'>here</a>.
 
 Currently I study structural combinatorics, mostly induced subgraphs and graph minors, and sometimes algorithms.\
 I am also interested in a few other areas including algebraic and geometric topology and analytic number theory.
