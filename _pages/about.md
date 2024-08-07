@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I completed my PhD in Combinatorics and Optimization at the University of Waterloo in August 2024.\
-My thesis was: _<a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9ffc-58bd5950c99b'>Foreshadowing the Grid Theorem for Induced Subgraphs</a>_.\
+My thesis was: _<a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9ffc-58bd5950c99b'>Foreshadowing the Grid Theorem for Induced Subgraphs</a>_ .\
 My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. 
 
 Currently my research is in structural combinatorics, mostly induced subgraphs and graph minors, and sometimes algorithms.\
