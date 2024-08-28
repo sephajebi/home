@@ -15,6 +15,14 @@ See below for some of my papers that I particularly like:
 [<a href='https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth'>Advances in Combinatorics (2022)</a>]\
 _with T. Abrishami, M. Chudnovsky and S. Spirkl._
 
+**List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)**\
+[<a href='https://link.springer.com/article/10.1007/s00493-024-00106-2'>Combinatorica (2024)</a>]\
+_with M. Chudnovsky and S. Spirkl._
+
+**Induced subgraphs and tree decompositions VIII. Excluding a forest in (theta, prism)-free graphs**\
+[<a href='https://link.springer.com/article/10.1007/s00493-024-00097-0'>Combinatorica (2024)</a>]
+_with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl._
+
 **Induced subgraphs and tree decompositions VII. Basic obstructions in \\(H\\)-free graphs**\
 [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'>Journal of Combinatorial Theory, Series B (2024)</a>]\
 _with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl._
@@ -27,14 +35,6 @@ _with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl and K. Vu
 [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>Journal of Combinatorial Theory, Series B (2024)</a>]\
 _with Y. Li and S. Spirkl._
 
-
-**List-\\(k\\)-Coloring \\(H\\)-free graphs for all \\(k>4\\)**\
-[<a href='https://link.springer.com/article/10.1007/s00493-024-00106-2'>Combinatorica (2024)</a>]\
-_with M. Chudnovsky and S. Spirkl._
-
-**Induced subgraphs and tree decompositions VIII. Excluding a forest in (theta, prism)-free graphs**\
-[<a href='https://link.springer.com/article/10.1007/s00493-024-00097-0'>Combinatorica (2024)</a>]
-_with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl._
 
 **Complexity dichotomy for List-5-Coloring with a forbidden induced subgraph**\
 [<a href='https://epubs.siam.org/doi/abs/10.1137/21M1443352'>SIAM Journal on Discrete Mathematics (2022)</a>]\
