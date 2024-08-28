@@ -25,7 +25,7 @@ My thesis was: _<a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9
 My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. 
 
 Currently my research is in structural combinatorics, mostly induced subgraphs and graph minors, and sometimes algorithms.\
-I am also interested in topology (especially algebraic) and number theory (especially analytic).
+I am also interested in topology, number theory and category theory.
 
 <a href='mailto:shajebi@princeton.edu'><i class="fas fa-envelope"></i> shajebi@princeton.edu</a> (current-ish)\
 <a href='mailto:shajebi@uwaterloo.ca'><i class="fas fa-envelope"></i> shajebi@uwaterloo.ca</a> (current)\
