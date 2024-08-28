@@ -20,7 +20,7 @@ _with T. Abrishami, M. Chudnovsky and S. Spirkl._
 _with M. Chudnovsky and S. Spirkl._
 
 **Induced subgraphs and tree decompositions VIII. Excluding a forest in (theta, prism)-free graphs**\
-[<a href='https://link.springer.com/article/10.1007/s00493-024-00097-0'>Combinatorica (2024)</a>]
+[<a href='https://link.springer.com/article/10.1007/s00493-024-00097-0'>Combinatorica (2024)</a>]\
 _with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl._
 
 **Induced subgraphs and tree decompositions VII. Basic obstructions in \\(H\\)-free graphs**\
