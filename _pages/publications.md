@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-Click **<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">here</a>** for a full list of my papers in reverse chronological order, with details such as my coauthors and the submission status.
+Click **<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">here</a>** for a full list of my papers.
 
 Here are some selected publications:
 
