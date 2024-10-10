@@ -6,7 +6,11 @@ nav: true
 nav_order: 1
 ---
 
-
+1. Foo
+1. Bar
+1. Baz
+{reversed="reversed"}
+    
 Click **<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">here</a>** for a full list of my papers.
 
 Here are some selected publications:
