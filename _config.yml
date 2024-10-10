@@ -52,6 +52,9 @@ max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
 
+markup:
+  defaultMarkdownHandler: goldmark
+
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
