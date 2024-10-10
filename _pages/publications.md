@@ -16,7 +16,7 @@ Here are some selected publications:
   <li> Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole <br/>
   <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'>Eur. J. Comb. (2024)</a>, <i> with M. Chudnovsky and S. Spirkl.</i></li>
     
-  <li> List-$k$-Coloring $H$-free graphs for all $$k>4$$ <br/>
+  <li> List-$k$-Coloring $H$-free graphs for all \(k>4\) <br/>
   <a href='https://link.springer.com/article/10.1007/s00493-024-00106-2'>Combinatorica (2024)</a>, <i> with M. Chudnovsky and S. Spirkl.</i></li>
 
  <li> Induced subgraphs and tree decompositions VIII. Excluding a forest in (theta, prism)-free graphs <br/>
