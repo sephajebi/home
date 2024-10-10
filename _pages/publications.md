@@ -17,7 +17,7 @@ Here are some selected publications:
   <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'>Eur. J. Comb. (2025)</a>, <em> with M. Chudnovsky and S. Spirkl.</em> </li>
 
 p {
-    padding-bottom: 3cm;
+    margin-bottom: 3cm;
 }
 
   <li> <b>Induced subdivisions with pinned branch vertices</b> <br/>
