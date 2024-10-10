@@ -19,14 +19,16 @@ Here are some selected publications:
   }
 </style>
 
-<p class="bottom-one"> > Preprints
+<p class="bottom-one">
+  > Preprints
 </p>
 
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs</b><br/>
   <a href='https://arxiv.org/abs/2305.15615'>arXiv (2023)</a>, <em> with B.  Alecu, M. Chudnovsky and S. Spirkl.</em> </li> </p>
 
 
-<p class="bottom-one"> > Published
+<p class="bottom-one">
+  > Published
 </p>
 
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole</b><br/>
