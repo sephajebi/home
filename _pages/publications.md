@@ -15,7 +15,7 @@ Here are some selected publications:
 
 <style>
   .bottom-three {
-     margin-bottom: 5mm;
+     margin-bottom: 1cm;
   }
 </style>
 
