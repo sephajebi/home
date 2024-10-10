@@ -14,13 +14,13 @@ Here are some selected publications:
 <ol reversed>
  
   <li> Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole <br/>
-  <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'>Eur. J. Comb. (2024)</a>, <em> with M. Chudnovsky and S. Spirkl.</em> </li>
+  <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'>Eur. J. Comb. (2025)</a>, <em> with M. Chudnovsky and S. Spirkl.</em> </li>
 
   <li> Induced subdivisions with pinned branch vertices <br/>
-  <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001574'>Eur. J. Comb. (2024)</a>.</li>
+  <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001574'>Eur. J. Comb. (2025)</a>.</li>
 
 <li> Induced subgraphs and tree decompositions VI. Graphs with \(2\)-cutsets <br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0012365X24003261'>Discrete Math. (2024)</a>, <em> with T. Abrishami, M. Chudnovsky and S. Spirkl. </em></li>
+<a href='https://www.sciencedirect.com/science/article/pii/S0012365X24003261'>Discrete Math. (2025)</a>, <em> with T. Abrishami, M. Chudnovsky and S. Spirkl. </em></li>
 
 <li> List-\(k\)-Coloring \(H\)-free graphs for all \(k>4\) <br/>
   <a href='https://link.springer.com/article/10.1007/s00493-024-00106-2'>Combinatorica (2024)</a>, <em> with M. Chudnovsky and S. Spirkl.</em></li>
