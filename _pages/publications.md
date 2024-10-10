@@ -13,8 +13,8 @@ Here are some selected publications:
 {{< rawhtml >}}
 <ol reversed>
  
-  <li> Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole <br/>
-  <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'>Eur. J. Comb. (2025)</a>, <em> with M. Chudnovsky and S. Spirkl.</em> </li>
+  <li> <b>Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole</b>, <em> with M. Chudnovsky and S. Spirkl</em>,
+  <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'>Eur. J. Comb. (2025)</a>. </li>
 
   <li> Induced subdivisions with pinned branch vertices <br/>
   <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001574'>Eur. J. Comb. (2025)</a>.</li>
