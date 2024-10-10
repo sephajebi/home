@@ -10,9 +10,6 @@ Click **<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}
 
 Here are some selected publications:
 
-<blockquote>
-  Preprints
-</blockquote>
 
 {{< rawhtml >}}
 <ol reversed>
@@ -30,9 +27,9 @@ Here are some selected publications:
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs</b><br/>
   <a href='https://arxiv.org/abs/2305.15615'>arXiv (2023)</a>, <em> with B.  Alecu, M. Chudnovsky and S. Spirkl.</em> </li> </p>
 
-<p class="bottom-one">
-  > Published
-</p>
+<blockquote>
+  Published
+</blockquote>
 
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole</b><br/>
   <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'>Eur. J. Comb. (2025)</a>, <em> with M. Chudnovsky and S. Spirkl.</em> </li> </p>
