@@ -6,10 +6,13 @@ nav: true
 nav_order: 1
 ---
 
-1. Foo
-1. Bar
-1. Baz
-{reversed="reversed"}
+{{< rawhtml >}}
+<ol reversed>
+  <li>Foo</li>
+  <li>Bar</li>
+  <li>Baz</li>
+</ol>
+{{< /rawhtml >}}
     
 Click **<a href="{{ 'Publications.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">here</a>** for a full list of my papers.
 
