@@ -61,7 +61,7 @@ Here are some selected publications:
  <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth</b> [<a href='[https://arxiv.org/abs/2402.14211](https://arxiv.org/abs/2401.01299)'>arXiv 2024</a>].</li> </p>
 
      
-  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstruction in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H})\</b> [<a href='https://arxiv.org/abs/2311.05066'>arXiv 2024</a>]<br/>
+  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstruction in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b> [<a href='https://arxiv.org/abs/2311.05066'>arXiv 2024</a>]<br/>
   <em> with  B.  Alecu, M. Chudnovsky and S. Spirkl.</em> </li> </p>
 
 
