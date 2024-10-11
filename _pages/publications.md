@@ -54,7 +54,7 @@ Here are some selected publications:
   <em> with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</em> </li> </p>
 
 
-   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs with bounded clique number have logarithmic treewidth</b> [<a href='https://arxiv.org/abs/2402.14211'>arXiv 2024</a>]<br/>
+   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth</b> [<a href='https://arxiv.org/abs/2402.14211'>arXiv 2024</a>]<br/>
   <em> with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</em> </li> </p>
  
 
