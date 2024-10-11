@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-**Anticomplete sets of large treewidth**\
+<b>Anticomplete sets of large treewidth</b>\
 BIRS Workshop on "New Perspectives in Coloring and Structure" (Oct 3, 2024)
 
 **Survey on induced subgraphs of graphs with large treewidth**\
