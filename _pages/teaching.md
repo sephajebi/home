@@ -25,9 +25,9 @@ nav_order: 3
 
 > TA at Isfahan University of Technology
 
-* <b>Computational complexity (graduate)</b> (2019)\
-* <b>Elements of matrics and linear algebra</b> (2018)\
-* <b>Applied Linear algebra for engineering</b> (2018)\
-* <b>Graph theory</b> (2016)\
-* <b>Graph theory (graduate)</b> (2014, 2017)\
+* <b>Computational complexity (graduate)</b> (2019)
+* <b>Elements of matrics and linear algebra</b> (2018)
+* <b>Applied Linear algebra for engineering</b> (2018)
+* <b>Graph theory</b> (2016)
+* <b>Graph theory (graduate)</b> (2014, 2017)
 * <b>Elements of combinatorics</b> (2014, 2016, 2017)
