@@ -9,15 +9,15 @@ nav_order: 3
 
 > TA at the University of Waterloo
 
-* <b>CO342 Graph theory</b> (Spring 2023)\
-* <b>MATH138 Calculus II for honors of mathematics</b> (Winter 2023)\
-* <b>MATH600 Mathematical software</b> (Fall 2022)\
-* <b>CO456 Game theory</b> (Fall 2022 and 2023)\
-* <b>CO380 Mathematical discovery and invention</b> (Spring 2022)\
-* <b>MATH239 Introduction to combinatorics</b> (Winter 2022)\
-* <b>CO255 Advanced optimization</b> (Winter 2022)\
-* <b>CO250 Introduction to optimization</b> (Fall 2021 and 2023; Winter 2023 and 2024, Spring 2024)\
-* <b>CO442/642 Graph theory (graduate)</b> (Fall 2021)\
+* <b>CO342 Graph theory</b> (Spring 2023)
+* <b>MATH138 Calculus II for honors of mathematics</b> (Winter 2023)
+* <b>MATH600 Mathematical software</b> (Fall 2022)
+* <b>CO456 Game theory</b> (Fall 2022 and 2023)
+* <b>CO380 Mathematical discovery and invention</b> (Spring 2022)
+* <b>MATH239 Introduction to combinatorics</b> (Winter 2022)
+* <b>CO255 Advanced optimization</b> (Winter 2022)
+* <b>CO250 Introduction to optimization</b> (Fall 2021 and 2023; Winter 2023 and 2024, Spring 2024)
+* <b>CO442/642 Graph theory (graduate)</b> (Fall 2021)
 * <b>CO351 Network-flow theory</b> (Spring 2021)
 
 
