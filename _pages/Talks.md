@@ -29,7 +29,7 @@ Barbados Graph Theory Workshop, Bellairs Research Institute (Dec 12, 2022)
 
 
 * <b>Holes, hubs, and bounded treewidth</b> [virtual]\
-IBS Virtual Discrete Math Colloquium, Daejeon, South Korea (July 7, 2022)
+IBS Discrete Math Colloquium, Daejeon, South Korea (July 7, 2022)
 
 
 * <b>Bounded treewidth in hereditary graph classes</b>\
