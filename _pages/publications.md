@@ -19,9 +19,6 @@ nav_order: 1
   Forthcoming
 </blockquote>
 
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors</b><br/>
-  <em> with  M. Chudnovsky and S. Spirkl.</em> </li> </p>
-
    <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth</b><br/>
   <em> with  M. Chudnovsky and S. Spirkl.</em> </li> </p>
 
@@ -37,6 +34,9 @@ nav_order: 1
 <blockquote>
   Preprints
 </blockquote>
+
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors</b> [<a href='https://arxiv.org/abs/2410.16495'>arXiv 2024</a>]<br/>
+  <em> with  M. Chudnovsky and S. Spirkl.</em> </li> </p>
 
    <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs</b> [<a href='https://arxiv.org/abs/2407.08927'>arXiv 2024</a>]<br/>
   <em> with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</em> </li> </p>
