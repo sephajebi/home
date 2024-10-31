@@ -16,24 +16,20 @@ nav_order: 1
 </style>
 
 <blockquote>
-  Forthcoming
-</blockquote>
-
-   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth</b><br/>
-  <em> with  M. Chudnovsky and S. Spirkl.</em> </li> </p>
-
-   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Excluding a forest </b><br/>
-  <em> with  M. Chudnovsky and S. Spirkl.</em> </li> </p>
-
-   <p class="bottom-one"> <li> <b>Critically \(H\)-free graphs</b> <br/>
-  <em> with  X. Fan, Sahab Hajebi and S. Spirkl.</em> </li> </p>
-
-   <p class="bottom-one"> <li> <b>Clique covers in graphs with stability number two</b> <br/>
-  <em> with  P. Seymour.</em> </li> </p>
-
-<blockquote>
   Preprints
 </blockquote>
+
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth</b> [manuscript 2024]<br/>
+  <em> with  M. Chudnovsky and S. Spirkl.</em> </li> </p>
+
+   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Excluding a forest </b> [manuscript 2024]<br/>
+  <em> with  M. Chudnovsky and S. Spirkl.</em> </li> </p>
+
+   <p class="bottom-one"> <li> <b>Critically \(H\)-free graphs</b> [manuscript 2024]<br/>
+  <em> with  X. Fan, Sahab Hajebi and S. Spirkl.</em> </li> </p>
+
+   <p class="bottom-one"> <li> <b>Clique covers in graphs with stability number two</b> [manuscript 2024]<br/>
+  <em> with  P. Seymour.</em> </li> </p>
 
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors</b> [<a href='https://arxiv.org/abs/2410.16495'>arXiv 2024</a>]<br/>
   <em> with  M. Chudnovsky and S. Spirkl.</em> </li> </p>
