@@ -28,8 +28,8 @@ My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spir
 Currently, my research is in structural combinatorics, mostly induced subgraphs and graph minors, and sometimes algorithms.\
 Broadly, I am also interested in topology, number theory and category theory.
 
-<a href='mailto:shajebi@princeton.edu'><i class="fas fa-envelope"></i> shajebi@princeton.edu</a> (current-ish)\
 <a href='mailto:shajebi@uwaterloo.ca'><i class="fas fa-envelope"></i> shajebi@uwaterloo.ca</a> (current)\
+<a href='mailto:shajebi@princeton.edu'><i class="fas fa-envelope"></i> shajebi@princeton.edu</a> (current-ish)\
 <a href='https://arxiv.org/a/hajebi_s_1.html'><i class="fas fa-face-smile"></i> arXiv</a>\
 <a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'><i class="ai ai-google-scholar"></i> Google Scholar</a>\
 <a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> CV</a> <br />
