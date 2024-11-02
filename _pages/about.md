@@ -29,7 +29,7 @@ Currently, my research is in structural combinatorics, mostly induced subgraphs 
 Broadly, I am also interested in topology, number theory and category theory.
 
 <a href='mailto:shajebi@uwaterloo.ca'><i class="fas fa-envelope"></i> shajebi@uwaterloo.ca</a> (current)\
-<a href='mailto:shajebi@princeton.edu'><i class="fas fa-envelope"></i> shajebi@princeton.edu</a> (current-ish)\
+<a href='mailto:shajebi@princeton.edu'><i class="fas fa-envelope"></i> shajebi@princeton.edu</a> (current-ish)
 
 [<a href='https://arxiv.org/a/hajebi_s_1.html'><i class="fas fa-face-smile"></i> arXiv</a>\]: #
 
