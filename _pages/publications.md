@@ -21,51 +21,51 @@ nav_order: 1
 
  
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Excluding a forest </b> [manuscript 2024]<br/>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Excluding a forest </b>, manuscript (2024)<br/>
  with  M. Chudnovsky and S. Spirkl.</li> </p>
 
   
-<p class="bottom-one"> <li> <b>Critically \(H\)-free graphs</b> [manuscript 2024]<br/>
+<p class="bottom-one"> <li> <b>Critically \(H\)-free graphs</b>, manuscript (2024)<br/>
 with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
 
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth</b> [manuscript 2024]<br/>
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth</b>, manuscript (2024)<br/>
  with  M. Chudnovsky and S. Spirkl.</li> </p>
 
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors</b> [<a href='https://arxiv.org/abs/2410.16495'>arXiv 2024</a>]<br/>
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors</b>, <a href='https://arxiv.org/abs/2410.16495'>arXiv (2024)</a>]<br/>
   with  M. Chudnovsky and S. Spirkl.</li> </p>
 
-   <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs</b> [<a href='https://arxiv.org/abs/2407.08927'>arXiv 2024</a>]<br/>
+   <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs</b>, <a href='https://arxiv.org/abs/2407.08927'>arXiv (2024)</a><br/>
 with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 
-   <p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b> [<a href='https://arxiv.org/abs/2406.13053'>arXiv 2024</a>]<br/>
+   <p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b>, <a href='https://arxiv.org/abs/2406.13053'>arXiv (2024)</a><br/>
  with  M. Chudnovsky and N. Trotignon.</li> </p>
 
 
-   <p class="bottom-one"> <li> <b>Tree independence number II. Three-path-configurations</b> [<a href='https://arxiv.org/abs/2405.00265'>arXiv 2024</a>]<br/>
+   <p class="bottom-one"> <li> <b>Tree independence number II. Three-path-configurations</b>, <a href='https://arxiv.org/abs/2405.00265'>arXiv (2024)</a>]<br/>
 with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
 
 
-   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth</b> [<a href='https://arxiv.org/abs/2402.14211'>arXiv 2024</a>]<br/>
+   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth</b> <a href='https://arxiv.org/abs/2402.14211'>arXiv (2024)</a><br/>
  with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
  
 
- <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth</b> [<a href='https://arxiv.org/abs/2401.01299'>arXiv 2024</a>]</li> </p>
+ <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth</b>, <a href='https://arxiv.org/abs/2401.01299'>arXiv (2024)</a></li> </p>
 
      
-  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstruction in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b> [<a href='https://arxiv.org/abs/2311.05066'>arXiv 2024</a>]<br/>
+  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstruction in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b>, <a href='https://arxiv.org/abs/2311.05066'>arXiv (2024)</a><br/>
  with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
 
-   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid Theorem for pinched graphs</b> [<a href='https://arxiv.org/abs/2309.12227'>arXiv 2024</a>]<br/>
+   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid Theorem for pinched graphs</b>, <a href='https://arxiv.org/abs/2309.12227'>arXiv (2024)</a><br/>
  with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
-  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth</b> [<a href='https://arxiv.org/abs/2309.04390'>arXiv 2024</a>]<br/>
+  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth</b>, <a href='https://arxiv.org/abs/2309.04390'>arXiv (2024)</a><br/>
   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
-  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions X. Towards logarithmic treewidth for even-hole-free graphs</b> [<a href='https://arxiv.org/abs/2307.13684'>arXiv 2024</a>]<br/>
+  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions X. Towards logarithmic treewidth for even-hole-free graphs</b>, <a href='https://arxiv.org/abs/2307.13684'>arXiv (2024)</a><br/>
  with  T. Abrishami, B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs</b> [<a href='https://arxiv.org/abs/2305.15615'>arXiv 2023</a>]<br/>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs</b>, <a href='https://arxiv.org/abs/2305.15615'>arXiv (2023)</a><br/>
  with B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
 <blockquote>
