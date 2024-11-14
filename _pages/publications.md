@@ -103,7 +103,7 @@ nav_order: 1
 <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>Journal of Combinatorial Theory, Series B (2024)</a><br/>
 <em> with Y. Li and S. Spirkl.</em></li></p>
 
-<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions VII. Basic obstructions in \(H\)-free graphs [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'>Journal of Combinatorial Theory, Series B (2024)</a>]</b><br/>
+<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions VII. Basic obstructions in \(H\)-free graphs</b>, <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'><b>Journal of Combinatorial Theory, Series B (2024)</b></a><br/>
 with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions II. Toward walls and their line graphs in graphs of bounded degree</b>,
