@@ -118,9 +118,9 @@ with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl and K. Vu�
 <a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42/pdf'>Electronic Journal of Combinatorics (2023)</a><br/>
 <em> with T. Abrishami, M. Chudnovsky and S. Spirkl. </em></li></p>
 
-<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions III. Three-path-configurations and logarithmic treewidth</b> <br/>
-<a href='https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth'>Advances in Combinatorics (2022)</a><br/>
-<em> with T. Abrishami, M. Chudnovsky and S. Spirkl.</em></li></p>
+<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions III. Three-path-configurations and logarithmic treewidth</b>,
+<a href='https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth'><b>Advances in Combinatorics (2022)</b></a><br/>
+with T. Abrishami, M. Chudnovsky and S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b> Complexity dichotomy for List-\(5\)-Coloring with a forbidden induced subgraph</b> <br/>
 <a href='https://epubs.siam.org/doi/10.1137/21M1443352'>SIAM Journal on Discrete Mathematics (2022)</a><br/>
