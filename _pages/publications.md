@@ -103,11 +103,11 @@ nav_order: 1
 <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'>Journal of Combinatorial Theory, Series B (2024)</a><br/>
 <em> with Y. Li and S. Spirkl.</em></li></p>
 
-<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions VII. Basic obstructions in \(H\)-free graphs</b> [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'><b>Journal of Combinatorial Theory, Series B (2024)</b></a>]<br/>
+<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions VII. Basic obstructions in \(H\)-free graphs [<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'>Journal of Combinatorial Theory, Series B (2024)</a>]</b><br/>
 with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions II. Toward walls and their line graphs in graphs of bounded degree</b>,
-<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'><b><em>Journal of Combinatorial Theory, Series B (2024)</em></b></a><br/>
+<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'><b>Journal of Combinatorial Theory, Series B (2024)</b></a><br/>
 with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl and K. Vušković.</li></p>
 
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions V. One neighbor in a hole</b> <br/>
