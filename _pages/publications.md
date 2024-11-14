@@ -109,7 +109,7 @@ with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl.</li></p>
 <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'><b>Journal of Combinatorial Theory, Series B (2024)</b></a><br/>
 with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl and K. Vušković.</li></p>
 
-<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions V. One neighbor in a hole</b>,
+<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions V. One neighbor in a hole</b><br/>
 <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'><b>Journal of Graph Theory (2023)</b></a><br/>
 with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p>
 
