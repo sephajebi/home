@@ -109,7 +109,7 @@ nav_order: 1
 
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions II. Toward walls and their line graphs in graphs of bounded degree</b>,
 <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'><b>Journal of Combinatorial Theory, Series B (2024)</b></a><br/>
-<em> with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl and K. Vušković.</em></li></p>
+with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl and K. Vušković.</li></p>
 
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions V. One neighbor in a hole</b> <br/>
 <a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'>Journal of Graph Theory (2023)</a><br/>
