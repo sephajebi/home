@@ -39,5 +39,5 @@ Broadly, I am also interested in topology, number theory and category theory.
 
 <p style="text-align: right; font-style:italic"> - Alexander Grothendieck</p> 
 
-"... It's the form. Well, form is the mold that can be made to be a very uninteresting factor. But in Beethoven's case, the form is all because it is a case of what note succeeds every other note, and it's alway the right next note."
+"... It's [all about] the form. Well, form is the mold that can be made to be a very uninteresting factor. But in Beethoven's case, the form is all because it is a case of what note succeeds every other note, and it's alway the right next note."
 <p style="text-align: right; font-style:italic"> - <a href='https://youtu.be/OuYY1gV8jhU?si=OeiWklrXZBgNcSIL&t=364'>Leonard Bernstein</a></p> 
