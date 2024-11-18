@@ -35,6 +35,9 @@ Broadly, I am also interested in topology, number theory and category theory.
 <br />
 <br />
 
+"If there is one thing in mathematics that fascinates me more than anything else (and doubtless always has), it is neither 'number' nor 'size,' but always form. And among the thousand and one faces whereby form chooses to reveal itself to us, the one that fascinates me more than any other and continues to fascinate me, is the structure hidden in mathematical things."
 
-"Imagine a lifetime of this struggle, always probing and rejecting, and this constant dedication to perfection, to the principle of inevitability. Somehow this is the key, the only key we can have to the mystery of a great artist, that for reasons unknown to him, or to anybody else for that matter, he will give away his life and his energies just to make sure that one note follows the other with complete inevitability. Seems rather an odd way to spend one’s life. But it isn’t so odd when we think that the composer by doing this leaves us at the finish with the feeling that something is right in the world, that checks throughout, something that follows its own law consistently, something we can trust, that will never let us down."
-<p style="text-align: right; font-style:italic"> - Leonard Bernstein </p> 
+<p style="text-align: right; font-style:italic"> - Alexander Grothendieck</p> 
+
+"... It's the form. Well, form is the mold that can be made to be a very uninteresting factor. But in Beethoven's case, the form is all because it is a case of what note succeeds every other note, and it's alway the right next note."
+<p style="text-align: right; font-style:italic"> - <a href='https://youtu.be/OuYY1gV8jhU?si=OeiWklrXZBgNcSIL&t=364'>Leonard Bernstein</a></p> 
