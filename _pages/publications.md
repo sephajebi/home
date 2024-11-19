@@ -26,10 +26,10 @@ nav_order: 1
 <p class="bottom-one"> <li> <b>Critically \(H\)-free graphs [manuscript 2024]</b><br/>
 with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
 
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth [<a href='https://arxiv.org/abs/2411.11842'>arXiv (2024)</a>]</b><br/>
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth [<a href='https://arxiv.org/abs/2411.11842'>arXiv 2024</a>]</b><br/>
  with  M. Chudnovsky and S. Spirkl.</li> </p>
 
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors [<a href='https://arxiv.org/abs/2410.16495'>arXiv (2024)</a>]</b><br/>
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors [<a href='https://arxiv.org/abs/2410.16495'>arXiv 2024</a>]</b><br/>
   with  M. Chudnovsky and S. Spirkl.</li> </p>
 
    <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs [<a href='https://arxiv.org/abs/2407.08927'>arXiv 2024</a>]</b><br/>
