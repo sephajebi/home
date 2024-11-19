@@ -19,8 +19,6 @@ nav_order: 1
   Preprints
 </blockquote>
 
- https://arxiv.org/abs/2411.11842
-
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Excluding a forest [manuscript 2024]</b><br/>
  with  M. Chudnovsky and S. Spirkl.</li> </p>
 
