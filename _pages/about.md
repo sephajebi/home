@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Fellow at the <a href='https://uwaterloo.ca'>University of Waterloo</a>, hosted by <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>.\
+I am a Postdoctoral Scholar at the <a href='https://uwaterloo.ca'>University of Waterloo</a>, hosted by <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>.\
 I will soon start as a Junior Faculty (Instructor) in the <a href='https://www.math.princeton.edu'>Department of Mathematics</a> at <a href='https://www.princeton.edu'>Princeton University</a>.
 
 I completed my PhD in <a href='https://uwaterloo.ca/combinatorics-and-optimization/'>Combinatorics and Optimization</a> at the <a href='https://uwaterloo.ca'>University of Waterloo</a> between 2020 and 2024.\
