@@ -49,10 +49,6 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
 
  <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth [<a href='https://arxiv.org/abs/2401.01299'>arXiv 2024</a>]</b> </li> </p>
 
-     
-  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstruction in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\) [<a href='https://arxiv.org/abs/2311.05066'>arXiv 2024</a>]</b><br/>
- with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
-
 
    <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid Theorem for pinched graphs [<a href='https://arxiv.org/abs/2309.12227'>arXiv 2024</a>]</b><br/>
  with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
@@ -69,6 +65,11 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
 <blockquote>
   Published
 </blockquote>
+
+
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstruction in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b><br/>
+<a href='https://www.advancesincombinatorics.com/article/125859-induced-subgraphs-and-tree-decompositions-xiii-basic-obstructions-in-h-free-graphs-for-finite-h'><b>Advances in Combinatorics (2024)</b></a><br/>
+   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole</b><br/>
   <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'><b>European Journal of Combinatorics (2025)</b></a><br/>
