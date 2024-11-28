@@ -67,7 +67,7 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
 </blockquote>
 
 
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstruction in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b><br/>
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstructions in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b><br/>
 <a href='https://www.advancesincombinatorics.com/article/125859-induced-subgraphs-and-tree-decompositions-xiii-basic-obstructions-in-h-free-graphs-for-finite-h'><b>Advances in Combinatorics (2024)</b></a><br/>
    with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
