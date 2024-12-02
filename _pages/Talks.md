@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: (in reverse chronological order)
+description:
 nav: true
 nav_order: 2
 ---
