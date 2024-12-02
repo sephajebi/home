@@ -8,6 +8,9 @@ nav_order: 2
 ---
 
 
+* <b>The pathwidth theorem for induced subgraphs</b>\
+Graphs and Matroids Seminar, University of Waterloo, Canada (Dec 3, 2024)
+
 * <b>Anticomplete sets of large treewidth</b>\
 BIRS Workshop on "New Perspectives in Coloring and Structure" (Oct 3, 2024)
 
