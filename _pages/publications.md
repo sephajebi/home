@@ -66,11 +66,6 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
   Published
 </blockquote>
 
-
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstructions in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b><br/>
-<a href='https://www.advancesincombinatorics.com/article/125859-induced-subgraphs-and-tree-decompositions-xiii-basic-obstructions-in-h-free-graphs-for-finite-h'><b>Advances in Combinatorics (2024)</b></a><br/>
-   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
-
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole</b><br/>
   <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'><b>European Journal of Combinatorics (2025)</b></a><br/>
 with M. Chudnovsky and S. Spirkl.</li> </p>
@@ -81,6 +76,10 @@ with M. Chudnovsky and S. Spirkl.</li> </p>
 <p class="bottom-one"><li> <b>Induced subgraphs and tree decompositions VI. Graphs with \(2\)-cutsets</b><br/>
 <a href='https://www.sciencedirect.com/science/article/pii/S0012365X24003261'><b>Discrete Mathematics (2025)</b></a><br/>
 with T. Abrishami, M. Chudnovsky and S. Spirkl.</li></p>
+
+   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstructions in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b><br/>
+<a href='https://www.advancesincombinatorics.com/article/125859-induced-subgraphs-and-tree-decompositions-xiii-basic-obstructions-in-h-free-graphs-for-finite-h'><b>Advances in Combinatorics (2024)</b></a><br/>
+   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
 <p class="bottom-one"><li> <b>List-\(k\)-Coloring \(H\)-free graphs for all \(k>4\)</b><br/>
   <a href='https://link.springer.com/article/10.1007/s00493-024-00106-2'><b>Combinatorica (2024)</b></a> <br/>
