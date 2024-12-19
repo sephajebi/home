@@ -66,10 +66,6 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
   Published
 </blockquote>
 
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstructions in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b><br/>
-<a href='https://www.advancesincombinatorics.com/article/125859-induced-subgraphs-and-tree-decompositions-xiii-basic-obstructions-in-h-free-graphs-for-finite-h'><b>Advances in Combinatorics (2024)</b></a><br/>
-   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
-
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole</b><br/>
   <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'><b>European Journal of Combinatorics (2025)</b></a><br/>
 with M. Chudnovsky and S. Spirkl.</li> </p>
@@ -81,21 +77,30 @@ with M. Chudnovsky and S. Spirkl.</li> </p>
 <a href='https://www.sciencedirect.com/science/article/pii/S0012365X24003261'><b>Discrete Mathematics (2025)</b></a><br/>
 with T. Abrishami, M. Chudnovsky and S. Spirkl.</li></p>
 
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstructions in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b><br/>
+<a href='https://www.advancesincombinatorics.com/article/125859-induced-subgraphs-and-tree-decompositions-xiii-basic-obstructions-in-h-free-graphs-for-finite-h'><b>Advances in Combinatorics (2024)</b></a><br/>
+   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
+
 <p class="bottom-one"><li> <b>List-\(k\)-Coloring \(H\)-free graphs for all \(k>4\)</b><br/>
   <a href='https://link.springer.com/article/10.1007/s00493-024-00106-2'><b>Combinatorica (2024)</b></a> <br/>
 with M. Chudnovsky and S. Spirkl.</li></p>
-
-<p class="bottom-one"><li> <b>Tree independence number I. (Even hole, diamond, pyramid)-free graphs</b><br/>
-<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.23104'><b>Journal of Graph Theory (2024)</b></a><br/>
-with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p>
 
  <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions VIII. Excluding a forest in (theta, prism)-free graphs</b><br/>
 <a href='https://link.springer.com/article/10.1007/s00493-024-00097-0'><b>Combinatorica (2024)</b></a><br/>
 with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl.</li></p>
 
+<p class="bottom-one"><li> <b>Tree independence number I. (Even hole, diamond, pyramid)-free graphs</b><br/>
+<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.23104'><b>Journal of Graph Theory (2024)</b></a><br/>
+with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p>
+
+
 <p class="bottom-one"><li><b> List-\(3\)-Coloring ordered graphs with a forbidden induced subgraph</b><br/>
 <a href='https://epubs.siam.org/doi/10.1137/22M1515768'><b>SIAM Journal on Discrete Mathematics (2024)</b></a><br/>
 with Y. Li and S. Spirkl.</li></p>
+
+<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions V. One neighbor in a hole</b><br/>
+<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'><b>Journal of Graph Theory (2023)</b></a><br/>
+with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p>
 
 <p class="bottom-one"><li><b> Hitting all maximum stable sets in \(P_5\)-free graphs</b><br/>
 <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'><b>Journal of Combinatorial Theory, Series B (2024)</b></a><br/>
@@ -108,10 +113,6 @@ with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl.</li></p>
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions II. Toward walls and their line graphs in graphs of bounded degree</b><br/>
 <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'><b>Journal of Combinatorial Theory, Series B (2024)</b></a><br/>
 with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl and K. Vušković.</li></p>
-
-<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions V. One neighbor in a hole</b><br/>
-<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'><b>Journal of Graph Theory (2023)</b></a><br/>
-with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p>
 
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions IV. (Even hole, diamond, pyramid)-free graphs</b><br/>
 <a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42/pdf'><b>Electronic Journal of Combinatorics (2023)</b></a><br/>
