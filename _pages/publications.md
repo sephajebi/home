@@ -97,10 +97,6 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p
 <a href='https://epubs.siam.org/doi/10.1137/22M1515768'><b>SIAM Journal on Discrete Mathematics (2024)</b></a><br/>
 with Y. Li and S. Spirkl.</li></p>
 
-<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions V. One neighbor in a hole</b><br/>
-<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'><b>Journal of Graph Theory (2023)</b></a><br/>
-with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p>
-
 <p class="bottom-one"><li><b> Hitting all maximum stable sets in \(P_5\)-free graphs</b><br/>
 <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'><b>Journal of Combinatorial Theory, Series B (2024)</b></a><br/>
 with Y. Li and S. Spirkl.</li></p>
@@ -112,6 +108,10 @@ with T. Abrishami, B. Alecu, M. Chudnovsky and S. Spirkl.</li></p>
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions II. Toward walls and their line graphs in graphs of bounded degree</b><br/>
 <a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'><b>Journal of Combinatorial Theory, Series B (2024)</b></a><br/>
 with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl and K. Vušković.</li></p>
+
+<p class="bottom-one"><li><b> Induced subgraphs and tree decompositions V. One neighbor in a hole</b><br/>
+<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'><b>Journal of Graph Theory (2023)</b></a><br/>
+with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p>
 
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions IV. (Even hole, diamond, pyramid)-free graphs</b><br/>
 <a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42/pdf'><b>Electronic Journal of Combinatorics (2023)</b></a><br/>
