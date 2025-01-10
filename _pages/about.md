@@ -25,7 +25,7 @@ I completed my PhD in <a href='https://uwaterloo.ca/combinatorics-and-optimizati
 My thesis was: _<a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9ffc-58bd5950c99b'>Foreshadowing the Grid Theorem for Induced Subgraphs</a>_.\
 My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. 
 
-Currently, my research is in structural combinatorics and graph theory, mostly induced subgraphs and graph minors, and sometimes algorithms.\
+Currently, my research is in combinatorics and graph theory; mostly induced subgraphs and graph minors, and sometimes algorithms.\
 Broadly, I am also interested in topology, number theory and category theory.
 
 <i class="fas fa-envelope"></i> shajebi at uwaterloo dot ca (current)\
