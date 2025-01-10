@@ -49,13 +49,13 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
  <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth [<a href='https://arxiv.org/abs/2401.01299'>arXiv 2024</a>]</b> </li> </p>
 
 
-   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid Theorem for pinched graphs [<a href='https://arxiv.org/abs/2309.12227'>arXiv 2024</a>]</b><br/>
+   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid Theorem for pinched graphs [<a href='https://arxiv.org/abs/2309.12227'>arXiv 2023</a>]</b><br/>
  with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
-  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth [<a href='https://arxiv.org/abs/2309.04390'>arXiv 2024</a>]</b><br/>
+  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth [<a href='https://arxiv.org/abs/2309.04390'>arXiv 2023</a>]</b><br/>
   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
-  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions X. Towards logarithmic treewidth for even-hole-free graphs [<a href='https://arxiv.org/abs/2307.13684'>arXiv 2024</a>]</b><br/>
+  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions X. Towards logarithmic treewidth for even-hole-free graphs [<a href='https://arxiv.org/abs/2307.13684'>arXiv 2023</a>]</b><br/>
  with  T. Abrishami, B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs [<a href='https://arxiv.org/abs/2305.15615'>arXiv 2023</a>]</b> <br/>
