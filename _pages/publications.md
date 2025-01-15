@@ -31,7 +31,7 @@ with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors [<a href='https://arxiv.org/abs/2410.16495'>arXiv 2024</a>]</b><br/>
   with  M. Chudnovsky and S. Spirkl.</li> </p>
 
-   <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs [<a href='https://arxiv.org/abs/2407.08927'>arXiv 2024</a></b> -- preliminary version appeared in <b><a href='https://epubs.siam.org/doi/10.1137/1.9781611978322.151'>SODA (2025)</a>]</b><br/>
+   <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs [<a href='https://arxiv.org/abs/2407.08927'>arXiv 2024</a></b> and <b><a href='https://epubs.siam.org/doi/10.1137/1.9781611978322.151'>SODA 2025</a>]</b><br/>
 with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 
    <p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars [<a href='https://arxiv.org/abs/2406.13053'>arXiv 2024</a>]</b><br/>
