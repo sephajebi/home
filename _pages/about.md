@@ -8,8 +8,6 @@ profile:
   image: sepehr_hajebi_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info:
-    <center> <p style="font-family:academicons; font-size:10pt">
-    This is me painted circa 1830. </p> </center>
     
 
 news: false  # includes a list of news items
