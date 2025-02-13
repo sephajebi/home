@@ -48,10 +48,6 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
 
  <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth [<a href='https://arxiv.org/abs/2401.01299'>arXiv 2024</a>]</b> </li> </p>
 
-
-   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid Theorem for pinched graphs [<a href='https://arxiv.org/abs/2309.12227'>arXiv 2023</a>]</b><br/>
- with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
-
   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth [<a href='https://arxiv.org/abs/2309.04390'>arXiv 2023</a>]</b><br/>
   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
@@ -64,6 +60,10 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
 <blockquote>
   Published
 </blockquote>
+
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid Theorem for pinched graphs </b><br/>
+<a href='https://igt.centre-mersenne.org/articles/10.5802/igt.6/'><b>Innovations in graph theory (2025)</b></a><br/>
+ with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole</b><br/>
   <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'><b>European Journal of Combinatorics (2025)</b></a><br/>
