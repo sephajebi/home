@@ -61,7 +61,7 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
   Published
 </blockquote>
 
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid Theorem for pinched graphs </b><br/>
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid theorem for pinched graphs </b><br/>
 <a href='https://igt.centre-mersenne.org/articles/10.5802/igt.6/'><b>Innovations in graph theory (2025)</b></a><br/>
  with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
