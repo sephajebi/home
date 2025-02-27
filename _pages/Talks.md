@@ -20,7 +20,7 @@ BIRS Workshop on "New Perspectives in Coloring and Structure" (2024)
 Barbados Graph Theory Workshop, Bellairs Research Institute (2024)
 
 * <b>Treewidth, Erdos-Posa and induced subgraphs</b> [virtual]\
-   New York Combinatorics Seminar (Feb 23, 2024)
+   New York Combinatorics Seminar (2024)
 
 * <b>Several Gyarfas-Sumner-type results for treewidth</b>\
 Graphs and Matroids Seminar, University of Waterloo, Canada (2023)
