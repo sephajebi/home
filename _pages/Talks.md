@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+* <b>The pathwidth theorem for induced subgraphs</b>\
+IBS Discrete Math Seminar, Daejeon, South Korea (2025)
 
 * <b>The pathwidth theorem for induced subgraphs</b>\
 Graphs and Matroids Seminar, University of Waterloo, Canada (2024)
@@ -32,7 +34,7 @@ Barbados Graph Theory Workshop, Bellairs Research Institute (2022)
 
 
 * <b>Holes, hubs, and bounded treewidth</b> [virtual]\
-IBS Discrete Math Colloquium, Daejeon, South Korea (2022)
+IBS Discrete Math Seminar, Daejeon, South Korea (2022)
 
 
 * <b>Bounded treewidth in hereditary graph classes</b>\
