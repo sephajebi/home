@@ -16,48 +16,6 @@ nav_order: 1
 </style>
 
 <blockquote>
-  Preprints
-</blockquote>
-
-<p class="bottom-one"> <li> <b>Critically \(H\)-free graphs [in preparation]</b><br/>
-with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
-
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth [<a href='https://arxiv.org/abs/2412.17756'>arXiv 2024</a>]</b><br/>
- with  M. Chudnovsky and S. Spirkl.</li> </p>
-
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth [<a href='https://arxiv.org/abs/2411.11842'>arXiv 2024</a>]</b><br/>
- with  M. Chudnovsky and S. Spirkl.</li> </p>
-
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors [<a href='https://arxiv.org/abs/2410.16495'>arXiv 2024</a>]</b><br/>
-  with  M. Chudnovsky and S. Spirkl.</li> </p>
-
-   <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs [<a href='https://arxiv.org/abs/2407.08927'>arXiv 2024</a></b> and <b><a href='https://epubs.siam.org/doi/10.1137/1.9781611978322.151'>SODA 2025</a>]</b><br/>
-with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
-
-   <p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars [<a href='https://arxiv.org/abs/2406.13053'>arXiv 2024</a>]</b><br/>
- with  M. Chudnovsky and N. Trotignon.</li> </p>
-
-
-   <p class="bottom-one"> <li> <b>Tree independence number II. Three-path-configurations [<a href='https://arxiv.org/abs/2405.00265'>arXiv 2024</a>]</b><br/>
-with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
-
-
-   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth [<a href='https://arxiv.org/abs/2402.14211'>arXiv 2024</a>]</b> <br/>
- with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
- 
-
- <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth [<a href='https://arxiv.org/abs/2401.01299'>arXiv 2024</a>]</b> </li> </p>
-
-  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth [<a href='https://arxiv.org/abs/2309.04390'>arXiv 2023</a>]</b><br/>
-  with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
-
-  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions X. Towards logarithmic treewidth for even-hole-free graphs [<a href='https://arxiv.org/abs/2307.13684'>arXiv 2023</a>]</b><br/>
- with  T. Abrishami, B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
-
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs [<a href='https://arxiv.org/abs/2305.15615'>arXiv 2023</a>]</b> <br/>
- with B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
-
-<blockquote>
   Published
 </blockquote>
 
@@ -132,6 +90,50 @@ with J. Cheriyan, Z. Qu and S. Spirkl.</li></p>
 <p class="bottom-one"><li><b> Edge clique cover of claw-free graphs</b><br/>
 <a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'><b>Journal of Graph Theory (2019)</b></a><br/>
  with R. Javadi.</li></p>
+
+
+<blockquote>
+  Preprints
+</blockquote>
+
+<p class="bottom-one"> <li> <b>Critically \(H\)-free graphs [in preparation]</b><br/>
+with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
+
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth [<a href='https://arxiv.org/abs/2412.17756'>arXiv 2024</a>]</b><br/>
+ with  M. Chudnovsky and S. Spirkl.</li> </p>
+
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth [<a href='https://arxiv.org/abs/2411.11842'>arXiv 2024</a>]</b><br/>
+ with  M. Chudnovsky and S. Spirkl.</li> </p>
+
+ <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors [<a href='https://arxiv.org/abs/2410.16495'>arXiv 2024</a>]</b><br/>
+  with  M. Chudnovsky and S. Spirkl.</li> </p>
+
+   <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs [<a href='https://arxiv.org/abs/2407.08927'>arXiv 2024</a></b> and <b><a href='https://epubs.siam.org/doi/10.1137/1.9781611978322.151'>SODA 2025</a>]</b><br/>
+with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
+
+   <p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars [<a href='https://arxiv.org/abs/2406.13053'>arXiv 2024</a>]</b><br/>
+ with  M. Chudnovsky and N. Trotignon.</li> </p>
+
+
+   <p class="bottom-one"> <li> <b>Tree independence number II. Three-path-configurations [<a href='https://arxiv.org/abs/2405.00265'>arXiv 2024</a>]</b><br/>
+with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
+
+
+   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth [<a href='https://arxiv.org/abs/2402.14211'>arXiv 2024</a>]</b> <br/>
+ with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
+ 
+
+ <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth [<a href='https://arxiv.org/abs/2401.01299'>arXiv 2024</a>]</b> </li> </p>
+
+  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth [<a href='https://arxiv.org/abs/2309.04390'>arXiv 2023</a>]</b><br/>
+  with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
+
+  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions X. Towards logarithmic treewidth for even-hole-free graphs [<a href='https://arxiv.org/abs/2307.13684'>arXiv 2023</a>]</b><br/>
+ with  T. Abrishami, B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
+
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs [<a href='https://arxiv.org/abs/2305.15615'>arXiv 2023</a>]</b> <br/>
+ with B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
+
     
 </ol>
 {{< /rawhtml >}}
