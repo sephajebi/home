@@ -28,7 +28,7 @@ nav_order: 1
 with M. Chudnovsky and S. Spirkl.</li> </p>
 
   <p class="bottom-one"><li> <b>Induced subdivisions with pinned branch vertices</b><br/>
-  <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001574'><b>European Journal of Combinatorics (2025)</b></a>.</li></p>
+  <a href='https://www.sciencedirect.com/science/article/pii/S0195669824001574'><b>European Journal of Combinatorics (2025)</b></a></li></p>
 
 <p class="bottom-one"><li> <b>Induced subgraphs and tree decompositions VI. Graphs with \(2\)-cutsets</b><br/>
 <a href='https://www.sciencedirect.com/science/article/pii/S0012365X24003261'><b>Discrete Mathematics (2025)</b></a><br/>
