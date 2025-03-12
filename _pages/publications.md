@@ -19,6 +19,10 @@ nav_order: 1
   Published
 </blockquote>
 
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs </b> <br/>
+<a href='https://www.advancesincombinatorics.com/article/129887-induced-subgraphs-and-tree-decompositions-ix-grid-theorem-for-perforated-graphs'><b>Advances in Combinatorics (2025)</b></a><br/>
+   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
+
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid theorem for pinched graphs </b><br/>
 <a href='https://igt.centre-mersenne.org/articles/10.5802/igt.6/'><b>Innovations in graph theory (2025)</b></a><br/>
  with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
@@ -130,9 +134,6 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
 
   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions X. Towards logarithmic treewidth for even-hole-free graphs [<a href='https://arxiv.org/abs/2307.13684'>arXiv 2023</a>]</b><br/>
  with  T. Abrishami, B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
-
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs [<a href='https://arxiv.org/abs/2305.15615'>arXiv 2023</a>]</b> <br/>
- with B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
     
 </ol>
