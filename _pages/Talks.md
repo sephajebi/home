@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 ---
 
+* <b>"Underview" of excluded induced subgraphs for bounded pathwidth</b>\
+Barbados Graph Theory Workshop, Bellairs Research Institute (2025)
+
 * <b>The pathwidth theorem for induced subgraphs</b>\
 IBS Discrete Math Seminar, Daejeon, South Korea (2025)
 
