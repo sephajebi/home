@@ -125,7 +125,7 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p
 with T. Abrishami, M. Chudnovsky and S. Spirkl.</li></p>
 
 <blockquote>
-  Published 2022
+  Published in 2022
 </blockquote>
 
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions III. Three-path-configurations and logarithmic treewidth</b><br/>
@@ -141,13 +141,13 @@ with Y. Li and S. Spirkl.</li></p>
 with J. Cheriyan, Z. Qu and S. Spirkl.</li></p>
 
 <blockquote>
-  Published 2021 and 2020
+  Published in 2021 and 2020
 </blockquote>
 
 Nothing.
 
 <blockquote>
-  Published 2019
+  Published in 2019
 </blockquote>
 
 <p class="bottom-one"><li><b> Edge clique cover of claw-free graphs</b><br/>
