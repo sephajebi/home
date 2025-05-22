@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 ---
 
+* <b>Local and global structure of non-basic obstructions to bounded treewidth</b>\
+CanaDAM, University of Ottawa (2025)
+
 * <b>"Underview" of excluded induced subgraphs for bounded pathwidth</b>\
 Barbados Graph Theory Workshop, Bellairs Research Institute (2025)
 
