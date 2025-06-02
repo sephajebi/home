@@ -21,7 +21,7 @@ nav_order: 1
 </blockquote>
 
 <p class="bottom-one"> <li> <b>Halfway to induced saturation for even cycles [<a href='https://arxiv.org/abs/2505.24100'>arXiv 2025</a>]</b><br/>
- with  X. Fan, Sahab Hajebia and and S. Spirkl.</li> </p>
+ with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Bull-free graphs and \(\chi\)-boundedness [<a href='https://arxiv.org/abs/2504.21093'>arXiv 2025</a>]</b> </li> </p>
 
