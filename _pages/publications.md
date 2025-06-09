@@ -20,6 +20,9 @@ nav_order: 1
   Preprints
 </blockquote>
 
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Bags of bounded domination [<a href='https://arxiv.org/abs/2506.05602'>arXiv 2025</a>]</b><br/>
+ with  M. Chudnovsky and S. Spirkl.</li> </p>
+
 <p class="bottom-one"> <li> <b>Halfway to induced saturation for even cycles [<a href='https://arxiv.org/abs/2505.24100'>arXiv 2025</a>]</b><br/>
  with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
 
