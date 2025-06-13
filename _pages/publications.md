@@ -20,6 +20,9 @@ nav_order: 1
   Preprints
 </blockquote>
 
+<p class="bottom-one"> <li> <b> Suns in triangle-free graphs of large chromatic number [<a href='https://arxiv.org/abs/2506.10227'>arXiv 2025</a>]</b><br/>
+ with S. Spirkl.</li> </p>
+
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Bags of bounded domination [<a href='https://arxiv.org/abs/2506.05602'>arXiv 2025</a>]</b><br/>
  with  M. Chudnovsky and S. Spirkl.</li> </p>
 
