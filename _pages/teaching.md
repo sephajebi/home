@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-> TA at the University of Waterloo
+> TA at University of Waterloo
 
 * <b>CO342 Graph theory</b> (Spring 2023)
 * <b>MATH138 Calculus II for honors of mathematics</b> (Winter 2023)
