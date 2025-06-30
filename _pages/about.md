@@ -25,7 +25,7 @@ My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spir
 Currently, my research is in combinatorics and graph theory. I am especially interested in structural graph theory (mostly induced subgraphs and graph minors, and sometimes algorithms).\
 Broadly, I am also interested in topology, number theory and category theory.
 
-<i class="fas fa-envelope"></i> shajebi at uwaterloo dot ca (current)\
+<i class="fas fa-envelope"></i> shajebi at uwaterloo dot ca\
 <a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'><i class="ai ai-google-scholar"></i> Google Scholar</a>\
 <a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> CV</a> <br />
 <br />
