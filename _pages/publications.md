@@ -64,6 +64,9 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
   Published in 2025
 </blockquote>
 
+<p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth</b><br/>
+<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.23276'><b>Journal of Graph Theory</b></a></li></p>
+
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs </b> <br/>
 <a href='https://www.advancesincombinatorics.com/article/129887-induced-subgraphs-and-tree-decompositions-ix-grid-theorem-for-perforated-graphs'><b>Advances in Combinatorics </b></a><br/>
 with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
