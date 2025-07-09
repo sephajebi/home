@@ -20,6 +20,9 @@ nav_order: 1
   Preprints
 </blockquote>
 
+<p class="bottom-one"> <li> <b>A simple layered-wheel-like construction [<a href='https://arxiv.org/abs/2507.06169'>arXiv 2025</a>]</b><br/>
+ with  M. Chudnovsky, D. Fischer, S. Spirkl and B. Walczak.</li> </p>
+
 <p class="bottom-one"> <li> <b> Suns in triangle-free graphs of large chromatic number [<a href='https://arxiv.org/abs/2506.10227'>arXiv 2025</a>]</b><br/>
  with S. Spirkl.</li> </p>
 
