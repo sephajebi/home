@@ -53,10 +53,8 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
 
    <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth [<a href='https://arxiv.org/abs/2402.14211'>arXiv 2024</a>]</b> <br/>
  with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
+
  
-
- <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth [<a href='https://arxiv.org/abs/2401.01299'>arXiv 2024</a>]</b> </li> </p>
-
   <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth [<a href='https://arxiv.org/abs/2309.04390'>arXiv 2023</a>]</b><br/>
   with  B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
