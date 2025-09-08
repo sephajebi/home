@@ -7,6 +7,10 @@ nav: true
 nav_order: 3
 ---
 
+> Instructor at University of Waterloo
+
+* <b>MATH116 Calculus 1 for Engineering</b> (Fall 2025)
+
 > TA at University of Waterloo
 
 * <b>CO342 Graph theory</b> (Spring 2023)
