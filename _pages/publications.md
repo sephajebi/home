@@ -47,10 +47,6 @@ with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
  with  M. Chudnovsky and N. Trotignon.</li> </p>
 
 
-   <p class="bottom-one"> <li> <b>Tree independence number II. Three-path-configurations [<a href='https://arxiv.org/abs/2405.00265'>arXiv 2024</a>]</b><br/>
-with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
-
-
    <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth [<a href='https://arxiv.org/abs/2402.14211'>arXiv 2024</a>]</b> <br/>
  with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 
