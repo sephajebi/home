@@ -62,6 +62,14 @@ with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
  with  T. Abrishami, B.  Alecu, M. Chudnovsky and S. Spirkl.</li> </p>
 
 <blockquote>
+  Published in 2026
+</blockquote>
+
+ <p class="bottom-one"> <li> <b>Tree independence number II. Three-path-configurations </b><br/>
+   <a href='https://www.sciencedirect.com/science/article/pii/S0095895625000590'><b>Journal of Combinatorial Theory, Series B</b></a><br/>
+with  M. Chudnovsky, D. Lokshtanov and S. Spirkl.</li> </p>
+
+<blockquote>
   Published in 2025
 </blockquote>
 
