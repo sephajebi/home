@@ -9,7 +9,7 @@ nav_order: 3
 
 > Instructor at University of Waterloo
 
-* <b>MATH116 Calculus 1 for Engineering</b> (Fall 2025)
+* <b>MATH116 Calculus I for engineering</b> (Fall 2025)
 
 > TA at University of Waterloo
 
