@@ -17,7 +17,7 @@ nav_order: 1
 
 
 <blockquote>
-  Submitted for Publication
+  Submitted for publication
 </blockquote>
 
 <p class="bottom-one"> <li> <b>A simple layered-wheel-like construction [<a href='https://arxiv.org/abs/2507.06169'>arXiv 2025</a>]</b><br/>
