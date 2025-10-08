@@ -37,9 +37,6 @@ nav_order: 1
  <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth [<a href='https://arxiv.org/abs/2411.11842'>arXiv 2024</a>]</b><br/>
  with  M. Chudnovsky and S. Spirkl.</li> </p>
 
- <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors [<a href='https://arxiv.org/abs/2410.16495'>arXiv 2024</a>]</b><br/>
-  with  M. Chudnovsky and S. Spirkl.</li> </p>
-
    <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs [<a href='https://arxiv.org/abs/2407.08927'>arXiv 2024</a></b> and <b><a href='https://epubs.siam.org/doi/10.1137/1.9781611978322.151'>SODA 2025</a>]</b><br/>
 with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 
@@ -60,6 +57,11 @@ with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 <blockquote>
   Published in 2026
 </blockquote>
+
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors </b><br/>
+  <a href='https://www.sciencedirect.com/science/article/pii/S0095895625000735'><b>Journal of Combinatorial Theory, Series B</b></a>
+  <br/>
+  with  M. Chudnovsky and S. Spirkl.</li> </p>
 
  <p class="bottom-one"> <li> <b>Tree independence number II. Three-path-configurations </b><br/>
    <a href='https://www.sciencedirect.com/science/article/pii/S0095895625000590'><b>Journal of Combinatorial Theory, Series B</b></a><br/>
