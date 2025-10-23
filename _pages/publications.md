@@ -20,6 +20,8 @@ nav_order: 1
   Submitted for publication
 </blockquote>
 
+<p class="bottom-one"> <li> <b>Polynomial bounds for pathwidth [<a href='https://arxiv.org/abs/2510.19120'>arXiv 2025</a>]</b> </li> </p>
+
 <p class="bottom-one"> <li> <b>A simple layered-wheel-like construction [<a href='https://arxiv.org/abs/2507.06169'>arXiv 2025</a>]</b><br/>
  with  M. Chudnovsky, D. Fischer, S. Spirkl and B. Walczak.</li> </p>
 
