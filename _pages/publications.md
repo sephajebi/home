@@ -20,6 +20,9 @@ nav_order: 1
   Submitted for publication
 </blockquote>
 
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests [<a href='https://arxiv.org/abs/2506.05602'>arXiv 2025</a>]</b><br/>
+ with  M. Chudnovsky, J. Codsi and S. Spirkl.</li> </p>
+
 <p class="bottom-one"> <li> <b>Polynomial bounds for pathwidth [<a href='https://arxiv.org/abs/2510.19120'>arXiv 2025</a>]</b> </li> </p>
 
 <p class="bottom-one"> <li> <b>A simple layered-wheel-like construction [<a href='https://arxiv.org/abs/2507.06169'>arXiv 2025</a>]</b><br/>
