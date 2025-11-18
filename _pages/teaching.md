@@ -10,8 +10,8 @@ nav_order: 3
 > Courses taught as Postdoctoral Scholar at Waterloo
 
 * <b>MATH 116 Calculus I for engineering</b> (Fall 2025)
-* <b>MATH 135 - Algebra for Honours Mathematics</b> (Winter 2026 -- Upcoming)
-* <b>CO 380 - Mathematical Dicovery and Invetion</b> (Spring 2026 -- Upcoming)
+* <b>MATH 135 Algebra for Honours Mathematics</b> (Winter 2026 -- Upcoming)
+* <b>CO 380 Mathematical Dicovery and Invetion</b> (Spring 2026 -- Upcoming)
 
 
 > Courses TA'ed as PhD student at Waterloo
