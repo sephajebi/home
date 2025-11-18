@@ -7,11 +7,14 @@ nav: true
 nav_order: 3
 ---
 
-> Instructor at University of Waterloo
+> Courses taught as Postdoctoral Scholar at Waterloo
 
-* <b>MATH116 Calculus I for engineering</b> (Fall 2025)
+* <b>MATH 116 Calculus I for engineering</b> (Fall 2025)
+* <b>MATH 135 - Algebra for Honours Mathematics</b> (Winter 2026 -- Upcoming)
+* <b>CO 380 - Mathematical Dicovery and Invetion</b> (Spring 2026 -- Upcoming)
 
-> TA at University of Waterloo
+
+> Courses TA'ed as PhD student at Waterloo
 
 * <b>CO342 Graph theory</b> (Spring 2023)
 * <b>MATH138 Calculus II for honors of mathematics</b> (Winter 2023)
@@ -27,7 +30,7 @@ nav_order: 3
 
     
 
-> TA at Isfahan University of Technology
+> Courses TA'ed as BSc/MSc student Isfahan University of Technology
 
 * <b>Computational complexity (graduate)</b> (2019)
 * <b>Elements of matrics and linear algebra</b> (2018)
