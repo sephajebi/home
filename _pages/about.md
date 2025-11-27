@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: sepehr_hajebi_profile_2.jpg
+  image: sepehr_hajebi_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info:
     
