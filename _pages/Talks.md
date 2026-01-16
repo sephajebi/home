@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 ---
 
+* <b>Polynomial pathwidth</b>\
+Barbados Graph Theory Workshop, Bellairs Research Institute (2026)
+
 * <b>Complete bipartite induced minors (and treewidth)</b>\
 Willaim Tutte Colloquium, University of Waterloo (2025)
 
