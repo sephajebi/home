@@ -9,9 +9,9 @@ nav_order: 3
 
 > Courses taught as Postdoctoral Scholar at Waterloo
 
-* <b>MATH 116 Calculus I for Engineering</b> (Fall 2025 -- <a href="{{ 'MATH116_Lecture_Notes.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> Lecture notes</a>)
-* <b>MATH 135 Algebra for Honours Mathematics</b> (Winter 2026 -- Current)
 * <b>CO 380 Mathematical Dicovery and Invention</b> (Spring 2026 -- Upcoming)
+* <b>MATH 135 Algebra for Honours Mathematics</b> (Winter 2026)
+* <b>MATH 116 Calculus I for Engineering</b> (Fall 2025 -- <a href="{{ 'MATH116_Lecture_Notes.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> Lecture notes</a>)
 
 
 > Courses TA'ed as PhD student at Waterloo
