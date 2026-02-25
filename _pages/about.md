@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Scholar in <a href='https://uwaterloo.ca/combinatorics-and-optimization/'>Combinatorics and Optimization</a> at the <a href='https://uwaterloo.ca'>University of Waterloo</a>, working with <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. In 2024, I was appointed Janior Faculty (Instructor) in the <a href='https://www.math.princeton.edu'>Department of Mathematics</a> at <a href='https://www.princeton.edu'>Princeton University</a>, but did not take up the position due to visa delays.
+I am a Postdoctoral Scholar in <a href='https://uwaterloo.ca/combinatorics-and-optimization/'>Combinatorics and Optimization</a> at the <a href='https://uwaterloo.ca'>University of Waterloo</a>, working with <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. In 2024, I was appointed Junior Faculty (Instructor) in the <a href='https://www.math.princeton.edu'>Department of Mathematics</a> at <a href='https://www.princeton.edu'>Princeton University</a>, but did not take up the position due to visa delays.
 
 I completed my PhD in <a href='https://uwaterloo.ca/combinatorics-and-optimization/'>Combinatorics and Optimization</a> at the <a href='https://uwaterloo.ca'>University of Waterloo</a> between 2020 and 2024.\
 My thesis was: _<a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9ffc-58bd5950c99b'>Foreshadowing the Grid Theorem for Induced Subgraphs</a>_.\
