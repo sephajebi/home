@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-> Courses taught as Postdoctoral Scholar at Waterloo
+> Courses taught at Waterloo
 
 * <b>[Upcoming] CO 380 Mathematical Dicovery and Invention</b> (Spring 2026)
 * <b>MATH 135 Algebra for Honours Mathematics</b> (Winter 2026)
