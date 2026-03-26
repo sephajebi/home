@@ -28,9 +28,6 @@ nav_order: 1
 <p class="bottom-one"> <li> <b>A simple layered-wheel-like construction [<a href='https://arxiv.org/abs/2507.06169'>arXiv 2025</a>]</b><br/>
  with  M. Chudnovsky, D. Fischer, S. Spirkl and B. Walczak.</li> </p>
 
-<p class="bottom-one"> <li> <b> Suns in triangle-free graphs of large chromatic number [<a href='https://arxiv.org/abs/2506.10227'>arXiv 2025</a>]</b><br/>
- with S. Spirkl.</li> </p>
-
 <p class="bottom-one"> <li> <b>Halfway to induced saturation for even cycles [<a href='https://arxiv.org/abs/2505.24100'>arXiv 2025</a>]</b><br/>
  with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
 
@@ -62,6 +59,10 @@ with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 <blockquote>
   Published in 2026
 </blockquote>
+
+<p class="bottom-one"> <li> <b> Suns in triangle-free graphs of large chromatic number</b><br/>
+<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i1p55'><b>Electronic Journal of Combinatorics</b></a><br/>
+with S. Spirkl.</li></p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors </b><br/>
   <a href='https://www.sciencedirect.com/science/article/pii/S0095895625000735'><b>Journal of Combinatorial Theory, Series B</b></a>
@@ -144,7 +145,7 @@ with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl and K. Vu�
 with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl and K. Vušković.</li></p>
 
 <p class="bottom-one"><li><b> Induced subgraphs and tree decompositions IV. (Even hole, diamond, pyramid)-free graphs</b><br/>
-<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42/pdf'><b>Electronic Journal of Combinatorics</b></a><br/>
+<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42'><b>Electronic Journal of Combinatorics</b></a><br/>
 with T. Abrishami, M. Chudnovsky and S. Spirkl.</li></p>
 
 <blockquote>
