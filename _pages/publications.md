@@ -20,6 +20,9 @@ nav_order: 1
   Preprints
 </blockquote>
 
+<p class="bottom-one"> <li> <b>Tree-alpha and excluding finitely many graphs [<a href='https://arxiv.org/abs/2605.01223'>arXiv 2026</a>]</b><br/>
+ with S. Spirkl.</li> </p>
+
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests [<a href='https://arxiv.org/abs/2506.05602'>arXiv 2025</a>]</b><br/>
  with  M. Chudnovsky, J. Codsi and S. Spirkl.</li> </p>
 
