@@ -45,9 +45,6 @@ nav_order: 1
    <p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs [<a href='https://arxiv.org/abs/2407.08927'>arXiv 2024</a></b> and <b><a href='https://epubs.siam.org/doi/10.1137/1.9781611978322.151'>SODA 2025</a>]</b><br/>
 with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 
-   <p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars [<a href='https://arxiv.org/abs/2406.13053'>arXiv 2024</a>]</b><br/>
- with  M. Chudnovsky and N. Trotignon.</li> </p>
-
 
    <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth [<a href='https://arxiv.org/abs/2402.14211'>arXiv 2024</a>]</b> <br/>
  with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
@@ -62,6 +59,10 @@ with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 <blockquote>
   Published in 2026
 </blockquote>
+
+<p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b><br/>
+<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i1p55'><b>Journal of Graph Theory</b></a><br/>
+with  M. Chudnovsky and N. Trotignon.</li></p>
 
 <p class="bottom-one"> <li> <b> Suns in triangle-free graphs of large chromatic number</b><br/>
 <a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i1p55'><b>Electronic Journal of Combinatorics</b></a><br/>
