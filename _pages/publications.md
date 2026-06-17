@@ -61,7 +61,7 @@ with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 </blockquote>
 
 <p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b><br/>
-<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i1p55'><b>Journal of Graph Theory</b></a><br/>
+<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.70088'><b>Journal of Graph Theory</b></a><br/>
 with  M. Chudnovsky and N. Trotignon.</li></p>
 
 <p class="bottom-one"> <li> <b> Suns in triangle-free graphs of large chromatic number</b><br/>
