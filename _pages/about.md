@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Scholar in the C&O department at the University of Waterloo. In 2024, I was appointed Instructor in the Department of Mathematics at Princeton University, but visa delays prevented me from taking up the position.
+I am a Postdoctoral Scholar in the C&O department at the University of Waterloo. In 2024, I was appointed Junior Faculty (Instructor) in the Department of Mathematics at Princeton University, but visa delays prevented me from taking up the position.
 
 I received my PhD from the C&O department at the University of Waterloo in 2024. My thesis was _<a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9ffc-58bd5950c99b'>Foreshadowing the Grid Theorem for Induced Subgraphs</a>_. My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. 
 
