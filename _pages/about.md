@@ -27,6 +27,7 @@ My current research is in combinatorics and graph theory, with a focus on struct
 <a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> CV</a> <br />
 <br />
 <br />
+<br />
 
 "If there is one thing in mathematics that fascinates me more than anything else (and probably always has), it is neither "number" nor "magnitude," but always form. And among the thousand and one faces that form chooses to reveal itself to us, the one that has fascinated me more than any other and continues to fascinate me is the hidden structure within mathematical things."
 
