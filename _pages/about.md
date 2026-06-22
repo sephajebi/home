@@ -29,7 +29,7 @@ My current research is in combinatorics and graph theory, with a focus on struct
 <br />
 <br />
 
-"If there is one thing in mathematics that fascinates me more than anything (and probably always has), it is neither 'number' nor 'magnitude,' but always form. And among the thousand and one faces that form chooses to reveal itself to us, the one that has fascinated me more than any other and continues to fascinate me is the hidden structure within mathematical things."
+"If there is one thing in mathematics that fascinates me more than anything else (and probably always has), it is neither 'number' nor 'size,' but always form. And among the thousand and one faces that form chooses to reveal itself to us, the one that has fascinated me more than any other and continues to fascinate me is the hidden structure within mathematical things."
 
 <p style="text-align:right; font-style:italic">
 — A. Grothendieck, <a href="https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/RetSbis.pdf">Récoltes et Semailles</a>, p. 43.</p>
