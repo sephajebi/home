@@ -167,6 +167,7 @@ margin-top: -12px;
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
+    margin-left: 10px;
     font-family: monospace;
 
     p {
@@ -184,7 +185,7 @@ margin-top: -12px;
   margin-right: 1rem;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 576px) {
   .profile {
     width: 30%;
 
