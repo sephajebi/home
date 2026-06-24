@@ -20,6 +20,13 @@ nav_order: 1
   Preprints
 </blockquote>
 
+<p class="bottom-one"> <li> <b>Asymmetric induced saturation [<a href='https://arxiv.org/abs/2606.24763'>arXiv 2026</a>]</b><br/>
+ with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
+
+
+<p class="bottom-one"> <li> <b>Forcing monochromatic induced subgraphs [<a href='https://arxiv.org/abs/2606.24695'>arXiv 2026</a>]</b><br/>
+ with S. Spirkl.</li> </p>
+
 <p class="bottom-one"> <li> <b>Tree-alpha and excluding finitely many graphs [<a href='https://arxiv.org/abs/2605.01223'>arXiv 2026</a>]</b><br/>
  with S. Spirkl.</li> </p>
 
