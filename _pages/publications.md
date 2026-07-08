@@ -30,9 +30,6 @@ nav_order: 1
 <p class="bottom-one"> <li> <b>Tree-alpha and excluding finitely many graphs [<a href='https://arxiv.org/abs/2605.01223'>arXiv 2026</a>]</b><br/>
  with S. Spirkl.</li> </p>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests [<a href='https://arxiv.org/abs/2506.05602'>arXiv 2025</a>]</b><br/>
- with  M. Chudnovsky, J. Codsi and S. Spirkl.</li> </p>
-
 <p class="bottom-one"> <li> <b>Polynomial bounds for pathwidth [<a href='https://arxiv.org/abs/2510.19120'>arXiv 2025</a>]</b> </li> </p>
 
 <p class="bottom-one"> <li> <b>A simple layered-wheel-like construction [<a href='https://arxiv.org/abs/2507.06169'>arXiv 2025</a>]</b><br/>
@@ -66,6 +63,11 @@ with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 <blockquote>
   Published in 2026
 </blockquote>
+
+
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests</b><br/>
+<a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>SIAM Journal on Discrete Mathematics</b></a><br/>
+ with  M. Chudnovsky, J. Codsi and S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b><br/>
 <a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.70088'><b>Journal of Graph Theory</b></a><br/>
