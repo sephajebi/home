@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a Postdoctoral Scholar in the C&O department at the University of Waterloo. In 2024, I was appointed Junior Faculty (Instructor) in the Department of Mathematics at Princeton University, but visa delays prevented me from taking up the position.
 
-I received my PhD from the C&O department at the University of Waterloo in 2024. My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. 
+I received my PhD in 2024 from the C&O department at the University of Waterloo. My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. 
 
 My current research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
 
