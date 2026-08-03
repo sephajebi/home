@@ -16,9 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Scholar in the C&O department at the University of Waterloo. In 2024, I was appointed Junior Faculty (Instructor) in the Department of Mathematics at Princeton University, but visa delays prevented me from taking up the position.
+I hold an NSERC Canada Postdoctoral Research Award in Mathematics at the University of Toronto. I completed my PhD between 2020 and 2024 in the C&O department at the University of Waterloo. My advisor was Sophie Spirkl. 
 
-I received my PhD in 2024 from the C&O department at the University of Waterloo. My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. 
+My first post-PhD appointment was Junior Faculty (Instructor) in Mathematics at Princeton University. I never made it to Princeton, courtesy of a <a href='https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/'>presidential proclamation</a> that has been safeguarding the U.S. national security through such effective measures as denying entry to graph theorists solely on the basis of their citizenship. I instead spent Sep 2024 - Aug 2026 as a Postdoctoral Scholar at the University of Waterloo waiting for this to change. It didn’t. 
+
+
 
 My current research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
 
