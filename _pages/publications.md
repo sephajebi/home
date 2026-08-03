@@ -21,34 +21,34 @@ nav_order: 1
 </blockquote>
 
 <p class="bottom-one"> <li> <b>Forcing monochromatic induced subgraphs</b>
- (with S. Spirkl), <a href='https://arxiv.org/abs/2606.24695'>2026</a>. </li> </p>
+ (with S. Spirkl), <b><a href='https://arxiv.org/abs/2606.24695'>2026</a></b>. </li> </p>
 
 <p class="bottom-one"> <li> <b>Asymmetric induced saturation</b>
-(with  X. Fan, Sahab Hajebi, S. Spirkl), <a href='https://arxiv.org/abs/2606.24763'>2026</a>.</li> </p>
+(with X. Fan, Sahab Hajebi, S. Spirkl), <b><a href='https://arxiv.org/abs/2606.24763'>2026</a></b>.</li> </p>
 
 <p class="bottom-one"> <li> <b>Tree-alpha and excluding finitely many graphs</b>
-(with S. Spirkl), <a href='https://arxiv.org/abs/2605.01223'>2026</a>.</li> </p>
+(with S. Spirkl), <b><a href='https://arxiv.org/abs/2605.01223'>2026</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>Polynomial bounds for pathwidth</b>, <a href='https://arxiv.org/abs/2510.19120'>2025</a>.</li> </p>
+<p class="bottom-one"> <li> <b>Polynomial bounds for pathwidth</b>, <b><a href='https://arxiv.org/abs/2510.19120'>2025</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>A simple layered-wheel-like construction</b> (with  M. Chudnovsky, D. Fischer, S. Spirkl, B. Walczak), <a href='https://arxiv.org/abs/2507.06169'>2025</a>.</li> </p>
+<p class="bottom-one"> <li> <b>A simple layered-wheel-like construction</b> (with M. Chudnovsky, D. Fischer, S. Spirkl, B. Walczak), <b><a href='https://arxiv.org/abs/2507.06169'>2025</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>Halfway to induced saturation for even cycles</b> (with  X. Fan, Sahab Hajebi, S. Spirkl), <a href='https://arxiv.org/abs/2505.24100'>2025</a>.</li> </p>
+<p class="bottom-one"> <li> <b>Halfway to induced saturation for even cycles</b> (with X. Fan, Sahab Hajebi, S. Spirkl), <b><a href='https://arxiv.org/abs/2505.24100'>2025</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>Bull-free graphs and \(\chi\)-boundedness</b>, <a href='https://arxiv.org/abs/2504.21093'>2025</a>.</li></p>
+<p class="bottom-one"> <li> <b>Bull-free graphs and \(\chi\)-boundedness</b>, <b><a href='https://arxiv.org/abs/2504.21093'>2025</a></b>.</li></p>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth</b> (with  M. Chudnovsky, S. Spirkl), <a href='https://arxiv.org/abs/2412.17756'>2024</a>.</li> </p>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth</b> (with M. Chudnovsky, S. Spirkl), <b><a href='https://arxiv.org/abs/2412.17756'>2024</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth</b> (with  M. Chudnovsky, S. Spirkl), <a href='https://arxiv.org/abs/2411.11842'>2024</a>.</li> </p>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth</b> (with M. Chudnovsky, S. Spirkl), <b><a href='https://arxiv.org/abs/2411.11842'>2024</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs</b> (with  M. Chudnovsky, P. Gartland, D. Lokshtanov, S. Spirkl), <a href='https://arxiv.org/abs/2407.08927'>2024</a>.<br/>
+<p class="bottom-one"> <li> <b>Tree independence number IV. Even-hole-free graphs</b> (with M. Chudnovsky, P. Gartland, D. Lokshtanov, S. Spirkl), <b><a href='https://arxiv.org/abs/2407.08927'>2024</a></b>.<br/>
 • Conference version appeared in <b><a href='https://epubs.siam.org/doi/10.1137/1.9781611978322.151'>SODA 2025</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth</b> (with  M. Chudnovsky, P. Gartland, D. Lokshtanov, S. Spirkl), <a href='https://arxiv.org/abs/2402.14211'>2024</a>.</li> </p>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth</b> (with M. Chudnovsky, P. Gartland, D. Lokshtanov, S. Spirkl), <b><a href='https://arxiv.org/abs/2402.14211'>2024</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth</b> (with  B. Alecu, M. Chudnovsky, S. Spirkl), <a href='https://arxiv.org/abs/2309.04390'>2023</a>.</li> </p>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth</b> (with B. Alecu, M. Chudnovsky, S. Spirkl), <b><a href='https://arxiv.org/abs/2309.04390'>2023</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions X. Towards logarithmic treewidth for even-hole-free graphs</b> (with  T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl), <a href='https://arxiv.org/abs/2307.13684'>2023</a>.</li> </p>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions X. Towards logarithmic treewidth for even-hole-free graphs</b> (with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl), <b><a href='https://arxiv.org/abs/2307.13684'>2023</a></b>.</li> </p>
 
 <blockquote>
   Published in 2026
