@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I hold an NSERC Canada Postdoctoral Research Award in Mathematics at the University of Toronto. I completed my PhD between 2020 and 2024 with Sophie Sophie Spirkl in the C&O department at the University of Waterloo.
+I am a Postdoctoral Scholar in the C&O department at the University of Waterloo. In 2024, I was appointed Junior Faculty (Instructor) in the Department of Mathematics at Princeton University, but visa delays prevented me from taking up the position.
 
-My first post-PhD appointment was Junior Faculty (Instructor) in Mathematics at Princeton University. I never made it to Princeton, courtesy of a <a href='https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/'>presidential proclamation</a> that has been safeguarding the U.S. national security through such effective measures as denying entry to graph theorists solely on the basis of their citizenship. I spent 2024 - 2026 as a Postdoctoral Scholar at Waterloo waiting for this to change. It didn’t. 
+I received my PhD in 2024 from the C&O department at the University of Waterloo. My advisor was <a href='https://sites.google.com/site/sophiespirkl/'>Sophie Spirkl</a>. 
 
 
 
