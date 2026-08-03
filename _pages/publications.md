@@ -20,11 +20,11 @@ nav_order: 1
   Preprints
 </blockquote>
 
-<p class="bottom-one"> <li> <b>Forcing monochromatic induced subgraphs [<a href='https://arxiv.org/abs/2606.24695'>arXiv 2026</a>]</b><br/>
- with S. Spirkl.</li> </p>
+<p class="bottom-one"> <li> <b><a href='https://arxiv.org/abs/2606.24695'>Forcing monochromatic induced subgraphs</a></b>
+ (with S. Spirkl), 2026. </li> </p>
 
-<p class="bottom-one"> <li> <b>Asymmetric induced saturation [<a href='https://arxiv.org/abs/2606.24763'>arXiv 2026</a>]</b><br/>
- with  X. Fan, Sahab Hajebi and S. Spirkl.</li> </p>
+<p class="bottom-one"> <li> <b><a href='https://arxiv.org/abs/2606.24763'>Asymmetric induced saturation</a></b>
+(with  X. Fan, Sahab Hajebi and S. Spirkl), 2026.</li> </p>
 
 
 <p class="bottom-one"> <li> <b>Tree-alpha and excluding finitely many graphs [<a href='https://arxiv.org/abs/2605.01223'>arXiv 2026</a>]</b><br/>
@@ -65,12 +65,11 @@ with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 </blockquote>
 
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests</b>, with  M. Chudnovsky, J. Codsi and S. Spirkl<br/>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests</b> (with  M. Chudnovsky, J. Codsi and S. Spirkl)<br/>
 <a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>SIAM Journal on Discrete Mathematics</b></a>
  </li> </p>
 
-<p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b>, <a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.70088'><b>Journal of Graph Theory</b></a><br/>
-with  M. Chudnovsky and N. Trotignon.</li></p>
+<p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b> (with  M. Chudnovsky and N. Trotignon)<br/> <a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.70088'><b>Journal of Graph Theory</b></a></li></p>
 
 <p class="bottom-one"> <li> <b> Suns in triangle-free graphs of large chromatic number</b><br/>
 <a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i1p55'><b>Electronic Journal of Combinatorics</b></a><br/>
