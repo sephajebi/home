@@ -65,12 +65,11 @@ with  M. Chudnovsky, P. Gartland, D. Lokshtanov and S. Spirkl.</li> </p>
 </blockquote>
 
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests</b><br/>
-<a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>SIAM Journal on Discrete Mathematics</b></a><br/>
- with  M. Chudnovsky, J. Codsi and S. Spirkl.</li> </p>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests</b>, with  M. Chudnovsky, J. Codsi and S. Spirkl<br/>
+<a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>SIAM Journal on Discrete Mathematics</b></a>
+ </li> </p>
 
-<p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b><br/>
-<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.70088'><b>Journal of Graph Theory</b></a><br/>
+<p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b>, <a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.70088'><b>Journal of Graph Theory</b></a><br/>
 with  M. Chudnovsky and N. Trotignon.</li></p>
 
 <p class="bottom-one"> <li> <b> Suns in triangle-free graphs of large chromatic number</b><br/>
