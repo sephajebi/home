@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 
 I hold an NSERC Canada Postdoctoral Research Award in Mathematics at the University of Toronto. I completed my PhD between 2020 and 2024 with Sophie Sophie Spirkl in the C&O department at the University of Waterloo.
 
-My first post-PhD appointment was Junior Faculty (Instructor) in Mathematics at Princeton University. I never made it to Princeton, courtesy of a <a href='https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/'>presidential proclamation</a> that has been safeguarding the U.S. national security through such effective measures as denying entry to graph theorists solely on the basis of their citizenship. I spent Sep 2024 - Aug 2026 as a Postdoctoral Scholar at the University of Waterloo waiting for this to change. It didn’t. 
+My first post-PhD appointment was Junior Faculty (Instructor) in Mathematics at Princeton University. I never made it to Princeton, courtesy of a <a href='https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/'>presidential proclamation</a> that has been safeguarding the U.S. national security through such effective measures as denying entry to graph theorists solely on the basis of their citizenship. I spent 2024 - 2026 as a Postdoctoral Scholar at Waterloo waiting for this to change. It didn’t. 
 
 
 
