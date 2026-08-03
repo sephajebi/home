@@ -38,7 +38,7 @@ nav_order: 1
 
 <p class="bottom-one"> <li> <b><a href='https://arxiv.org/abs/2504.21093'>Bull-free graphs and \(\chi\)-boundedness</a></b>, 2025.</li></p>
 
-<p class="bottom-one"> <li> <b>[<a href='https://arxiv.org/abs/2412.17756'>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth</a></b> (with  M. Chudnovsky and S. Spirkl), 2024.</li> </p>
+<p class="bottom-one"> <li> <b><a href='https://arxiv.org/abs/2412.17756'>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth</a></b> (with  M. Chudnovsky and S. Spirkl), 2024.</li> </p>
 
 <p class="bottom-one"> <li> <b><a href='https://arxiv.org/abs/2411.11842'>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth</a></b> (with  M. Chudnovsky and S. Spirkl), 2024.</li> </p>
 
