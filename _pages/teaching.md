@@ -7,14 +7,14 @@ nav: true
 nav_order: 3
 ---
 
-> Courses taught at Waterloo
+> Courses taught at the University of Waterloo
 
 * <b>CO 380 Mathematical Dicovery and Invention</b> (Spring 2026)
 * <b>MATH 135 Algebra for Honours Mathematics</b> (Winter 2026)
 * <b>MATH 116 Calculus I for Engineering</b> (Fall 2025 -- <a href="{{ 'MATH116_Lecture_Notes.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> Notes</a>)
 
 
-> Courses TA'ed as PhD student at Waterloo
+> Courses TA'ed at the University of Waterloo
 
 * <b>CO342 Graph Theory</b> (Spring 2023)
 * <b>MATH138 Calculus II for Honors Mathematics</b> (Winter 2023)
@@ -27,10 +27,9 @@ nav_order: 3
 * <b>CO442/642 Graph Theory (graduate)</b> (Fall 2021)
 * <b>CO351 Network-Flow Theory</b> (Spring 2021)
 
-
     
 
-> Courses TA'ed as BSc/MSc student at Isfahan University of Technology
+> Courses TA'ed at Isfahan University of Technology
 
 * <b>Computational Complexity (graduate)</b> (2019)
 * <b>Elements of Matrics and Linear Algebra</b> (2018)
