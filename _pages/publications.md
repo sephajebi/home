@@ -24,7 +24,7 @@ nav_order: 1
 with S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Asymmetric induced saturation</b>, <b><a href='https://arxiv.org/abs/2606.24763'>2026</a></b>.<br/>
-(with X. Fan, Sahab Hajebi, S. Spirkl.)</li> </p>
+with X. Fan, Sahab Hajebi, S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Tree-alpha and excluding finitely many graphs</b>, <b><a href='https://arxiv.org/abs/2605.01223'>2026</a></b>.<br/>
 with S. Spirkl.</li> </p>
