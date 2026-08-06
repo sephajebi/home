@@ -6,7 +6,6 @@ nav: true
 nav_order: 1
 ---
 
-{{< rawhtml >}}
 <ol reversed>
 
 <style>
@@ -165,4 +164,3 @@ Nothing.
 <a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'><b>Journal of Graph Theory</b></a> (with R. Javadi).</li></p>
     
 </ol>
-{{< /rawhtml >}}
