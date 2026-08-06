@@ -22,7 +22,7 @@ I am a Postdoctoral Scholar in the C&O department at the University of Waterloo.
 <br/>
 
 <div style="text-align: justify;">
-I did my PhD between 2020 and 2024 with Sophie Spirkl in the C&O department at the University of Waterloo.
+I graduated in 2024 from the University of Waterloo where I did my PhD with Sophie Spirkl in the C&O department.
 </div>
 <br/>
 
