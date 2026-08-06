@@ -16,20 +16,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<div style="text-align: justify;">
+
 I am a Postdoctoral Scholar in the C&O department at the University of Waterloo. In 2024, I was appointed Junior Faculty (Instructor) in the Department of Mathematics at Princeton University, but visa delays prevented me from taking up the position.
-</div>
-<br/>
 
-<div style="text-align: justify;">
+
 I graduated in 2024 from the University of Waterloo where I did my PhD with Sophie Spirkl in the C&O department.
-</div>
-<br/>
 
-<div style="text-align: justify;">
+
 My research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
-</div>
-<br/>
+
 
 <i class="fas fa-envelope"></i> shajebi at uwaterloo dot ca\
 <a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'><i class="ai ai-google-scholar"></i> Google Scholar</a>\
