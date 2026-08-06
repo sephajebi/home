@@ -17,15 +17,15 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-<div style="width: 600px; text-align: justify; margin-bottom:0.5em;">
+<div style="width: 600px; text-align: justify; margin-bottom:0.7em;">
 I am a Postdoctoral Scholar in the C&O department at University of Waterloo. In 2024, I was appointed Junior Faculty (Instructor) in the Department of Mathematics at Princeton University, but visa delays prevented me from taking up the position.
 </div>
 
-<div style="width: 600px; text-align: justify; margin-bottom:0.5em;">
+<div style="width: 600px; text-align: justify; margin-bottom:0.7em;">
 I graduated in 2024 from the University of Waterloo where I did my PhD with Sophie Spirkl in the C&O department.
 </div>
 
-<div style="width: 600px; text-align: justify; margin-bottom:0.5em;">
+<div style="width: 600px; text-align: justify; margin-bottom:0.7em;">
 My current research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
 </div>
 
