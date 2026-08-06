@@ -36,7 +36,7 @@ I did my PhD between 2020 and 2024 with Sophie Spirkl in the C&O department at t
     width: 600px;
     text-align: justify;
 ">
-My current research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
+My research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
 </div>
 <br/>
 
@@ -45,6 +45,8 @@ My current research is in combinatorics and graph theory, with a focus on struct
 <i class="fas fa-envelope"></i> shajebi at uwaterloo dot ca\
 <a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'><i class="ai ai-google-scholar"></i> Google Scholar</a>\
 <a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> CV</a> <br />
+<br />
+<br />
 <br />
 <br />
 <br />
