@@ -17,15 +17,15 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-<div style="width: 600px; text-align: justify; margin-bottom:0.7em;">
+<div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
 I am a Postdoctoral Scholar in the C&O department at University of Waterloo. In 2024, I was appointed Junior Faculty (Instructor) in the Department of Mathematics at Princeton University, but visa delays prevented me from taking up the position.
 </div>
 
-<div style="width: 600px; text-align: justify; margin-bottom:0.7em;">
+<div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
 I graduated in 2024 from the University of Waterloo where I did my PhD with Sophie Spirkl in the C&O department.
 </div>
 
-<div style="width: 600px; text-align: justify; margin-bottom:0.7em;">
+<div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
 My current research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
 </div>
 
@@ -38,7 +38,7 @@ My current research is in combinatorics and graph theory, with a focus on struct
 <br />
 <br />
 
-<div style="width: 100%; text-align: justify;">
+<div style="width: 100%; text-align: justify;margin-bottom:0.5em;">
 "If there is one thing in mathematics that fascinates me more than anything else (and probably always has), it is neither 'number' nor 'size,' but always form. And among the thousand and one faces that form chooses to manifest itself to us, the one that has fascinated me more than any other and continues to fascinate me is the hidden structure within mathematical things."
 </div>
 
