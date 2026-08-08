@@ -4,10 +4,6 @@
 
 // Typography
 
-body {
-  font-family: Garamond, Georgia, serif !important;
-}
-
 
 p,
 h1,
@@ -22,6 +18,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: Garamond, Georgia, serif !important;
 }
 
 hr {
