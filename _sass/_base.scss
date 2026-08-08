@@ -24,6 +24,10 @@ strong {
   font-family: Calibri, "Carlito", Arial, sans-serif !important;
 }
 
+strong, b {
+  font-weight: 700 !important;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
