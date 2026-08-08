@@ -4,6 +4,9 @@
 
 // Typography
 
+body {
+  font-size: 13pt;
+}
 
 p,
 h1,
@@ -18,7 +21,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: Calibri !important;
+  font-family: Calibri, "Carlito", Arial, sans-serif !important;
 }
 
 hr {
