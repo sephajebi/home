@@ -34,5 +34,5 @@ nav_order: 3
 * <b>Computational Complexity (graduate)</b> (2019)
 * <b>Elements of Matrics and Linear Algebra</b> (2018)
 * <b>Applied Linear Algebra for Engineering</b> (2018)
-* <b>Graph Theory (graduate)</b> (2014, 2016, 2017)
+* <b>Graph Theory </b> (2014, 2016, 2017)
 * <b>Elements of Combinatorics</b> (2014, 2016, 2017)
