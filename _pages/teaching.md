@@ -24,7 +24,7 @@ nav_order: 3
 * <b>MATH239 Introduction to Combinatorics</b> (Winter 2022)
 * <b>CO255 Advanced Optimization</b> (Winter 2022)
 * <b>CO250 Introduction to Optimization</b> (Fall 2021 and 2023; Winter 2023 and 2024, Spring 2024)
-* <b>CO442/642 Graph Theory (graduate)</b> (Fall 2021)
+* <b>CO442/642 Graph Theory </b> (Fall 2021)
 * <b>CO351 Network-Flow Theory</b> (Spring 2021)
 
     
@@ -34,6 +34,5 @@ nav_order: 3
 * <b>Computational Complexity (graduate)</b> (2019)
 * <b>Elements of Matrics and Linear Algebra</b> (2018)
 * <b>Applied Linear Algebra for Engineering</b> (2018)
-* <b>Graph Theory</b> (2016)
-* <b>Graph Theory (graduate)</b> (2014, 2017)
+* <b>Graph Theory (graduate)</b> (2014, 2016, 2017)
 * <b>Elements of Combinatorics</b> (2014, 2016, 2017)
