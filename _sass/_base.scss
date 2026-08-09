@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
@@ -21,11 +23,11 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: "Ubuntu", sans-serif !important;
+  font-family: Ubuntu !important;
 }
 
 strong, b {
-  font-weight: 550 !important;
+  font-weight: 500 !important;
 }
 
 hr {
