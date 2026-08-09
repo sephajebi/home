@@ -26,7 +26,7 @@ I graduated in 2024 from the University of Waterloo where I did my PhD with Soph
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
-My current research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
+My research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
 </div>
 
 
