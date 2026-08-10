@@ -1,16 +1,29 @@
 ---
 layout: page
 permalink: /publications/
-title: Papers
+title: Research
 nav: true
 nav_order: 1
 ---
 
-<ol reversed>
+<ol class="reverse-zero">
 
 <style>
   .bottom-one {
      margin-bottom: 3mm;
+  }
+
+  ol.reverse-zero {
+    list-style: none;
+    counter-reset: reversed(paper);
+  }
+
+  ol.reverse-zero li {
+    counter-increment: paper -1;
+  }
+
+  ol.reverse-zero li::before {
+    content: counter(paper) ". ";
   }
 </style>
 
@@ -136,5 +149,11 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 
 <p class="bottom-one"><li><b>Edge clique cover of claw-free graphs</b><br/>
 <a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'><b>Journal of Graph Theory (2019)</b></a>, with R. Javadi.</li></p>
+
+<blockquote>
+  PhD thesis
+</blockquote>
+
+<p class="bottom-one"> <li><b>Foreshadowing the Grid Theorem for induced subgraphs</b>, <a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>Universoty of Waterloo (2024)</b></a>.</li> </p>
 </ol>
 
