@@ -138,10 +138,3 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 <a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'><b>Journal of Graph Theory</b></a> (with R. Javadi).</li></p>
 </ol>
 
-<blockquote>
-  PhD thesis
-</blockquote>
-
-<a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9ffc-58bd5950c99b'><b>Foreshadowing the Grid Theorem for induced subgraphs</b></a>, <b>University of Waterloo (2024)</b>.
-    
-
