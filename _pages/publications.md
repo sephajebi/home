@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Research
+title: Publications
 nav: true
 nav_order: 1
 ---
@@ -141,7 +141,7 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
   PhD thesis
 </blockquote>
 
-<p class="bottom-one"> <li><b>Foreshadowing the Grid Theorem for induced subgraphs</b>, <a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>Universoty of Waterloo (2024)</b></a>.</li> </p>
+<p class="bottom-one"> <li><b>Foreshadowing the Grid Theorem for induced subgraphs</b>, <a href='https://uwspace.uwaterloo.ca/items/0ff1e564-5de5-48bd-9ffc-58bd5950c99b'><b>Universoty of Waterloo (2024)</b></a>.</li> </p>
 </ol>
 
 <script>
