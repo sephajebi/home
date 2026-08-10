@@ -61,80 +61,80 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
   Journal publications
 </blockquote>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests</b><br/>
-<a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>SIAM Journal on Discrete Mathematics</b></a> (with M. Chudnovsky, J. Codsi, S. Spirkl).</li> </p>
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests </b><br/>
+<a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>SIAM Journal on Discrete Mathematics (2026)</b></a>, with M. Chudnovsky, J. Codsi, S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Tree independence number III. Thetas, prisms and stars</b><br/>
-<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.70088'><b>Journal of Graph Theory</b></a> (with M. Chudnovsky, N. Trotignon).</li></p>
+<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.70088'><b>Journal of Graph Theory (2026)</b></a>, with M. Chudnovsky, N. Trotignon.</li></p>
 
 <p class="bottom-one"> <li> <b>Suns in triangle-free graphs of large chromatic number</b><br/>
-<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i1p55'><b>Electronic Journal of Combinatorics</b></a> (with S. Spirkl).</li></p>
+<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i1p55'><b>Electronic Journal of Combinatorics (2026)</b></a>, with S. Spirkl.</li></p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVI. Complete bipartite induced minors</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0095895625000735'><b>Journal of Combinatorial Theory, Series B</b></a> (with M. Chudnovsky, S. Spirkl).</li> </p>
+<a href='https://www.sciencedirect.com/science/article/pii/S0095895625000735'><b>Journal of Combinatorial Theory, Series B (2026)</b></a>, with M. Chudnovsky, S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Tree independence number II. Three-path-configurations</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0095895625000590'><b>Journal of Combinatorial Theory, Series B</b></a> (with M. Chudnovsky, D. Lokshtanov, S. Spirkl).</li> </p>
+<a href='https://www.sciencedirect.com/science/article/pii/S0095895625000590'><b>Journal of Combinatorial Theory, Series B (2026)</b></a>, with M. Chudnovsky, D. Lokshtanov, S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Chordal graphs, even-hole-free graphs and sparse obstructions to bounded treewidth</b><br/>
-<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.23276'><b>Journal of Graph Theory</b></a>.</li></p>
+<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.23276'><b>Journal of Graph Theory (2025)</b></a>.</li></p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions IX. Grid theorem for perforated graphs</b><br/>
-<a href='https://www.advancesincombinatorics.com/article/129887-induced-subgraphs-and-tree-decompositions-ix-grid-theorem-for-perforated-graphs'><b>Advances in Combinatorics</b></a> (with B. Alecu, M. Chudnovsky, S. Spirkl).</li> </p>
+<a href='https://www.advancesincombinatorics.com/article/129887-induced-subgraphs-and-tree-decompositions-ix-grid-theorem-for-perforated-graphs'><b>Advances in Combinatorics (2025)</b></a>, with B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XII. Grid theorem for pinched graphs</b><br/>
-<a href='https://igt.centre-mersenne.org/articles/10.5802/igt.6/'><b>Innovations in graph theory</b></a> (with B. Alecu, M. Chudnovsky, S. Spirkl).</li> </p>
+<a href='https://igt.centre-mersenne.org/articles/10.5802/igt.6/'><b>Innovations in graph theory (2025)</b></a>, with B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIV. Non-adjacent neighbors in a hole</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'><b>European Journal of Combinatorics</b></a> (with M. Chudnovsky, S. Spirkl).</li> </p>
+<a href='https://www.sciencedirect.com/science/article/pii/S0195669824001598'><b>European Journal of Combinatorics (2025)</b></a>, with M. Chudnovsky, S. Spirkl.</li> </p>
 
 <p class="bottom-one"><li> <b>Induced subdivisions with pinned branch vertices</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0195669824001574'><b>European Journal of Combinatorics</b></a>.
+<a href='https://www.sciencedirect.com/science/article/pii/S0195669824001574'><b>European Journal of Combinatorics (2025)</b></a>.
 </li></p>
 
 <p class="bottom-one"><li> <b>Induced subgraphs and tree decompositions VI. Graphs with \(2\)-cutsets</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0012365X24003261'><b>Discrete Mathematics</b></a> (with T. Abrishami, M. Chudnovsky, S. Spirkl).</li></p>
+<a href='https://www.sciencedirect.com/science/article/pii/S0012365X24003261'><b>Discrete Mathematics (2025)</b></a>, with T. Abrishami, M. Chudnovsky, S. Spirkl.</li></p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstructions in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b><br/>
-<a href='https://www.advancesincombinatorics.com/article/125859-induced-subgraphs-and-tree-decompositions-xiii-basic-obstructions-in-h-free-graphs-for-finite-h'><b>Advances in Combinatorics</b></a> (with B. Alecu, M. Chudnovsky, S. Spirkl).</li> </p>
+<a href='https://www.advancesincombinatorics.com/article/125859-induced-subgraphs-and-tree-decompositions-xiii-basic-obstructions-in-h-free-graphs-for-finite-h'><b>Advances in Combinatorics (2024)</b></a>, with B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 
 <p class="bottom-one"><li> <b>List-\(k\)-Coloring \(H\)-free graphs for all \(k>4\)</b><br/>
-<a href='https://link.springer.com/article/10.1007/s00493-024-00106-2'><b>Combinatorica</b></a> (with M. Chudnovsky, S. Spirkl).</li></p>
+<a href='https://link.springer.com/article/10.1007/s00493-024-00106-2'><b>Combinatorica (2024)</b></a>, with M. Chudnovsky, S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b>Induced subgraphs and tree decompositions VIII. Excluding a forest in (theta, prism)-free graphs</b><br/>
-<a href='https://link.springer.com/article/10.1007/s00493-024-00097-0'><b>Combinatorica</b></a> (with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl).</li></p>
+<a href='https://link.springer.com/article/10.1007/s00493-024-00097-0'><b>Combinatorica (2024)</b></a>, with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li></p>
 
 <p class="bottom-one"><li> <b>Tree independence number I. (Even hole, diamond, pyramid)-free graphs</b><br/>
-<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.23104'><b>Journal of Graph Theory</b></a> (with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl, K. Vušković).</li></p>
+<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.23104'><b>Journal of Graph Theory (2024)</b></a> with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl, K. Vušković.</li></p>
 
 <p class="bottom-one"><li><b>List-\(3\)-Coloring ordered graphs with a forbidden induced subgraph</b><br/>
-<a href='https://epubs.siam.org/doi/10.1137/22M1515768'><b>SIAM Journal on Discrete Mathematics</b></a> (with Y. Li, S. Spirkl).</li></p>
+<a href='https://epubs.siam.org/doi/10.1137/22M1515768'><b>SIAM Journal on Discrete Mathematics (2024)</b></a>, with Y. Li, S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b>Hitting all maximum stable sets in \(P_5\)-free graphs</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'><b>Journal of Combinatorial Theory, Series B</b></a> (with Y. Li, S. Spirkl).</li></p>
+<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000990?dgcid=author'><b>Journal of Combinatorial Theory, Series B (2024)</b></a>, with Y. Li, S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b>Induced subgraphs and tree decompositions VII. Basic obstructions in \(H\)-free graphs</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'><b>Journal of Combinatorial Theory, Series B</b></a> (with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl).</li></p>
+<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000904'><b>Journal of Combinatorial Theory, Series B (2024)</b></a>, with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b>Induced subgraphs and tree decompositions II. Toward walls and their line graphs in graphs of bounded degree</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'><b>Journal of Combinatorial Theory, Series B</b></a> (with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl, K. Vušković).</li></p>
+<a href='https://www.sciencedirect.com/science/article/pii/S0095895623000862?dgcid=author'><b>Journal of Combinatorial Theory, Series B (2024)</b></a>, with T. Abrishami, M. Chudnovsky, C. Dibek, P. Rzążewski, S. Spirkl, K. Vušković.</li></p>
 
 <p class="bottom-one"><li><b>Induced subgraphs and tree decompositions V. One neighbor in a hole</b><br/>
-<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'><b>Journal of Graph Theory</b></a> (with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl, K. Vušković).</li></p>
+<a href='https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.23055'><b>Journal of Graph Theory (2023)</b></a>, with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl, K. Vušković.</li></p>
 
 <p class="bottom-one"><li><b>Induced subgraphs and tree decompositions IV. (Even hole, diamond, pyramid)-free graphs</b><br/>
-<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42'><b>Electronic Journal of Combinatorics</b></a> (with T. Abrishami, M. Chudnovsky, S. Spirkl).</li></p>
+<a href='https://www.combinatorics.org/ojs/index.php/eljc/article/view/v30i2p42'><b>Electronic Journal of Combinatorics (2023)</b></a>, with T. Abrishami, M. Chudnovsky, S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b>Induced subgraphs and tree decompositions III. Three-path-configurations and logarithmic treewidth</b><br/>
-<a href='https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth'><b>Advances in Combinatorics</b></a> (with T. Abrishami, M. Chudnovsky, S. Spirkl).</li></p>
+<a href='https://www.advancesincombinatorics.com/article/38089-induced-subgraphs-and-tree-decompositions-iii-three-path-configurations-and-logarithmic-treewidth'><b>Advances in Combinatorics (2022)</b></a>, with T. Abrishami, M. Chudnovsky, S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b>Complexity dichotomy for List-\(5\)-Coloring with a forbidden induced subgraph</b><br/>
-<a href='https://epubs.siam.org/doi/10.1137/21M1443352'><b>SIAM Journal on Discrete Mathematics</b></a> (with Y. Li, S. Spirkl).</li></p>
+<a href='https://epubs.siam.org/doi/10.1137/21M1443352'><b>SIAM Journal on Discrete Mathematics (2022)</b></a>, with Y. Li, S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b>Minimal induced subgraphs of two classes of \(2\)-connected non-Hamiltonian graphs</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?via%3Dihub'><b>Discrete Mathematics</b></a> (with J. Cheriyan, Z. Qu, S. Spirkl).</li></p>
+<a href='https://www.sciencedirect.com/science/article/pii/S0012365X22000759?via%3Dihub'><b>Discrete Mathematics (2022)</b></a>, with J. Cheriyan, Z. Qu, S. Spirkl.</li></p>
 
 <p class="bottom-one"><li><b>Edge clique cover of claw-free graphs</b><br/>
-<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'><b>Journal of Graph Theory</b></a> (with R. Javadi).</li></p>
+<a href='https://onlinelibrary.wiley.com/doi/10.1002/jgt.22403'><b>Journal of Graph Theory (2019)</b></a>, with R. Javadi.</li></p>
 </ol>
 
