@@ -58,7 +58,7 @@ with B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 
 <blockquote>
-  Journal publications
+  Journal papers
 </blockquote>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests </b><br/>
