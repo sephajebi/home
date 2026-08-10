@@ -6,24 +6,11 @@ nav: true
 nav_order: 1
 ---
 
-<ol class="reverse-zero">
+<ol reversed>
 
 <style>
   .bottom-one {
      margin-bottom: 3mm;
-  }
-
-  ol.reverse-zero {
-    list-style: none;
-    counter-reset: reversed(paper);
-  }
-
-  ol.reverse-zero li {
-    counter-increment: paper -1;
-  }
-
-  ol.reverse-zero li::before {
-    content: counter(paper) ". ";
   }
 </style>
 
@@ -157,3 +144,7 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 <p class="bottom-one"> <li><b>Foreshadowing the Grid Theorem for induced subgraphs</b>, <a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>Universoty of Waterloo (2024)</b></a>.</li> </p>
 </ol>
 
+<script>
+  const list = document.querySelector("ol[reversed]");
+  list.start = list.querySelectorAll("li").length - 1;
+</script>
