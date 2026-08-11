@@ -16,6 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+<br/>
+<b> About me:<b/><br/>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
 I am a Postdoctoral Scholar in the C&O department at University of Waterloo. In 2024, I was appointed Junior Faculty (Instructor) in the Department of Mathematics at Princeton University, but visa delays prevented me from taking up the position.
