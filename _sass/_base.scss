@@ -231,8 +231,7 @@ blockquote {
 // Profile
 
 .profile {
-  width: 90%;
-  margin-top: 20px;
+  width: 25.5%;
 
   .more-info {
     margin-bottom: 5px;
@@ -254,27 +253,31 @@ blockquote {
   margin-right: 1rem;
 }
 
-/* Mobile: center the profile image */
+/* Mobile: 25.5% width, centered, with space below */
 @media (max-width: 575px) {
-  .profile.float-right,
-  .profile.float-left {
+  .profile {
+    width: 25.5%;
     float: none !important;
     margin-left: auto !important;
     margin-right: auto !important;
+    margin-bottom: 20px !important;
     text-align: center;
   }
 
   .profile img {
     display: block;
+    width: 100%;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
   }
 }
 
-/* Desktop/tablet */
+/* Non-mobile: 25.5% width, floated as usual, with 40px space above */
 @media (min-width: 576px) {
   .profile {
     width: 25.5%;
+    margin-top: 40px;
 
     .address {
       p {
@@ -297,6 +300,7 @@ blockquote {
     }
   }
 }
+
 
 
 // Navbar customization
