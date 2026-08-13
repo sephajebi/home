@@ -231,8 +231,6 @@ blockquote {
 // Profile
 
 .profile {
-  width: 25.5%;
-
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
@@ -253,10 +251,10 @@ blockquote {
   margin-right: 1rem;
 }
 
-/* Mobile: 25.5% width, centered, with space below */
+/* Mobile */
 @media (max-width: 575px) {
   .profile {
-    width: 25.5%;
+    width: 60%;
     float: none !important;
     margin-left: auto !important;
     margin-right: auto !important;
@@ -273,7 +271,7 @@ blockquote {
   }
 }
 
-/* Non-mobile: 25.5% width, floated as usual, with 40px space above */
+/* Non-mobile */
 @media (min-width: 576px) {
   .profile {
     width: 25.5%;
@@ -300,7 +298,6 @@ blockquote {
     }
   }
 }
-
 
 
 // Navbar customization
