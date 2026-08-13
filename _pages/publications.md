@@ -19,7 +19,7 @@ nav_order: 1
   Preprints
 </blockquote>
 
-<p class="bottom-one"> <li> <b>Forcing monochromatic induced subgraphs</b>, <b><a href='https://arxiv.org/abs/2606.24695'><i class="ai ai-arxiv"></i> 2026</a>.</b><br/>
+<p class="bottom-one"> <li> <b>Forcing monochromatic induced subgraphs</b>, <b><a href='https://arxiv.org/abs/2606.24695'><span style="font-size: 120%;"><i class="ai ai-arxiv"></i></span> 2026</a>.</b><br/>
 with S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Asymmetric induced saturation</b>, <b><a href='https://arxiv.org/abs/2606.24763'>2026</a></b>.<br/>
