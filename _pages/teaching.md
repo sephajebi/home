@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+> Courses taught at the University of Toronto
+
+* <b>MATH 344 Introduction to Combinatorics</b> (Fall 2026)
+
+
 > Courses taught at the University of Waterloo
 
 * <b>CO 380 Mathematical Dicovery and Invention</b> (Spring 2026) <a href="{{ 'CO380_Lecture_Notes.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> <b>Notes<b/><a>
