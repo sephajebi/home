@@ -42,7 +42,7 @@ You can reach me at first name dot last name at utoronto dot ca. (My Waterloo em
 "If there is one thing in mathematics that fascinates me more than anything else (and probably always has), it is neither 'number' nor 'size,' but always form. And among the thousand and one faces that form chooses to manifest itself to us, the one that has fascinated me more than any other and continues to fascinate me is the hidden structure within mathematical things."
 </div>
 
-<p style="text-align:right; font-size: 9.5pt; font-style:italic">
+<p style="text-align:right; font-size: 9pt; font-style:italic">
 — A. Grothendieck, <a href="https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/RetSbis.pdf"><b>Récoltes et Semailles</b></a>, p. 43.</p>
 
 
