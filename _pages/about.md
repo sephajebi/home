@@ -31,10 +31,8 @@ My research is in combinatorics and graph theory, with a focus on structural gra
 </div>
 
 
-You can reach me at <span class="code-font">first name dot last name at utoronto dot ca</span>. (My Waterloo email is still active, but I check it less often.)\ 
-
-Here is my <b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> <i class="fas fa-file-pdf"></i> CV</a></b>. 
-
+You can reach me at <span class="code-font">first name dot last name at utoronto dot ca</span>. (My Waterloo email is still active, but I check it less often.)<br>
+Here is my <b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> <i class="fas fa-file-pdf"></i> CV</a></b>.<br>
 Here is the link to my page on <b><a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'> <i class="ai ai-google-scholar"></i> Google Scholar</a></b>.<br/>
 <br />
 <br />
