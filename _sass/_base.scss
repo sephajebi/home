@@ -355,6 +355,8 @@ margin-top: 20px;
 
     &:hover {
       color: var(--global-bg-color);
+      font-weight: 550;
+      text-decoration: none;
     }
   }
 
@@ -367,7 +369,7 @@ margin-top: 20px;
     /* Hover: bold, no underline */
     &:hover {
       color: var(--global-bg-color);
-      font-weight: bold;
+      font-weight: 550;
       text-decoration: none;
     }
   }
@@ -376,13 +378,13 @@ margin-top: 20px;
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     color: var(--global-bg-color);
-    font-weight: bold;
+    font-weight: 550;
     text-decoration: underline;
 
     /* Stay bold and underlined when hovered */
     &:hover {
       color: var(--global-bg-color);
-      font-weight: bold;
+      font-weight: 550;
       text-decoration: underline;
     }
   }
