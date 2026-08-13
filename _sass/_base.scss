@@ -254,7 +254,7 @@ blockquote {
 /* Mobile */
 @media (max-width: 575px) {
   .profile {
-    width: 75%;
+    width: 80%;
     float: none !important;
     margin-left: auto !important;
     margin-right: auto !important;
@@ -274,7 +274,7 @@ blockquote {
 /* Non-mobile */
 @media (min-width: 576px) {
   .profile {
-    width: 25.5%;
+    width: 25%;
     margin-top: 35px;
 
     .address {
