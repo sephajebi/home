@@ -25,6 +25,11 @@ strong {
   color: var(--global-text-color);
   font-family: Ubuntu !important;
 }
+/* Monospace text without code highlighting */
+.code-font {
+  font-family: monospace !important;
+  background: none;
+}
 
 strong, b {
   font-weight: 500 !important;
