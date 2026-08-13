@@ -7,12 +7,14 @@ nav: true
 nav_order: 3
 ---
 
-> Courses taught at the University of Toronto
+> Course taught
+
+▸ University of Toronto (2026--)<br/>
 
 * <b>MATH 344 Introduction to Combinatorics</b> (Fall 2026)
+<br/>
 
-
-> Courses taught at the University of Waterloo
+▸ University of Waterloo (2024--2026)<br/>
 
 * <b>CO 380 Mathematical Dicovery and Invention</b> (Spring 2026) <a href="{{ 'CO380_Lecture_Notes.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> <b>Notes<b/><a>
 * <b>MATH 135 Algebra for Honours Mathematics</b> (Winter 2026)
@@ -22,7 +24,7 @@ nav_order: 3
 
 > TA work
 
-▶ University of Waterloo:<br/>
+▸ University of Waterloo (2020--2024)<br/>
 
 * <b>CO 342 Graph Theory</b> (Spring 2023)
 * <b>MATH 138 Calculus II for Honors Mathematics</b> (Winter 2023)
@@ -34,9 +36,9 @@ nav_order: 3
 * <b>CO 250 Introduction to Optimization</b> (Fall 2021 and 2023; Winter 2023 and 2024, Spring 2024)
 * <b>CO 442/642 Graph Theory </b> (Fall 2021)
 * <b>CO 351 Network-Flow Theory</b> (Spring 2021)
-
+<br/>
     
-▶ Isfahan University of Technology:<br/>
+▸ Isfahan University of Technology (2014--2019)<br/>
 
 * <b>Computational Complexity </b> (2019)
 * <b>Elements of Matrics and Linear Algebra</b> (2018)
