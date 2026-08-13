@@ -24,14 +24,17 @@ I hold an NSERC Canada Postdoctoral Research Award in the Department of Mathemat
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
 I graduated in 2024 from the University of Waterloo where I did my PhD with Sophie Spirkl in the C&O department. My first post-PhD appointment was as junior faculty in the Department of Mathematics at Princeton University, but I never made it to Princeton — courtesy of a <b><a href='https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/'>presidential proclaim</a></b> under which apparently anyone with the wrong citizenship is a threat to U.S. national security. Instead, I stayed in Waterloo as a Postdoctoral Scholar from 2024 to 2026, waiting for that to change. It didn't.
+</div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
 My research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
 </div>
 
 
-You can reach me at <span class="code-font">first name dot last name at utoronto dot ca</span>. (My Waterloo email is still active, but I check it less often.)\
-Here is my <b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> <i class="fas fa-file-pdf"></i> CV</a></b>.\
+You can reach me at <span class="code-font">first name dot last name at utoronto dot ca</span>. (My Waterloo email is still active, but I check it less often.)\ 
+
+Here is my <b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> <i class="fas fa-file-pdf"></i> CV</a></b>. 
+
 Here is the link to my page on <b><a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'> <i class="ai ai-google-scholar"></i> Google Scholar</a></b>.<br/>
 <br />
 <br />
