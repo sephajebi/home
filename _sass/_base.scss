@@ -227,8 +227,7 @@ margin-top: 20px;
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
-  opacity: 0.95;
+  background-color: rgba(3, 45, 69, 0.95);
 }
 
 .navbar .dropdown-menu {
@@ -258,34 +257,52 @@ margin-top: 20px;
 }
 
 .navbar.navbar-light {
+
   a {
     &:hover {
       text-decoration: none;
     }
   }
 
+  /* Site name on the left */
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--global-bg-color);
+
+    &:hover {
+      color: var(--global-bg-color);
+    }
   }
 
+  /* Normal page titles */
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-bg-color);
+    font-weight: normal;
+    text-decoration: none;
 
+    /* Hover: bold, no underline */
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-bg-color);
+      font-weight: bold;
+      text-decoration: none;
     }
   }
 
-  .navbar-nav .nav-item.active>.nav-link {
+  /* Current page: bold and underlined */
+  .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
-    font-weight: bolder;
-    color: var(--global-theme-color);
+    color: var(--global-bg-color);
+    font-weight: bold;
+    text-decoration: underline;
 
+    /* Stay bold and underlined when hovered */
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-bg-color);
+      font-weight: bold;
+      text-decoration: underline;
     }
   }
 
+  /* Social icons if they appear in the navbar */
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
@@ -293,13 +310,13 @@ margin-top: 20px;
 
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-bg-color);
         transition-property: all 0.2s ease-in-out;
       }
 
       &:hover {
         i::before {
-          color: var(--global-theme-color);
+          color: var(--global-bg-color);
         }
       }
     }
