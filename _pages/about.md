@@ -33,8 +33,8 @@ My research is in combinatorics and graph theory, with a focus on structural gra
 
 
 <i class="fas fa-envelope"></i> shajebi at uwaterloo dot ca\
-<a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'><i class="ai ai-google-scholar"></i> <b>Google Scholar<b/></a>\
-<a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> <b>CV<b/></a> <br />
+<a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'><i class="ai ai-google-scholar"></i> <b>Google Scholar<b/><a>\
+<a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> <b>CV<b/><a> <br />
 <br />
 <br />
 <br />
@@ -46,6 +46,6 @@ My research is in combinatorics and graph theory, with a focus on structural gra
 </div>
 
 <p style="text-align:right; font-size: 10pt; font-style:italic">
-— A. Grothendieck, <a href="https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/RetSbis.pdf"><b>Récoltes et Semailles<b/></a>, p. 43.</p>
+— A. Grothendieck, <a href="https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/RetSbis.pdf"><b>Récoltes et Semailles<b/><a>, p. 43.</p>
 
 
