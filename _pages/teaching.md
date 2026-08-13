@@ -20,7 +20,9 @@ nav_order: 3
 <a href="{{ 'MATH116_Lecture_Notes.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> <b>Notes<b/> <a>
 
 
-> Courses TA'ed at the University of Waterloo
+> TA work
+
+<b>University of Waterloo:<b/><br/>
 
 * <b>CO 342 Graph Theory</b> (Spring 2023)
 * <b>MATH 138 Calculus II for Honors Mathematics</b> (Winter 2023)
@@ -34,8 +36,7 @@ nav_order: 3
 * <b>CO 351 Network-Flow Theory</b> (Spring 2021)
 
     
-
-> Courses TA'ed at Isfahan University of Technology
+<b>Isfahan University of Technology:<b/><br/>
 
 * <b>Computational Complexity </b> (2019)
 * <b>Elements of Matrics and Linear Algebra</b> (2018)
