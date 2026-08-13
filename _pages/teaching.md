@@ -9,12 +9,12 @@ nav_order: 3
 
 > Lecturing
 
-<span style="font-size: 85%;">➤</span> University of Toronto (2026--)<br/>
+<span style="font-size: 80%;">➤</span> University of Toronto (2026--)<br/>
 
 * <b>MATH 344 Introduction to Combinatorics</b> (Fall 2026)
 <br/>
 
-<span style="font-size: 85%;">➤</span> University of Waterloo (2024--2026)<br/>
+<span style="font-size: 80%;">➤</span> University of Waterloo (2024--2026)<br/>
 
 * <b>CO 380 Mathematical Dicovery and Invention</b> (Spring 2026) <a href="{{ 'CO380_Lecture_Notes.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> <b>Notes<b/><a>
 * <b>MATH 135 Algebra for Honours Mathematics</b> (Winter 2026)
@@ -24,7 +24,7 @@ nav_order: 3
 
 > TA work
 
-<span style="font-size: 85%;">➤</span> University of Waterloo (2020--2024)<br/>
+<span style="font-size: 80%;">➤</span> University of Waterloo (2020--2024)<br/>
 
 * <b>CO 342 Graph Theory</b> (Spring 2023)
 * <b>MATH 138 Calculus II for Honors Mathematics</b> (Winter 2023)
@@ -38,7 +38,7 @@ nav_order: 3
 * <b>CO 351 Network-Flow Theory</b> (Spring 2021)
 <br/>
     
-<span style="font-size: 85%;">➤</span> Isfahan University of Technology (2014--2019)<br/>
+<span style="font-size: 80%;">➤</span> Isfahan University of Technology (2014--2019)<br/>
 
 * <b>Computational Complexity </b> (2019)
 * <b>Elements of Matrics and Linear Algebra</b> (2018)
