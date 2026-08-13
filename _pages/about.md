@@ -31,7 +31,7 @@ My research is in combinatorics and graph theory, with a focus on structural gra
 </div>
 
 
-Here are my <b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> <i class="fas fa-file-pdf"></i> CV</a></b> and my <b><a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'> <i class="ai google-scholar"></i> Google Scholar</a></b> profile.<br>
+Here are my <b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> <i class="fas fa-file-pdf"></i> CV</a></b> and my <b><a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'> <i class="ai ai-google-scholar"></i> Google Scholar</a></b> profile.<br>
 
 You can reach me at: first name dot last name at utoronto dot ca.<br />
 <br />
