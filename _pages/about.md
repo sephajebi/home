@@ -46,6 +46,6 @@ My research is in combinatorics and graph theory, with a focus on structural gra
 </div>
 
 <p style="text-align:right; font-size: 10pt; font-style:italic">
-— A. Grothendieck, <a href="https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/RetSbis.pdf"><b>Récoltes et Semailles<b/><a>, p. 43.</p>
+— A. Grothendieck, <a href="https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/RetSbis.pdf"><b>Récoltes et Semailles</b></a>, p. 43.</p>
 
 
