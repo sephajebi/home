@@ -36,8 +36,6 @@ Here is my <b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | rela
 Here is the link to my page on <b><a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'> <i class="ai ai-google-scholar"></i> Google Scholar</a></b>.<br/>
 <br />
 <br />
-<br />
-<br />
 
 <div style="width: 100%; text-align: justify; font-size: 10pt; margin-bottom:0.5em;">
 "If there is one thing in mathematics that fascinates me more than anything else (and probably always has), it is neither 'number' nor 'size,' but always form. And among the thousand and one faces that form chooses to manifest itself to us, the one that has fascinated me more than any other and continues to fascinate me is the hidden structure within mathematical things."
