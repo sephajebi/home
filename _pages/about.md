@@ -4,7 +4,7 @@ title: Home
 permalink: /
 
 profile:
-  align: right
+  align: center
   image: sepehr_hajebi_profile.jpg
   image_circular: true # crops the image to make it circular
   more_info:
