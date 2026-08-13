@@ -33,8 +33,8 @@ My research is in combinatorics and graph theory, with a focus on structural gra
 
 
 <i class="fas fa-envelope"></i> shajebi at uwaterloo dot ca\
-<i class="ai ai-google-scholar"></i><b><a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'>Google Scholar</a></b>\
-<i class="fas fa-file-pdf"></i><b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">CV</a></b><br/>
+<b><a href='https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ'> <i class="ai ai-google-scholar"></i> Google Scholar</a></b>\
+<b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> <i class="fas fa-file-pdf"></i> CV</a></b><br/>
 <br />
 <br />
 <br />
