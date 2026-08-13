@@ -22,7 +22,7 @@ nav_order: 3
 
 > TA work
 
-<b>University of Waterloo:<b/><br/>
+▶ University of Waterloo:<br/>
 
 * <b>CO 342 Graph Theory</b> (Spring 2023)
 * <b>MATH 138 Calculus II for Honors Mathematics</b> (Winter 2023)
@@ -36,7 +36,7 @@ nav_order: 3
 * <b>CO 351 Network-Flow Theory</b> (Spring 2021)
 
     
-<b>Isfahan University of Technology:<b/><br/>
+▶ Isfahan University of Technology:<br/>
 
 * <b>Computational Complexity </b> (2019)
 * <b>Elements of Matrics and Linear Algebra</b> (2018)
