@@ -1256,17 +1256,24 @@ nav[data-toggle="toc"] {
 
 //Icon buttons
 
+.icon-buttons {
+  display: flex;
+  gap: 10px;
+}
+
 .icon-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
 
-  padding: 8px 16px;
+  width: 42px;
+  height: 42px;
+
   background: var(--global-theme-color);
   color: white !important;
   border-radius: 5px;
 
-  font-size: 120%;
+  font-size: 150%;
   text-decoration: none !important;
 }
 
