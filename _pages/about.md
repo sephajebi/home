@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 <br/>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
-I hold an NSERC Canada Postdoctoral Research Award in the Department of Mathematics at the University of Toronto.
+I hold an NSERC Canada Postdoctoral Research Award in the Department of Mathematics at the University of Toronto. You can reach me at: first name dot last name at utoronto dot ca.
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
@@ -33,7 +33,10 @@ My research is in combinatorics and graph theory, with a focus on structural gra
 
 Here are my <b><a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> <i class="fas fa-file-pdf"></i> CV</a></b> and my <b><a href="https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a></b> profile.<br>
 
-You can reach me at: first name dot last name at utoronto dot ca.<br />
+<a href="{{ 'sepehr_hajebi_cv.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"> <i class="ai ai-cv"></i></a><br>
+<a href="https://scholar.google.com/citations?hl=en&authuser=1&user=jHoNmSkAAAAJ"><i class="ai ai-google-scholar"></i></a><br>
+
+<br />
 <br />
 <br />
 <br />
