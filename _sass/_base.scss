@@ -1251,3 +1251,27 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+
+
+//Icon buttons
+
+.icon-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 8px 16px;
+  background: var(--global-theme-color);
+  color: white !important;
+  border-radius: 5px;
+
+  font-size: 120%;
+  text-decoration: none !important;
+}
+
+.icon-button:hover {
+  color: white !important;
+  opacity: 0.85;
+  text-decoration: none !important;
+}
