@@ -1258,7 +1258,7 @@ nav[data-toggle="toc"] {
 
 .icon-buttons {
   display: flex;
-  gap: 10px;
+  gap: 15px;
 }
 
 .icon-button {
@@ -1266,14 +1266,14 @@ nav[data-toggle="toc"] {
   align-items: center;
   justify-content: center;
 
-  width: 42px;
-  height: 42px;
+  width: 36px;
+  height: 36px;
 
   background: var(--global-theme-color);
   color: white !important;
   border-radius: 5px;
 
-  font-size: 150%;
+  font-size: 140%;
   text-decoration: none !important;
 }
 
