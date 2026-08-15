@@ -93,7 +93,7 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 </li></p>
 
 <p class="bottom-one"><li> <b>Induced subgraphs and tree decompositions VI. Graphs with \(2\)-cutsets</b><br/>
-<a href='https://www.sciencedirect.com/science/article/pii/S0012365X24003261'><b>Discrete Mathematics (2025)</b></a>, with T. Abrishami, M. Chudnovsky, S. Spirkl.</li></p>
+<a href='https://www.sciencedirect.com/science/article/pii/S0012365X24003261'><b><i class="ai ai-open-access"></i> Discrete Mathematics (2025)</b></a>, with T. Abrishami, M. Chudnovsky, S. Spirkl.</li></p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIII. Basic obstructions in \(\mathcal{H}\)-free graphs for finite \(\mathcal{H}\)</b><br/>
 <a href='https://www.advancesincombinatorics.com/article/125859-induced-subgraphs-and-tree-decompositions-xiii-basic-obstructions-in-h-free-graphs-for-finite-h'><b><i class="ai ai-open-access"></i> Advances in Combinatorics (2024)</b></a>, with B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
