@@ -18,15 +18,15 @@ social: false  # includes social icons at the bottom of the page
 
 <br/>
 
-<div style="width: 100%; text-align: justify; margin-bottom:0.8em; margin-top:0.4em;">
+<div style="width: 105%; text-align: justify; margin-bottom:0.8em; margin-top:0.4em;">
 <b>Currently:</b> I hold a <b><a href='https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program'>Canada Postdoctoral Research Award</a></b> (formerly the NSERC Postdoctoral Fellowship) in the Department of Mathematics at the University of Toronto. You can reach me at first name dot last name at utoronto dot ca.
 </div>
 
-<div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
+<div style="width: 105%; text-align: justify; margin-bottom:0.8em;">
 <b>Previously:</b> I graduated in 2024 from the University of Waterloo where I did my PhD with Sophie Spirkl in the C&O department. My first appointment after PhD was as junior faculty in the Department of Mathematics at Princeton University, but I never made it to Princeton -- courtesy of a <b><a href='https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/'>presidential proclamation</a></b> under which apparently anyone with the wrong citizenship is a "national security and public safety threat." Instead, I stayed in Waterloo as a Postdoctoral Scholar from 2024 to 2026, waiting for U.S. immigration to get over itself. It didn't.
 </div>
 
-<div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
+<div style="width: 105%; text-align: justify; margin-bottom:0.8em;">
 <b>Research:</b> My current research is in Combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
 </div>
 
