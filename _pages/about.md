@@ -19,15 +19,15 @@ social: false  # includes social icons at the bottom of the page
 <br/>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em; margin-top:0.4em;">
-I hold an NSERC Canada Postdoctoral Research Award in the Department of Mathematics at the University of Toronto. You can reach me at: first name dot last name at utoronto dot ca.
+<b>Currently:</b> I hold an NSERC Canada Postdoctoral Research Award in the Department of Mathematics at the University of Toronto. You can reach me at: first name dot last name at utoronto dot ca.
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
-I graduated in 2024 from the University of Waterloo where I did my PhD with Sophie Spirkl in the C&O department. My first post-PhD appointment was as junior faculty in the Department of Mathematics at Princeton University, but I never made it to Princeton -- courtesy of a <b><a href='https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/'>presidential proclamation</a></b> under which apparently anyone with the wrong citizenship is a "national security and public safety threat." Instead, I stayed in Waterloo as a Postdoctoral Scholar from 2024 to 2026, waiting for U.S. immigration to get over itself. It didn't.
+<b>Previously:</b> I graduated in 2024 from the University of Waterloo where I did my PhD with Sophie Spirkl in the C&O department. My first post-PhD appointment was as junior faculty in the Department of Mathematics at Princeton University, but I never made it to Princeton -- courtesy of a <b><a href='https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/'>presidential proclamation</a></b> under which apparently anyone with the wrong citizenship is a "national security and public safety threat." Instead, I stayed in Waterloo as a Postdoctoral Scholar from 2024 to 2026, waiting for U.S. immigration to get over itself. It didn't.
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
-My research is in combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
+<b>Research:</b> My current research is in Combinatorics and graph theory, with a focus on structural graph theory. Broadly, I am also interested in topology, number theory, and category theory.
 </div>
 
 <div class="icon-buttons">
