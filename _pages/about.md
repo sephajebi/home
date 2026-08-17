@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 <br/>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em; margin-top:0.4em;">
-<b>Currently:</b> I hold a Canada Postdoctoral Research Award by NSERC in the Department of Mathematics at the University of Toronto. You can reach me at: first name dot last name at utoronto dot ca.
+<b>Currently:</b> I hold a <b><a href='https://nserc-crsng.canada.ca/en/funding-opportunity/canada-postdoctoral-research-award-program'>Canada Postdoctoral Research Award</a></b> in the Department of Mathematics at the University of Toronto. You can reach me at: first name dot last name at utoronto dot ca.
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
