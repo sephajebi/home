@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+@import url('[https://fonts.googleapis.com/css2?family=Ubuntu\:wght@300;400;500;700&display=swap](https://fonts.googleapis.com/css2?family=Ubuntu\:wght@300;400;500;700\&display=swap)');
 
-/*******************************************************************************
- * Styles for the base elements of the theme.
- ******************************************************************************/
+/\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+ \* Styles for the base elements of the theme.
+ \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/
 
 // Typography
 
@@ -25,7 +25,7 @@ strong {
   color: var(--global-text-color);
   font-family: Ubuntu !important;
 }
-/* Monospace text without code highlighting */
+/\* Monospace text without code highlighting \*/
 .code-font {
   font-family: monospace !important;
   background: none;
@@ -54,12 +54,12 @@ a,
 table.table a {
   color: var(--global-theme-color);
 
-  &:hover {
+  &\:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
   }
 
-  &:hover:after :not(.nav-item.dropdown) {
+  &\:hover\:after \:not(.nav-item.dropdown) {
     width: 100%;
   }
 }
@@ -87,7 +87,7 @@ blockquote {
     margin-bottom: 0;
   }
 
-  /* Tips, warnings, and dangers blockquotes */
+  /\* Tips, warnings, and dangers blockquotes \*/
   &.block-tip {
     border-color: var(--global-tip-block);
     background-color: var(--global-tip-block-bg);
@@ -219,12 +219,14 @@ blockquote {
 //   a {
 //     color: inherit;
 
-//     &:hover {
+//     &\:hover {
 //       color: var(--global-theme-color);
 //       text-decoration: none;
 //     }
 //   }
 // }
+
+
 
 
 
@@ -251,7 +253,7 @@ blockquote {
   margin-right: 1rem;
 }
 
-/* Mobile */
+/\* Mobile \*/
 @media (max-width: 575px) {
   .profile {
     width: 80%;
@@ -271,7 +273,7 @@ blockquote {
   }
 }
 
-/* Non-mobile */
+/\* Non-mobile \*/
 @media (min-width: 576px) {
   .profile {
     width: 25%;
@@ -292,12 +294,13 @@ blockquote {
   a {
     color: inherit;
 
-    &:hover {
+    &\:hover {
       color: var(--global-theme-color);
       text-decoration: none;
     }
   }
 }
+
 
 
 // Navbar customization
@@ -313,11 +316,11 @@ blockquote {
 //   background-color: var(--global-bg-color);
 //   border: 1px solid var(--global-divider-color);
 
-//   a:not(.active) {
+//   a\:not(.active) {
 //     color: var(--global-text-color);
 //   }
 
-//   a:hover {
+//   a\:hover {
 //     color: var(--global-hover-color);
 //   }
 
@@ -329,7 +332,7 @@ blockquote {
 // .dropdown-item {
 //   color: var(--global-text-color);
 
-//   &:hover {
+//   &\:hover {
 //     color: var(--global-hover-color);
 //     background-color: var(--global-bg-color);
 //   }
@@ -337,7 +340,7 @@ blockquote {
 
 // .navbar.navbar-light {
 //   a {
-//     &:hover {
+//     &\:hover {
 //       text-decoration: none;
 //     }
 //   }
@@ -349,7 +352,7 @@ blockquote {
 //   .navbar-nav .nav-item .nav-link {
 //     color: var(--global-text-color);
 
-//     &:hover {
+//     &\:hover {
 //       color: var(--global-hover-color);
 //     }
 //   }
@@ -359,7 +362,7 @@ blockquote {
 //     font-weight: bolder;
 //     color: var(--global-theme-color);
 
-//     &:hover {
+//     &\:hover {
 //       color: var(--global-hover-color);
 //     }
 //   }
@@ -375,7 +378,7 @@ blockquote {
 //         transition-property: all 0.2s ease-in-out;
 //       }
 
-//       &:hover {
+//       &\:hover {
 //         i::before {
 //           color: var(--global-theme-color);
 //         }
@@ -383,6 +386,7 @@ blockquote {
 //     }
 //   }
 // }
+
 
 
 // Navbar customization
@@ -397,11 +401,11 @@ blockquote {
   background-color: var(--global-bg-color);
   border: 1px solid var(--global-divider-color);
 
-  a:not(.active) {
+  a\:not(.active) {
     color: var(--global-text-color);
   }
 
-  a:hover {
+  a\:hover {
     color: var(--global-hover-color);
   }
 
@@ -413,7 +417,7 @@ blockquote {
 .dropdown-item {
   color: var(--global-text-color);
 
-  &:hover {
+  &\:hover {
     color: var(--global-hover-color);
     background-color: var(--global-bg-color);
   }
@@ -422,52 +426,52 @@ blockquote {
 .navbar.navbar-light {
 
   a {
-    &:hover {
+    &\:hover {
       text-decoration: none;
     }
   }
 
-  /* Site name on the left */
+  /\* Site name on the left \*/
   .navbar-brand {
     color: var(--global-bg-color);
 
-    &:hover {
+    &\:hover {
       color: var(--global-bg-color);
       font-weight: 550;
       text-decoration: none;
     }
   }
 
-  /* Normal page titles */
+  /\* Normal page titles \*/
   .navbar-nav .nav-item .nav-link {
     color: var(--global-bg-color);
     font-weight: normal;
     text-decoration: none;
 
-    /* Hover: bold, no underline */
-    &:hover {
+    /\* Hover: bold, no underline \*/
+    &\:hover {
       color: var(--global-bg-color);
       font-weight: 550;
       text-decoration: none;
     }
   }
 
-  /* Current page: bold and underlined */
+  /\* Current page: bold and underlined \*/
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     color: var(--global-bg-color);
     font-weight: 550;
     text-decoration: underline;
 
-    /* Stay bold and underlined when hovered */
-    &:hover {
+    /\* Stay bold and underlined when hovered \*/
+    &\:hover {
       color: var(--global-bg-color);
       font-weight: 550;
       text-decoration: underline;
     }
   }
 
-  /* Social icons if they appear in the navbar */
+  /\* Social icons if they appear in the navbar \*/
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
@@ -479,7 +483,7 @@ blockquote {
         transition-property: all 0.2s ease-in-out;
       }
 
-      &:hover {
+      &\:hover {
         i::before {
           color: var(--global-bg-color);
         }
@@ -493,7 +497,7 @@ blockquote {
     display: block;
     width: 22px;
     height: 2px;
-    background-color: var(--global-text-color);
+    background-color: #d9dfe4;
     border-radius: 1px;
     margin-bottom: 4px;
     transition: all 0.2s;
@@ -528,13 +532,13 @@ blockquote {
   }
 }
 
-#light-toggle {
+\#light-toggle {
   padding: 0;
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
 
-  &:hover {
+  &\:hover {
     color: var(--global-hover-color);
   }
 }
@@ -553,7 +557,7 @@ blockquote {
         transition-property: all 0.2s ease-in-out;
       }
 
-      &:hover {
+      &\:hover {
         i::before {
           color: var(--global-theme-color);
         }
@@ -597,6 +601,7 @@ blockquote {
 }
 
 
+
 // Footer
 footer.fixed-bottom {
   background-color: rgba(16, 25, 43, 0.83);;
@@ -611,7 +616,7 @@ footer.fixed-bottom {
   a {
     color: var(--global-footer-link-color);
 
-    &:hover {
+    &\:hover {
       color: var(--global-theme-color);
       text-decoration: none;
     }
@@ -727,7 +732,7 @@ footer.sticky-bottom {
       color: var(--global-text-color);
       text-decoration: none;
 
-      &:hover {
+      &\:hover {
         color: var(--global-theme-color);
       }
     }
@@ -743,7 +748,7 @@ footer.sticky-bottom {
     .page-link {
       color: var(--global-text-color);
 
-      &:hover {
+      &\:hover {
         color: $black-color;
       }
     }
@@ -752,7 +757,7 @@ footer.sticky-bottom {
       color: $white-color;
       background-color: var(--global-theme-color);
 
-      &:hover {
+      &\:hover {
         background-color: var(--global-theme-color);
       }
     }
@@ -760,14 +765,16 @@ footer.sticky-bottom {
 }
 
 
+
 // Distill
 
 .distill {
-  a:hover {
+  a\:hover {
     border-bottom-color: var(--global-theme-color);
     text-decoration: none;
   }
 }
+
 
 
 // Projects
@@ -776,7 +783,7 @@ footer.sticky-bottom {
   a {
     text-decoration: none;
 
-    &:hover {
+    &\:hover {
       .card-title {
         color: var(--global-theme-color);
       }
@@ -814,6 +821,7 @@ footer.sticky-bottom {
     text-align: right;
   }
 }
+
 
 
 // Publications
@@ -873,7 +881,7 @@ footer.sticky-bottom {
           a {
             color: white;
 
-            &:hover {
+            &\:hover {
               text-decoration: none;
             }
           }
@@ -893,23 +901,23 @@ footer.sticky-bottom {
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
-          &:hover {
+          &\:hover {
             border-bottom-style: solid;
             text-decoration: none;
           }
         }
 
-        >em {
+        \>em {
           border-bottom: 1px solid;
           font-style: normal;
         }
 
-        >span.more-authors {
+        \>span.more-authors {
           color: var(--global-text-color-light);
           border-bottom: 1px dashed var(--global-text-color-light);
           cursor: pointer;
 
-          &:hover {
+          &\:hover {
             color: var(--global-text-color);
             border-bottom: 1px dashed var(--global-text-color);
           }
@@ -926,7 +934,7 @@ footer.sticky-bottom {
           padding-bottom: 0.25rem;
           margin-left: 0;
 
-          &:hover {
+          &\:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
           }
@@ -942,7 +950,7 @@ footer.sticky-bottom {
           padding-right: 0.5rem;
           vertical-align: middle;
 
-          &:hover {
+          &\:hover {
             text-decoration: underline;
           }
         }
@@ -1019,11 +1027,12 @@ code {
 }
 
 
+
 // Transitioning Themes
 html.transition,
-html.transition *,
-html.transition *:before,
-html.transition *:after {
+html.transition \*,
+html.transition \*:before,
+html.transition \*:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
@@ -1046,7 +1055,7 @@ html.transition *:after {
       color: var(--global-text-color-light);
       text-decoration: none;
 
-      &:hover {
+      &\:hover {
         color: var(--global-theme-color);
       }
     }
@@ -1054,28 +1063,28 @@ html.transition *:after {
 }
 
 progress {
-  /* Positioning */
+  /\* Positioning \*/
   position: fixed;
   left: 0;
   top: 56px;
   z-index: 10;
 
-  /* Dimensions */
+  /\* Dimensions \*/
   width: 100%;
   height: 1px;
 
-  /* Reset the appearance */
+  /\* Reset the appearance \*/
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
 
-  /* Get rid of the default border in Firefox/Opera. */
+  /\* Get rid of the default border in Firefox/Opera. \*/
   border: none;
 
-  /* Progress bar container for Firefox/IE10  */
+  /\* Progress bar container for Firefox/IE10  \*/
   background-color: transparent;
 
-  /* Progress bar value for IE10  */
+  /\* Progress bar value for IE10  \*/
   color: var(--global-theme-color);
 }
 
@@ -1108,7 +1117,7 @@ progress::-moz-progress-bar {
   height: inherit;
 }
 
-/* Copy button */
+/\* Copy button \*/
 .code-display-wrapper {
   position: relative;
 
@@ -1125,9 +1134,9 @@ progress::-moz-progress-bar {
     top: .5rem;
   }
 
-  &:active .copy,
-  &:focus .copy,
-  &:hover .copy {
+  &\:active .copy,
+  &\:focus .copy,
+  &\:hover .copy {
     color: var(--global-hover-color);
     opacity: 1;
   }
@@ -1146,12 +1155,12 @@ progress::-moz-progress-bar {
       color: inherit;
     }
 
-    &:not(.active) {
+    &\:not(.active) {
       background-color: var(--global-bg-color) !important;
       color: var(--global-text-color);
     }
 
-    &:hover {
+    &\:hover {
       background-color: var(--global-hover-color) !important;
       color: var(--global-hover-text-color) !important;
     }
@@ -1165,22 +1174,22 @@ progress::-moz-progress-bar {
     background-color: var(--global-bg-color);
     color: var(--global-text-color);
 
-    &:hover {
+    &\:hover {
       color: var(--global-hover-color);
     }
   }
 
-  .dropdown-item.active, .dropdown-item:active {
+  .dropdown-item.active, .dropdown-item\:active {
     background-color: var(--global-hover-color);
     color: var(--global-hover-text-color) !important;
 
-    &:hover {
+    &\:hover {
       color: var(--global-hover-text-color);
     }
   }
 }
 
-/* Table of Contents */
+/\* Table of Contents \*/
 nav[data-toggle="toc"] {
   top: 5rem;
 
@@ -1192,7 +1201,7 @@ nav[data-toggle="toc"] {
     color: var(--global-text-color);
     font-size: .75rem;
 
-    &:hover {
+    &\:hover {
       color: var(--global-hover-color);
       border-left-color: var(--global-hover-color);
     }
@@ -1203,16 +1212,16 @@ nav[data-toggle="toc"] {
     border-left-color: var(--global-theme-color);
     font-size: .75rem;
 
-    &:hover {
+    &\:hover {
       color: var(--global-hover-color);
       border-left-color: var(--global-hover-color);
     }
   }
 }
 
-/* small screens */
+/\* small screens \*/
 @media (max-width: 576px) {
-  /* override stickyness so that the navigation does not follow scrolling */
+  /\* override stickyness so that the navigation does not follow scrolling \*/
   nav[data-toggle="toc"] {
     visibility: hidden;
     height: 0;
@@ -1231,7 +1240,7 @@ nav[data-toggle="toc"] {
       white-space: nowrap;
     }
 
-    &:hover {
+    &\:hover {
       color: var(--global-theme-color);
 
       .card-title {
@@ -1254,6 +1263,8 @@ nav[data-toggle="toc"] {
 
 
 
+
+
 //Icon buttons
 
 .icon-buttons {
@@ -1270,14 +1281,14 @@ nav[data-toggle="toc"] {
   height: 36px;
 
   background: var(--global-theme-color);
-  color: white !important;
+  color: #d9dfe4 !important;
   border-radius: 5px;
 
   font-size: 140%;
   text-decoration: none !important;
 }
 
-.icon-button:hover {
+.icon-button\:hover {
   color: white !important;
   opacity: 0.85;
   text-decoration: none !important;
@@ -1286,16 +1297,18 @@ nav[data-toggle="toc"] {
 //arxiv button
 
 .arxiv-button {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: nowrap;
   padding: 1px 5px;
   background-color: var(--global-theme-color);
-  color: white !important;
+  color: #d9dfe4 !important;
   border-radius: 3px;
   text-decoration: none !important;
   white-space: nowrap;
   line-height: 1.2;
 
-  &:hover {
+  &\:hover {
     color: white !important;
     opacity: 0.85;
     text-decoration: none !important;
