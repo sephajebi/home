@@ -1282,3 +1282,22 @@ nav[data-toggle="toc"] {
   opacity: 0.85;
   text-decoration: none !important;
 }
+
+//arxiv button
+
+.arxiv-button {
+  display: inline-block;
+  padding: 1px 5px;
+  background-color: var(--global-theme-color);
+  color: white !important;
+  border-radius: 3px;
+  text-decoration: none !important;
+  white-space: nowrap;
+  line-height: 1.2;
+
+  &:hover {
+    color: white !important;
+    opacity: 0.85;
+    text-decoration: none !important;
+  }
+}
