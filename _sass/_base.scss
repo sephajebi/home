@@ -1,9 +1,5 @@
 @import url('[https://fonts.googleapis.com/css2?family=Ubuntu\:wght@300;400;500;700&display=swap](https://fonts.googleapis.com/css2?family=Ubuntu\:wght@300;400;500;700\&display=swap)');
 
-/\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
- \* Styles for the base elements of the theme.
- \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/
-
 // Typography
 
 body {
@@ -1296,10 +1292,9 @@ nav[data-toggle="toc"] {
 
 //arxiv button
 
+
 .arxiv-button {
-  display: inline-flex;
-  align-items: center;
-  flex-wrap: nowrap;
+  display: inline-block;
   padding: 1px 5px;
   background-color: var(--global-theme-color);
   color: #d9dfe4 !important;
@@ -1308,8 +1303,8 @@ nav[data-toggle="toc"] {
   white-space: nowrap;
   line-height: 1.2;
 
-  &\:hover {
-    color: white !important;
+  &:hover {
+    color: #d9dfe4 !important;
     opacity: 0.85;
     text-decoration: none !important;
   }
