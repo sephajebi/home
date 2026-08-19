@@ -27,7 +27,7 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
-<b>Research:</b> Combinatorics and graph theory, with a focus on structural graph theory and structural Ramsey theory. Broadly, I am also interested in topology, number theory, and category theory.
+<b>Research:</b> Structural combinatorics, with on graph theory and Ramsey theory. Broadly, I am also interested in topology, number theory, and category theory.
 </div>
 
 <div class="icon-buttons">
