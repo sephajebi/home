@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 <br/>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em; margin-top:0.4em;">
-<b>Currently:</b> I hold an NSERC Canada Postdoctoral Research Award in the Department of Mathematics at the University of Toronto. You can find me in Bahen Centre, room BA6256. You can reach me at <span class="email-address">first name dot last name at utoronto dot ca</span>.
+<b>Currently:</b> I hold an NSERC Canada Postdoctoral Research Award in the Department of Mathematics at the University of Toronto. You can find me in Bahen Centre, room BA 6256. You can reach me at <span class="email-address">first name dot last name at utoronto dot ca</span>.
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
