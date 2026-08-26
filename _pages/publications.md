@@ -19,13 +19,13 @@ nav_order: 1
   Preprints
 </blockquote>
 
-<p class="bottom-one"> <li> <b>Forcing monochromatic induced subgraphs</b> <a class="arxiv-button" href="https://arxiv.org/abs/2606.24695"><i class="ai ai-arxiv"></i>2026</a><br/>
+<p class="bottom-one"> <li> <b>Forcing monochromatic induced subgraphs</b>, <a href="https://arxiv.org/abs/2606.24695"><i class="ai ai-arxiv"></i>2026</a><br/>
 with S. Spirkl.</li> </p>
 
-<p class="bottom-one"> <li> <b>Asymmetric induced saturation</b> <a class="arxiv-button" href="https://arxiv.org/abs/2606.24763"><i class="ai ai-arxiv"></i>2026</a><br/>
+<p class="bottom-one"> <li> <b>Asymmetric induced saturation</b> [<a href="https://arxiv.org/abs/2606.24763"><i class="ai ai-arxiv"></i>2026</a>]<br/>
 with X. Fan, Sahab Hajebi, S. Spirkl.</li> </p>
 
-<p class="bottom-one"> <li> <b>Tree-alpha and excluding finitely many graphs</b> <a class="arxiv-button" href="https://arxiv.org/abs/2605.01223"><i class="ai ai-arxiv"></i>2026</a><br/>
+<p class="bottom-one"> <li> <b>Tree-alpha and excluding finitely many graphs</b> (<a href="https://arxiv.org/abs/2605.01223"><i class="ai ai-arxiv"></i>2026</a>)<br/>
 with S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Polynomial bounds for pathwidth</b> <a class="arxiv-button" href="https://arxiv.org/abs/2510.19120"><i class="ai ai-arxiv"></i>2025</a></li> </p>
