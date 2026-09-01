@@ -19,7 +19,9 @@ social: false  # includes social icons at the bottom of the page
 <br/>
 
 <div style="width: 100%; text-align: justify; padding-top:0.5em; margin-bottom:0.8em;">
-<b>Currently:</b> I hold a Canada Postdoctoral Research Award in the Department of Mathematics at the University of Toronto. My office is in the Bahen Centre, room BA 6256. You can reach me at first name dot last name at utoronto dot ca.
+<b>Currently:</b> I hold a Canada Postdoctoral Research Award in the Department of Mathematics at the University of Toronto. (The CPRA is Canada’s flagship federal award for postdoctoral research, succedding and unifying the discontinued "Banting Postdoctoral Fellowship" and "Tri-Agency Postdoctoral Fellowship" programs.)
+  
+My office is in the Bahen Centre, room BA 6256. You can reach me at first name dot last name at utoronto dot ca.
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
