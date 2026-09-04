@@ -36,8 +36,6 @@ with M. Chudnovsky, D. Fischer, S. Spirkl, B. Walczak.</li> </p>
 <p class="bottom-one"> <li> <b>Halfway to induced saturation for even cycles</b>, <b><a href="https://arxiv.org/abs/2505.24100" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2025</a></b><br/>
 with X. Fan, Sahab Hajebi, S. Spirkl.</li> </p>
 
-<p class="bottom-one"> <li> <b>Bull-free graphs and \(\chi\)-boundedness</b>, <b><a href="https://arxiv.org/abs/2504.21093" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2025</a></b></li></p>
-
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth</b>, <b><a href="https://arxiv.org/abs/2412.17756" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2024</a></b><br/>
 with M. Chudnovsky, S. Spirkl.</li> </p>
 
@@ -60,6 +58,9 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 <blockquote>
   Journal papers
 </blockquote>
+
+<p class="bottom-one"> <li> <b>Bull-free graphs and \(\chi\)-boundedness</b><br/>
+<a href='https://igt.centre-mersenne.org/articles/10.5802/igt.23/'><b><i class="ai ai-open-access"></i> Innovations in graph theory (2026)</b></a>.</li> </p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests </b><br/>
 <a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>SIAM Journal on Discrete Mathematics (2026)</b></a>, with M. Chudnovsky, J. Codsi, S. Spirkl.</li> </p>
