@@ -60,7 +60,7 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 <a href='https://igt.centre-mersenne.org/articles/10.5802/igt.23/'><b><i class="ai ai-open-access"></i> Innovations in graph theory (2026)</b></a>.</li> </p>
 
 <p class="bottom-one"> <li> <b>A simple layered-wheel-like construction</b><br/>
-  <b><a href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i3p52" style="white-space: nowrap;"><i class="ai ai-arxiv"></i> Electronic Journal of Combinatorics (2026)</a></b>, with M. Chudnovsky, D. Fischer, S. Spirkl, B. Walczak.</li> </p>
+  <b><a href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v33i3p52" style="white-space: nowrap;"><i class="ai ai-open-access"></i> Electronic Journal of Combinatorics (2026)</a></b>, with M. Chudnovsky, D. Fischer, S. Spirkl, B. Walczak.</li> </p>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XIX. Thetas and forests </b><br/>
 <a href='https://epubs.siam.org/doi/10.1137/25M1821879'><b>SIAM Journal on Discrete Mathematics (2026)</b></a>, with M. Chudnovsky, J. Codsi, S. Spirkl.</li> </p>
