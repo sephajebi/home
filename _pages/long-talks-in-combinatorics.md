@@ -6,41 +6,46 @@ nav: false
 ---
 
 <style>
-/* White header, matching the original preview. */
+/* Translucent navy header, on this page only. */
 #navbar {
-  background: #fff !important;
+  background: rgba(16, 25, 43, 0.83) !important;
   padding-top: 12px !important;
   padding-bottom: 12px !important;
 }
 
 /* Hide the right-hand links and the mobile menu button. */
-#navbarNav, #navbar .navbar-toggler {
+#navbarNav,
+#navbar .navbar-toggler {
   display: none !important;
 }
 
-/* Remove the earlier CSS-generated tower and lettering. */
+/* Remove any earlier CSS-generated tower and lettering. */
 #navbar .navbar-brand::before,
 #navbar .navbar-brand::after {
   content: none !important;
   display: none !important;
 }
 
+/* Container for the logo. Change 600px to adjust its size. */
 #navbar .navbar-brand {
   display: block !important;
-  width: 400px;
+  width: 300px;
   max-width: 100%;
   height: auto !important;
   margin: 0 !important;
   padding: 0 !important;
   font-size: 0 !important;
   line-height: 0 !important;
+  background: transparent !important;
 }
 
+/* White artwork with no rectangular background. */
 #navbar .navbar-brand img {
   display: block;
   width: 100%;
   max-width: 100%;
   height: auto;
+  background: transparent !important;
 }
 </style>
 
@@ -51,12 +56,15 @@ nav: false
   if (!brand) return;
 
   const logo = document.createElement("img");
-  logo.src = {{ '/assets/img/long-talks-logo.png' | relative_url | jsonify }};
+  logo.src = {{ '/assets/img/long-talks-logo-white.png' | relative_url | jsonify }};
   logo.alt = "Long Talks in Combinatorics";
   logo.width = 1969;
   logo.height = 469;
 
+  // Replace the original name with the logo.
   brand.replaceChildren(logo);
+
+  // Make the logo link to this seminar page.
   brand.href = {{ '/long-talks-in-combinatorics/' | relative_url | jsonify }};
   brand.setAttribute("aria-label", "Long Talks in Combinatorics");
 
@@ -66,11 +74,14 @@ nav: false
       document.body.style.paddingTop = navbar.offsetHeight + "px";
     }
   }
+
   reserveHeaderSpace();
   logo.addEventListener("load", reserveHeaderSpace);
   window.addEventListener("resize", reserveHeaderSpace);
 })();
 </script>
+
+<!-- Put your seminar information below this line. -->
 
 <!-- Put your seminar information below this line. -->
 
