@@ -85,7 +85,7 @@ nav: false
 
 <!-- Put your seminar information below this line. -->
 
-<b>Organizers</b>: <a href="https://sites.google.com/view/lior-gishboliner/home">Lior Gishboliner</a> and <a href="https://www.sepehrhajebi.com">Sepehr Hajebi</a>
+<b>Organizers</b>: <b><a href="https://sites.google.com/view/lior-gishboliner/home">Lior Gishboliner</a></b> and <b><a href="https://www.sepehrhajebi.com">Sepehr Hajebi</a></b>.
 
 This is a combinatorics seminar where speakers are allowed -- and indeed encouraged -- to talk about their favorite subject in as much detail as they wish, with little to no pressure from the clock. Talks can comfortably run for a full hour and extend to 90 minutes (or perhaps longer).
 
