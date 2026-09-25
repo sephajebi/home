@@ -46,7 +46,7 @@ nav: false
   max-width: 100%;
   height: auto;
   background: transparent !important;
-  transform: scale(1.15);
+  transform: scale(1.5);
   transform-origin: left center;
 }
 </style>
