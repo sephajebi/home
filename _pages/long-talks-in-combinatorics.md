@@ -29,7 +29,7 @@ nav: false
 /* Container for the logo. Change 600px to adjust its size. */
 #navbar .navbar-brand {
   display: block !important;
-  width: 300px;
+  width: 200px;
   max-width: 100%;
   height: auto !important;
   margin: 0 !important;
@@ -84,6 +84,78 @@ nav: false
 <!-- Put your seminar information below this line. -->
 
 <!-- Put your seminar information below this line. -->
+
+<b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
+
+This is a combinatorics seminar where the speakers are allowed (and in fact encouraged) to speak about their favorite subject for any length or level of details they wish: Talks can comfortably run for over an hour, and up to 90 minutes.
+
+The talks are delivered on Zoom, and will be recorded and posted on YouTube. The seminar will be in several seasons of 8-10 talks (for as long as speakers and audiences can be found!). The schedule for season 1 can be found below.
+
+There is a mailing list where the announcements and the zoom links passwords of the talks will be sent. If you wish to join the list, please write to sepehr.hajebi@utoronto.ca.
+
+<b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
+
+This is a combinatorics seminar where the speakers are allowed (and in fact encouraged) to speak about their favorite subject for any length or level of details they wish: Talks can comfortably run for over an hour, and up to 90 minutes.
+
+The talks are delivered on Zoom, and will be recorded and posted on YouTube. The seminar will be in several seasons of 8-10 talks (for as long as speakers and audiences can be found!). The schedule for season 1 can be found below.
+
+There is a mailing list where the announcements and the zoom links passwords of the talks will be sent. If you wish to join the list, please write to sepehr.hajebi@utoronto.ca.
+
+<b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
+
+This is a combinatorics seminar where the speakers are allowed (and in fact encouraged) to speak about their favorite subject for any length or level of details they wish: Talks can comfortably run for over an hour, and up to 90 minutes.
+
+The talks are delivered on Zoom, and will be recorded and posted on YouTube. The seminar will be in several seasons of 8-10 talks (for as long as speakers and audiences can be found!). The schedule for season 1 can be found below.
+
+There is a mailing list where the announcements and the zoom links passwords of the talks will be sent. If you wish to join the list, please write to sepehr.hajebi@utoronto.ca.
+
+<b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
+
+This is a combinatorics seminar where the speakers are allowed (and in fact encouraged) to speak about their favorite subject for any length or level of details they wish: Talks can comfortably run for over an hour, and up to 90 minutes.
+
+The talks are delivered on Zoom, and will be recorded and posted on YouTube. The seminar will be in several seasons of 8-10 talks (for as long as speakers and audiences can be found!). The schedule for season 1 can be found below.
+
+There is a mailing list where the announcements and the zoom links passwords of the talks will be sent. If you wish to join the list, please write to sepehr.hajebi@utoronto.ca.
+
+<b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
+
+This is a combinatorics seminar where the speakers are allowed (and in fact encouraged) to speak about their favorite subject for any length or level of details they wish: Talks can comfortably run for over an hour, and up to 90 minutes.
+
+The talks are delivered on Zoom, and will be recorded and posted on YouTube. The seminar will be in several seasons of 8-10 talks (for as long as speakers and audiences can be found!). The schedule for season 1 can be found below.
+
+There is a mailing list where the announcements and the zoom links passwords of the talks will be sent. If you wish to join the list, please write to sepehr.hajebi@utoronto.ca.
+
+<b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
+
+This is a combinatorics seminar where the speakers are allowed (and in fact encouraged) to speak about their favorite subject for any length or level of details they wish: Talks can comfortably run for over an hour, and up to 90 minutes.
+
+The talks are delivered on Zoom, and will be recorded and posted on YouTube. The seminar will be in several seasons of 8-10 talks (for as long as speakers and audiences can be found!). The schedule for season 1 can be found below.
+
+There is a mailing list where the announcements and the zoom links passwords of the talks will be sent. If you wish to join the list, please write to sepehr.hajebi@utoronto.ca.
+
+<b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
+
+This is a combinatorics seminar where the speakers are allowed (and in fact encouraged) to speak about their favorite subject for any length or level of details they wish: Talks can comfortably run for over an hour, and up to 90 minutes.
+
+The talks are delivered on Zoom, and will be recorded and posted on YouTube. The seminar will be in several seasons of 8-10 talks (for as long as speakers and audiences can be found!). The schedule for season 1 can be found below.
+
+There is a mailing list where the announcements and the zoom links passwords of the talks will be sent. If you wish to join the list, please write to sepehr.hajebi@utoronto.ca.
+
+<b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
+
+This is a combinatorics seminar where the speakers are allowed (and in fact encouraged) to speak about their favorite subject for any length or level of details they wish: Talks can comfortably run for over an hour, and up to 90 minutes.
+
+The talks are delivered on Zoom, and will be recorded and posted on YouTube. The seminar will be in several seasons of 8-10 talks (for as long as speakers and audiences can be found!). The schedule for season 1 can be found below.
+
+There is a mailing list where the announcements and the zoom links passwords of the talks will be sent. If you wish to join the list, please write to sepehr.hajebi@utoronto.ca.
+
+<b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
+
+This is a combinatorics seminar where the speakers are allowed (and in fact encouraged) to speak about their favorite subject for any length or level of details they wish: Talks can comfortably run for over an hour, and up to 90 minutes.
+
+The talks are delivered on Zoom, and will be recorded and posted on YouTube. The seminar will be in several seasons of 8-10 talks (for as long as speakers and audiences can be found!). The schedule for season 1 can be found below.
+
+There is a mailing list where the announcements and the zoom links passwords of the talks will be sent. If you wish to join the list, please write to sepehr.hajebi@utoronto.ca.
 
 <b>Organizers</b>: Lior Gishboliner and Sepehr Hajebi
 
