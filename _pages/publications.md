@@ -33,9 +33,6 @@ with S. Spirkl.</li> </p>
 <p class="bottom-one"> <li> <b>Halfway to induced saturation for even cycles</b>, <b><a href="https://arxiv.org/abs/2505.24100" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2025</a></b><br/>
 with X. Fan, Sahab Hajebi, S. Spirkl.</li> </p>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth</b>, <b><a href="https://arxiv.org/abs/2412.17756" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2024</a></b><br/>
-with M. Chudnovsky, S. Spirkl.</li> </p>
-
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth</b>, <b><a href="https://arxiv.org/abs/2411.11842" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2024</a></b><br/>
 with M. Chudnovsky, S. Spirkl.</li> </p>
 
@@ -55,6 +52,9 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 <blockquote>
   Journal papers
 </blockquote>
+
+<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth</b><br/>
+<a href='https://www.advancesincombinatorics.com/article/165933-induced-subgraphs-and-tree-decompositions-xviii-obstructions-to-bounded-pathwidth'><b><i class="ai ai-open-access"></i> Advances in Combinatorics (2026)</b></a>, with M. Chudnovsky, S. Spirkl.</li> </p>
 
 <p class="bottom-one"> <li> <b>Bull-free graphs and \(\chi\)-boundedness</b><br/>
 <a href='https://igt.centre-mersenne.org/articles/10.5802/igt.23/'><b><i class="ai ai-open-access"></i> Innovations in graph theory (2026)</b></a>.</li> </p>
