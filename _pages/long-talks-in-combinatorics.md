@@ -29,7 +29,7 @@ nav: false
 /* Keep the logo container at its existing size. */
 #navbar .navbar-brand {
   display: block !important;
-  width: 200px;
+  width: 180px;
   max-width: 100%;
   height: auto !important;
   margin: 0 !important;
@@ -46,7 +46,7 @@ nav: false
   max-width: 100%;
   height: auto;
   background: transparent !important;
-  transform: scale(1.08);
+  transform: scale(1.15);
   transform-origin: left center;
 }
 </style>
