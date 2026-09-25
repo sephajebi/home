@@ -46,17 +46,6 @@ nav: false
   max-width: 100%;
   height: auto;
   background: transparent !important;
-
-  /* Enlarge the logo without resizing the bar. */
-  transform: scale(1.1);
-  transform-origin: left center;
-}
-
-/* Keep the logo from spilling off the screen on phones. */
-@media (max-width: 767px) {
-  #navbar .navbar-brand img {
-    transform: none;
-  }
 }
 
 <script>
