@@ -14,6 +14,11 @@ nav: false
   content: "Long Talks in Combinatorics";
   font-size: 1.25rem;
 }
+
+/* Hide the navigation links on this page */
+.navbar-nav {
+  display: none !important;
+  
 </style>
 
 # Long Talks in Combinatorics
