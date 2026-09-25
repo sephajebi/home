@@ -6,88 +6,46 @@ nav: false
 ---
 
 <style>
-/* Hide right-hand navigation */
+/* Hide navigation on the right */
 .navbar-nav {
   display: none !important;
 }
 
-/* Hide the normal "Sepehr Hajebi" */
+/* Replace Sepehr Hajebi with seminar logo */
 .navbar-brand {
   font-size: 0 !important;
-  position: relative;
   display: flex !important;
-  align-items: flex-end;
+  align-items: flex-end !important;
+  height: 58px;
 }
 
-/* CN Tower + horizontal stroke of the L */
+/* The CN-Tower L */
 .navbar-brand::before {
   content: "";
   display: inline-block;
-
-  width: 38px;
-  height: 48px;
-
-  margin-right: 1px;
-
+  width: 47px;
+  height: 56px;
+  margin-right: -3px;
   background-color: currentColor;
 
-  clip-path: polygon(
-    /* antenna */
-    48% 0%, 52% 0%,
-    53% 17%,
+  /* CN Tower + horizontal foot, drawn as an SVG */
+  -webkit-mask:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 94 120'%3E%3C!-- antenna --%3E%3Cpath d='M27 0 L29 0 L30 37 L26 37 Z' fill='black'/%3E%3C!-- upper mast --%3E%3Cpath d='M25 34 L31 34 L32 47 L24 47 Z' fill='black'/%3E%3C!-- upper pod --%3E%3Cpath d='M19 43 L37 43 L40 48 L37 53 L19 53 L16 48 Z' fill='black'/%3E%3C!-- neck --%3E%3Cpath d='M23 52 L33 52 L35 59 L21 59 Z' fill='black'/%3E%3C!-- main observation deck --%3E%3Cpath d='M11 57 L45 57 L50 63 L45 70 L11 70 L6 63 Z' fill='black'/%3E%3C!-- lower deck --%3E%3Cpath d='M15 70 L41 70 L38 76 L18 76 Z' fill='black'/%3E%3C!-- tapered tower --%3E%3Cpath d='M20 75 L36 75 L42 111 L14 111 Z' fill='black'/%3E%3C!-- base --%3E%3Cpath d='M14 109 L42 109 L48 115 L48 119 L9 119 L9 115 Z' fill='black'/%3E%3C!-- horizontal stroke of L --%3E%3Crect x='28' y='115' width='66' height='4' fill='black'/%3E%3C/svg%3E")
+    center / contain no-repeat;
 
-    /* upper mast */
-    57% 20%,
-    57% 31%,
-
-    /* upper observation deck */
-    67% 33%,
-    70% 37%,
-    70% 40%,
-
-    /* main observation deck */
-    82% 42%,
-    84% 47%,
-    82% 52%,
-    68% 54%,
-
-    /* shaft */
-    62% 100%,
-
-    /* LONG HORIZONTAL FOOT OF THE L */
-    100% 100%,
-    100% 94%,
-    54% 94%,
-
-    /* other side of shaft */
-    38% 54%,
-
-    /* observation deck */
-    18% 52%,
-    16% 47%,
-    18% 42%,
-    30% 40%,
-    30% 37%,
-    33% 33%,
-
-    /* upper mast */
-    43% 31%,
-    43% 20%,
-    47% 17%
-  );
+  mask:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 94 120'%3E%3Cpath d='M27 0 L29 0 L30 37 L26 37 Z' fill='black'/%3E%3Cpath d='M25 34 L31 34 L32 47 L24 47 Z' fill='black'/%3E%3Cpath d='M19 43 L37 43 L40 48 L37 53 L19 53 L16 48 Z' fill='black'/%3E%3Cpath d='M23 52 L33 52 L35 59 L21 59 Z' fill='black'/%3E%3Cpath d='M11 57 L45 57 L50 63 L45 70 L11 70 L6 63 Z' fill='black'/%3E%3Cpath d='M15 70 L41 70 L38 76 L18 76 Z' fill='black'/%3E%3Cpath d='M20 75 L36 75 L42 111 L14 111 Z' fill='black'/%3E%3Cpath d='M14 109 L42 109 L48 115 L48 119 L9 119 L9 115 Z' fill='black'/%3E%3Crect x='28' y='115' width='66' height='4' fill='black'/%3E%3C/svg%3E")
+    center / contain no-repeat;
 }
 
-/* Seminar name */
+/* "ong Talks in Combinatorics" */
 .navbar-brand::after {
   content: "ong Talks in Combinatorics";
-
   font-family: "Ubuntu", sans-serif !important;
   font-size: 1.25rem !important;
-  font-weight: 500;
-  line-height: 1;
-
-  margin-left: -2px;
-  padding-bottom: 1px;
+  font-weight: 500 !important;
+  line-height: 1 !important;
+  padding-bottom: 5px;
 }
 </style>
 
