@@ -26,7 +26,7 @@ nav: false
   display: none !important;
 }
 
-/* Container for the logo. */
+/* Keep the logo container at its existing size. */
 #navbar .navbar-brand {
   display: block !important;
   width: 200px;
@@ -39,13 +39,15 @@ nav: false
   background: transparent !important;
 }
 
-/* White artwork with no rectangular background. */
+/* Enlarge the logo by 8% without increasing the bar's height. */
 #navbar .navbar-brand img {
   display: block;
   width: 100%;
   max-width: 100%;
   height: auto;
   background: transparent !important;
+  transform: scale(1.08);
+  transform-origin: left center;
 }
 </style>
 
