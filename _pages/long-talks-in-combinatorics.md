@@ -26,7 +26,7 @@ nav: false
   display: none !important;
 }
 
-/* Container for the logo. Change 600px to adjust its size. */
+/* Container for the logo. */
 #navbar .navbar-brand {
   display: block !important;
   width: 200px;
@@ -47,6 +47,7 @@ nav: false
   height: auto;
   background: transparent !important;
 }
+</style>
 
 <script>
 (() => {
@@ -79,8 +80,6 @@ nav: false
   window.addEventListener("resize", reserveHeaderSpace);
 })();
 </script>
-
-<!-- Put your seminar information below this line. -->
 
 <!-- Put your seminar information below this line. -->
 
