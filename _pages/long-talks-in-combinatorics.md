@@ -90,14 +90,19 @@ nav: false
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em">
-<b>About:</b> This is a combinatorics seminar with little to no pressure from the clock: talks can comfortably run for up to 90 minutes (and sometimes longer).
+<b>About:</b> This is a combinatorics seminar with little to no pressure from the clock: talks can comfortably run for up to 90 minutes (and sometimes even longer).
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em">
-<b>Format:</b> Talks are held on Zoom will be recorded and posted online. The seminar will run in seasons of 8-10 talks, for as long as speakers and audiences can be found. The schedule for Season 1 is below.
+<b>Format:</b> Talks are held on Zoom and will be recorded and posted online.
 </div>
 
+
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em">
+<b>Schedule:</b> The seminar will run in seasons of 8-10 talks, for as long as speakers and audiences can be found. The schedule for Season 1 is below.
+</div>
+
+<div style="width: 100%; text-align: justify; margin-bottom:1em">
 <b>Mailing list:</b> Announcements and Zoom information for the talks are sent to the seminar’s mailing list. To join the list, please email <b><a href="mailto:sepehr.hajebi@utoronto.ca">this</a></b> address.
 </div>
 
