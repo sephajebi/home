@@ -85,8 +85,9 @@ nav: false
 
 <!-- Put your seminar information below this line. -->
 
+<div style="width: 100%; text-align: justify; margin-bottom:0.8em">
 <b>Organizers:</b> <b><a href="https://sites.google.com/view/lior-gishboliner/home">Lior Gishboliner</a></b> and <b><a href="https://www.sepehrhajebi.com">Sepehr Hajebi</a></b>.
-<div style="height: 15px;"></div>
+</div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em">
 <b>About:</b> This is a combinatorics seminar with little to no pressure from the clock: talk can comfortably run for up 90 minutes (anf sometimes longer).
