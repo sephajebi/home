@@ -90,7 +90,7 @@ nav: false
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em">
-<b>About:</b> This is a combinatorics seminar with little to no pressure from the clock: talks can comfortably run for up 90 minutes (anf sometimes longer).
+<b>About:</b> This is a combinatorics seminar with little to no pressure from the clock: talks can comfortably run for up to 90 minutes (and sometimes longer).
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em">
