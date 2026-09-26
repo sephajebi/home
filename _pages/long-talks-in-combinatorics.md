@@ -101,5 +101,5 @@ nav: false
 </div>
 
 <blockquote>
-Season 1 schedule
+Season 1
 </blockquote>
