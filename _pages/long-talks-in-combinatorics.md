@@ -149,8 +149,8 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 /* Abstract */
 
 .abstract-text {
-  margin-top: 4px;
-  width: 82%;
+  margin-top: 6px;
+  width: 100%;
   line-height: 1.4;
 }
 
@@ -183,8 +183,9 @@ Season 1
 
   <div>
     <b>Time:</b> 10:00 AM ET<br>
-    <b>Speaker:</b> Paul Seymour<br>
-    <b>Title:</b> Title of the talk
+    <b>Speaker:</b> Paul Seymour
+    <div style="height: 5px;"></div>
+    <b>Title:</b> TBA
     <details class="abstract">
       <summary>
         <a><i class="fa-regular fa-file-lines"></i><b>Abstract</b></a>
@@ -193,6 +194,7 @@ Season 1
         This is the abstract of the talk. The text will automatically
         wrap within this width.
       </div>
+      <div style="height: 5px;"></div>
     </details>
     <details class="recording">
       <summary>
