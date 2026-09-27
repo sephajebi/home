@@ -181,7 +181,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 /* Abstract */
 
 .abstract-text {
-  margin-top: 6px;
+  margin-top: 7px;
   width: 100%;
   line-height: 1.4;
   text-align: justify;
@@ -190,7 +190,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 /* YouTube player */
 
 .video-container {
-  margin-top: 6px;
+  margin-top: 7px;
   width: 100%;
   aspect-ratio: 16 / 9;
 }
@@ -217,10 +217,11 @@ Season 1
   <div>
     <b>Time:</b> 10:00 AM ET<br>
     <b>Speaker:</b> Paul Seymour
-    <div style="height: 5px;"></div>
+    <div style="height: 7px;"></div>
     <div class="talk-title">
   <b>Title:</b> TBA.
 </div>
+    <div style="height: 7px;"></div>
     <details class="abstract">
       <summary>
         <a><i class="fa-regular fa-file-lines"></i><b>Abstract</b></a>
@@ -229,7 +230,7 @@ Season 1
         This is the abstract of the talk. The text will automatically
         wrap within this width.
       </div>
-      <div style="height: 5px;"></div>
+      <div style="height: 7px;"></div>
     </details>
     <details class="recording">
       <summary>
