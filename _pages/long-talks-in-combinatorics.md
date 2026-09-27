@@ -132,13 +132,13 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 
 .abstract summary span,
 .recording summary span {
-  color: #1c4587;
+  /*color: #1c4587;*/
   text-decoration: none;
 }
 
 .abstract summary:hover span,
 .recording summary:hover span {
-  color: #1c4587;
+  /*color: #1c4587;*/
   text-decoration: underline;
 }
 
@@ -149,7 +149,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   width: 18px;
   margin-right: 3px;
   text-align: center;
-  color: #1c4587;
+  /*color: #1c4587;*/
 }
   
   /* Abstract */
