@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Papers
 nav: true
 nav_order: 1
 ---
@@ -50,7 +50,7 @@ with B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 
 <blockquote>
-  Journal papers
+  Journal publications
 </blockquote>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth</b><br/>
