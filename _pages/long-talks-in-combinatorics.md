@@ -139,7 +139,6 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 .recording summary {
   cursor: pointer;
   list-style: none;
-  color: #1c4587;
   width: fit-content;
 }
 
@@ -148,10 +147,17 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   display: none;
 }
 
-/* Underline on hover */
+/* Text */
+
+.abstract summary span,
+.recording summary span {
+  color: #1c4587;
+  text-decoration: none;
+}
 
 .abstract summary:hover span,
 .recording summary:hover span {
+  color: #1c4587;
   text-decoration: underline;
 }
 
@@ -216,30 +222,30 @@ Season 1 (2026)
   <b>Title:</b> TBA.
 </div>
     <div style="height: 7px;"></div>
-    <details class="abstract">
-      <summary>
-  <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
-</summary>
-      <div class="abstract-text">
-        This is the abstract of the talk. The text will automatically
-        wrap within this width.
-      </div>
-    </details>
+<details class="abstract">
+  <summary>
+    <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+  </summary>
+  <div class="abstract-text">
+    This is the abstract of the talk. The text will automatically
+    wrap within this width.
+  </div>
+</details>
     <div style="height: 7px;"></div>
     <details class="recording">
-     <summary>
-  <i class="fa-brands fa-youtube"></i><b>Recording</b>
-</summary>
-      <div class="video-container">
-        <iframe
-          src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
-          title="YouTube video player"
-          loading="lazy"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen>
-        </iframe>
-      </div>
-    </details>
+  <summary>
+    <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
+  </summary>
+  <div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      title="YouTube video player"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+</details>
   </div>
 
 </div>
