@@ -124,7 +124,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   .talk {
     width: 97%;
     grid-template-columns: 75px 1fr;
-    column-gap: 10px;
+    column-gap: 12px;
   }
 }
 
@@ -139,11 +139,26 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 .recording summary {
   cursor: pointer;
   list-style: none;
+  color: #1c4587;
 }
 
 .abstract summary::-webkit-details-marker,
 .recording summary::-webkit-details-marker {
   display: none;
+}
+
+/* Link appearance */
+
+.abstract summary a,
+.recording summary a {
+  color: #1c4587;
+  text-decoration: none;
+}
+
+.abstract summary:hover a,
+.recording summary:hover a {
+  color: #1c4587;
+  text-decoration: underline;
 }
 
 /* Icons */
@@ -153,8 +168,10 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   width: 18px;
   margin-right: 4px;
   text-align: center;
+  color: #1c4587;
 }
 
+  
   /* Abstract */
 
   .talk-title {
