@@ -219,32 +219,33 @@ Season 1 (2026)
     <b>Speaker:</b> Paul Seymour
     <div style="height: 7px;"></div>
     <div class="talk-title">
-  <b>Title:</b> TBA.
+  <b>Title:</b> TBA
 </div>
-    <div style="height: 7px;"></div>
+    <div style="height: 3px;"></div>
 <details class="abstract">
   <summary>
     <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
   </summary>
   <div class="abstract-text">
-    This is the abstract of the talk. The text will automatically
-    wrap within this width.
+    TBA
   </div>
 </details>
-    <div style="height: 7px;"></div>
+    <div style="height: 3px;"></div>
     <details class="recording">
   <summary>
     <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
   </summary>
-  <div class="video-container">
+  TBA
+      
+      <div class="video-container">
     <iframe
       src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
       title="YouTube video player"
       loading="lazy"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen>
-    </iframe>
-  </div>
+    </iframe></div>
+  
 </details>
   </div>
 
