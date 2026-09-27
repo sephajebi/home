@@ -217,7 +217,7 @@ Season 1 (2026)
 </blockquote>
 
 Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
-<div style="height: 15px;"></div>
+<div style="height: 20px;"></div>
 
 <div class="talk">
   <div>
@@ -320,6 +320,241 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
 
   <div>
     <b>Speaker:</b> <b><a href="https://sites.google.com/view/oliver-janzer/home">Oliver Janzer</a></b>
+    <div style="height: 7px;"></div>
+    <div class="talk-title">
+  <b>Title:</b> TBA
+</div>
+    <div style="height: 3px;"></div>
+<details class="abstract">
+  <summary>
+    <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+  </summary>
+  <div class="abstract-text">
+    TBA
+  </div>
+</details>
+    <div style="height: 3px;"></div>
+    <details class="recording">
+  <summary>
+    <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
+  </summary>
+  TBA
+      
+<!--<div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      title="YouTube video player"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe></div>-->
+  
+</details>
+  </div>
+
+</div>
+<div style="height: 10px;"></div>
+
+
+
+
+
+<div class="talk">
+
+  <div>
+    <b>November 3</b>
+  </div>
+
+  <div>
+    <b>Speaker:</b> <b><a href="https://shohamlet.github.io">Shoham Letzter</a></b>
+    <div style="height: 7px;"></div>
+    <div class="talk-title">
+  <b>Title:</b> TBA
+</div>
+    <div style="height: 3px;"></div>
+<details class="abstract">
+  <summary>
+    <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+  </summary>
+  <div class="abstract-text">
+    TBA
+  </div>
+</details>
+    <div style="height: 3px;"></div>
+    <details class="recording">
+  <summary>
+    <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
+  </summary>
+  TBA
+      
+<!--<div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      title="YouTube video player"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe></div>-->
+  
+</details>
+  </div>
+
+</div>
+<div style="height: 10px;"></div>
+
+
+
+
+
+<div class="talk">
+
+  <div>
+    <b>November 10</b>
+  </div>
+
+  <div>
+    <b>Speaker:</b> <b><a href="https://sites.google.com/site/sophiespirkl/">Sophie Spirkl</a></b>
+    <div style="height: 7px;"></div>
+    <div class="talk-title">
+  <b>Title:</b> TBA
+</div>
+    <div style="height: 3px;"></div>
+<details class="abstract">
+  <summary>
+    <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+  </summary>
+  <div class="abstract-text">
+    TBA
+  </div>
+</details>
+    <div style="height: 3px;"></div>
+    <details class="recording">
+  <summary>
+    <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
+  </summary>
+  TBA
+      
+<!--<div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      title="YouTube video player"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe></div>-->
+  
+</details>
+  </div>
+
+</div>
+<div style="height: 10px;"></div>
+
+
+
+
+
+<div class="talk">
+
+  <div>
+    <b>November 17</b>
+  </div>
+
+  <div>
+    <b>Speaker:</b> <b><a href="https://sites.google.com/view/domagoj-bradac/">Domagoj Bradač</a></b>
+    <div style="height: 7px;"></div>
+    <div class="talk-title">
+  <b>Title:</b> TBA
+</div>
+    <div style="height: 3px;"></div>
+<details class="abstract">
+  <summary>
+    <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+  </summary>
+  <div class="abstract-text">
+    TBA
+  </div>
+</details>
+    <div style="height: 3px;"></div>
+    <details class="recording">
+  <summary>
+    <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
+  </summary>
+  TBA
+      
+<!--<div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      title="YouTube video player"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe></div>-->
+  
+</details>
+  </div>
+
+</div>
+<div style="height: 10px;"></div>
+
+
+
+
+
+<div class="talk">
+
+  <div>
+    <b>November 24</b>
+  </div>
+
+  <div>
+    <b>Speaker:</b> <b><a href="https://web.math.princeton.edu/~mchudnov/">Maria Chudnovsky</a></b>
+    <div style="height: 7px;"></div>
+    <div class="talk-title">
+  <b>Title:</b> TBA
+</div>
+    <div style="height: 3px;"></div>
+<details class="abstract">
+  <summary>
+    <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+  </summary>
+  <div class="abstract-text">
+    TBA
+  </div>
+</details>
+    <div style="height: 3px;"></div>
+    <details class="recording">
+  <summary>
+    <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
+  </summary>
+  TBA
+      
+<!--<div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      title="YouTube video player"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe></div>-->
+  
+</details>
+  </div>
+
+</div>
+<div style="height: 10px;"></div>
+
+
+
+
+
+<div class="talk">
+
+  <div>
+    <b>December 1</b>
+  </div>
+
+  <div>
+    <b>Speaker:</b> <b><a href="https://robiscounting.github.io">Rob Morris</a></b>
     <div style="height: 7px;"></div>
     <div class="talk-title">
   <b>Title:</b> TBA
