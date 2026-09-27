@@ -106,71 +106,64 @@ nav: false
 <b>Mailing list:</b> Announcements and Zoom information for the talks are sent to the seminar’s mailing list. To join the list, please email <b><a href="mailto:sepehr.hajebi@utoronto.ca">this</a></b> address.
 </div>
 
+<!-- Font Awesome icons -->
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
 <style>
 .talk {
   display: grid;
   grid-template-columns: 100px 1fr;
   column-gap: 20px;
-  width: 45%;
+  width: 55%;
   margin-bottom: 2em;
 }
 
-/* Abstract */
+/* Abstract and Recording */
 
-.abstract {
-  margin-top: 4px;
-}
-
-.abstract summary {
-  cursor: pointer;
-  color: #0366d6;
-  text-decoration: none;
-  list-style: none;
-}
-
-.abstract summary::-webkit-details-marker {
-  display: none;
-}
-
-.abstract summary:hover {
-  text-decoration: underline;
-}
-
-.abstract-text {
-  margin-top: 10px;
-  line-height: 1.4;
-}
-
-/* Recording */
-
+.abstract,
 .recording {
   margin-top: 4px;
 }
 
+.abstract summary,
 .recording summary {
   cursor: pointer;
-  color: #0366d6;
-  text-decoration: none;
   list-style: none;
 }
 
+.abstract summary::-webkit-details-marker,
 .recording summary::-webkit-details-marker {
   display: none;
 }
 
-.recording summary:hover {
-  text-decoration: underline;
+/* Icons */
+
+.abstract summary i,
+.recording summary i {
+  width: 18px;
+  margin-right: 4px;
+  text-align: center;
+}
+
+/* Abstract */
+
+.abstract-text {
+  margin-top: 4px;
+  width: 82%;
+  line-height: 1.4;
 }
 
 /* YouTube player */
 
 .video-container {
-  margin-top: 10px;
+  margin-top: 6px;
   width: 100%;
   aspect-ratio: 16 / 9;
 }
 
 .video-container iframe {
+  display: block;
   width: 100%;
   height: 100%;
   border: 0;
@@ -193,18 +186,23 @@ Season 1
     <b>Speaker:</b> Paul Seymour<br>
     <b>Title:</b> Title of the talk
     <details class="abstract">
-      <summary><b>Abstract</b></summary>
+      <summary>
+        <a><i class="fa-regular fa-file-lines"></i><b>Abstract</b></a>
+      </summary>
       <div class="abstract-text">
-        This is the abstract of the talk. It can be as long as necessary,
-        and the text will automatically wrap within the width of the talk.
+        This is the abstract of the talk. The text will automatically
+        wrap within this width.
       </div>
     </details>
     <details class="recording">
-      <summary><b>Recording</b></summary>
+      <summary>
+        <a><i class="fa-brands fa-youtube"></i><b>Recording</b></a>
+      </summary>
       <div class="video-container">
         <iframe
-          src="https://www.youtube.com/embed/3CzRUhi9KFo"
+          src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
           title="YouTube video player"
+          loading="lazy"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen>
         </iframe>
