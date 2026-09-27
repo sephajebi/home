@@ -216,15 +216,15 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 Season 1 (2026)
 </blockquote>
 
-<div class="talk">
+ <b>All talks start at 10:00 AM ET. </b>
+<div style="height: 7px;"></div>
 
+<div class="talk">
   <div>
     <b>October 6</b>
   </div>
 
   <div>
-    <b>Time:</b> 10:00 AM ET<br>
-       <div style="height: 7px;"></div>
     <b>Speaker:</b> <b><a href="https://web.math.princeton.edu/~pds/">Paul Seymour</a></b>
     <div style="height: 7px;"></div>
     <div class="talk-title">
@@ -272,8 +272,6 @@ Season 1 (2026)
   </div>
 
   <div>
-    <b>Time:</b> 10:00 AM ET<br>
-       <div style="height: 7px;"></div>
     <b>Speaker:</b> <b><a href="https://people.math.ethz.ch/~sudakovb/">Benny Sudakov</a></b>
     <div style="height: 7px;"></div>
     <div class="talk-title">
@@ -321,8 +319,6 @@ Season 1 (2026)
   </div>
 
   <div>
-    <b>Time:</b> 10:00 AM ET<br>
-       <div style="height: 7px;"></div>
     <b>Speaker:</b> <b><a href="https://sites.google.com/view/oliver-janzer/home">Oliver Janzer</a></b>
     <div style="height: 7px;"></div>
     <div class="talk-title">
