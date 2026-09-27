@@ -207,7 +207,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 <b>Schedule:</b> The seminar will run in seasons of 8-10 talks, for as long as speakers and audiences can be found. The schedule for Season 1 is below.
 </div>
 
-<div style="width: 100%; text-align: justify; margin-bottom:1em">
+<div style="width: 100%; text-align: justify; margin-bottom:3em">
 <b>Mailing list:</b> Announcements and Zoom information for the talks are sent to the seminar’s mailing list. To join the list, please email <b><a href="mailto:sepehr.hajebi@utoronto.ca">this</a></b> address.
 </div>
 
@@ -259,3 +259,104 @@ Season 1 (2026)
   </div>
 
 </div>
+<div style="height: 10px;"></div>
+
+
+
+
+
+<div class="talk">
+
+  <div>
+    <b>October 13</b>
+  </div>
+
+  <div>
+    <b>Time:</b> 10:00 AM ET<br>
+       <div style="height: 7px;"></div>
+    <b>Speaker:</b> <b><a href="https://people.math.ethz.ch/~sudakovb/">Benny Sudakov</a></b>
+    <div style="height: 7px;"></div>
+    <div class="talk-title">
+  <b>Title:</b> TBA
+</div>
+    <div style="height: 3px;"></div>
+<details class="abstract">
+  <summary>
+    <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+  </summary>
+  <div class="abstract-text">
+    TBA
+  </div>
+</details>
+    <div style="height: 3px;"></div>
+    <details class="recording">
+  <summary>
+    <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
+  </summary>
+  TBA
+      
+<!--<div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      title="YouTube video player"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe></div>-->
+  
+</details>
+  </div>
+
+</div>
+<div style="height: 10px;"></div>
+
+
+
+
+
+<div class="talk">
+
+  <div>
+    <b>October 20</b>
+  </div>
+
+  <div>
+    <b>Time:</b> 10:00 AM ET<br>
+       <div style="height: 7px;"></div>
+    <b>Speaker:</b> <b><a href="https://sites.google.com/view/oliver-janzer/home">Oliver Janzer</a></b>
+    <div style="height: 7px;"></div>
+    <div class="talk-title">
+  <b>Title:</b> TBA
+</div>
+    <div style="height: 3px;"></div>
+<details class="abstract">
+  <summary>
+    <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+  </summary>
+  <div class="abstract-text">
+    TBA
+  </div>
+</details>
+    <div style="height: 3px;"></div>
+    <details class="recording">
+  <summary>
+    <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
+  </summary>
+  TBA
+      
+<!--<div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      title="YouTube video player"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe></div>-->
+  
+</details>
+  </div>
+
+</div>
+
+
+
