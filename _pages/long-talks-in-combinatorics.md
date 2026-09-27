@@ -115,6 +115,8 @@ nav: false
   margin-bottom: 2em;
 }
 
+/* Abstract */
+
 .abstract {
   margin-top: 4px;
 }
@@ -138,6 +140,41 @@ nav: false
   margin-top: 10px;
   line-height: 1.4;
 }
+
+/* Recording */
+
+.recording {
+  margin-top: 4px;
+}
+
+.recording summary {
+  cursor: pointer;
+  color: #0366d6;
+  text-decoration: none;
+  list-style: none;
+}
+
+.recording summary::-webkit-details-marker {
+  display: none;
+}
+
+.recording summary:hover {
+  text-decoration: underline;
+}
+
+/* YouTube player */
+
+.video-container {
+  margin-top: 10px;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.video-container iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
 </style>
 
 
@@ -146,20 +183,33 @@ Season 1
 </blockquote>
 
 <div class="talk">
-  <div><b>October 6</b></div>
 
-  <div class="talk-details">
+  <div>
+    <b>October 6</b>
+  </div>
+
+  <div>
     <b>Time:</b> 10:00 AM ET<br>
     <b>Speaker:</b> Paul Seymour<br>
-    <b>Title:</b> Title goes here<br>
+    <b>Title:</b> Title of the talk
     <details class="abstract">
       <summary><b>Abstract</b></summary>
       <div class="abstract-text">
-        This talk is about something very interesting. The abstract can
-        be as long as you like, and the text will automatically wrap
-        within the specified width.
+        This is the abstract of the talk. It can be as long as necessary,
+        and the text will automatically wrap within the width of the talk.
       </div>
     </details>
-    <b>Recording:</b> Recording link goes here
+    <details class="recording">
+      <summary><b>Recording</b></summary>
+      <div class="video-container">
+        <iframe
+          src="https://www.youtube.com/embed/3CzRUhi9KFo"
+          title="YouTube video player"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </details>
   </div>
+
 </div>
