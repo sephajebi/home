@@ -184,11 +184,10 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 </style>
 
 
-
-
-
-
 <!-- Seminar information below this line. -->
+
+
+
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em">
 <b>Organizers:</b> <b><a href="https://sites.google.com/view/lior-gishboliner/home">Lior Gishboliner</a></b> and <b><a href="https://www.sepehrhajebi.com">Sepehr Hajebi</a></b>.
@@ -215,9 +214,10 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 <blockquote>
 Season 1 (2026)
 </blockquote>
+<div style="height: -3px;"></div>
 
 Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
-<div style="height: 20px;"></div>
+<div style="height: 30px;"></div>
 
 <div class="talk">
   <div>
