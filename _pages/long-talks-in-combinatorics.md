@@ -203,7 +203,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em">
-<b>Schedule:</b> The seminar will run in seasons of 8-10 talks, for as long as speakers and audiences can be found. The schedule for Season 1 is below.
+<b>Schedule:</b> The seminar will run in rounds of 8-10 talks, for as long as speakers and audiences can be found. The schedule for Season 1 is below.
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:3em">
@@ -212,7 +212,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 
 
 <blockquote>
-Season 1 (2026)
+Round 1 (2026)
 </blockquote>
 <div style="height: -3px;"></div>
 
