@@ -140,6 +140,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   cursor: pointer;
   list-style: none;
   color: #1c4587;
+  width: fit-content;
 }
 
 .abstract summary::-webkit-details-marker,
@@ -147,17 +148,10 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   display: none;
 }
 
-/* Link appearance */
+/* Underline on hover */
 
-.abstract summary a,
-.recording summary a {
-  color: #1c4587;
-  text-decoration: none;
-}
-
-.abstract summary:hover a,
-.recording summary:hover a {
-  color: #1c4587;
+.abstract summary:hover span,
+.recording summary:hover span {
   text-decoration: underline;
 }
 
@@ -166,11 +160,10 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 .abstract summary i,
 .recording summary i {
   width: 18px;
-  margin-right: 4px;
+  margin-right: 3px;
   text-align: center;
   color: #1c4587;
 }
-
   
   /* Abstract */
 
@@ -225,8 +218,8 @@ Season 1 (2026)
     <div style="height: 7px;"></div>
     <details class="abstract">
       <summary>
-        <i class="fa-regular fa-file-lines"></i><b>Abstract</b>
-      </summary>
+  <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+</summary>
       <div class="abstract-text">
         This is the abstract of the talk. The text will automatically
         wrap within this width.
@@ -234,9 +227,9 @@ Season 1 (2026)
     </details>
     <div style="height: 7px;"></div>
     <details class="recording">
-      <summary>
-       <i class="fa-brands fa-youtube"></i><b>Recording</b>
-      </summary>
+     <summary>
+  <i class="fa-brands fa-youtube"></i><b>Recording</b>
+</summary>
       <div class="video-container">
         <iframe
           src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
