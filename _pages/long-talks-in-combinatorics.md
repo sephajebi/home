@@ -216,6 +216,7 @@ Season 1
 
   <div>
     <b>Time:</b> 10:00 AM ET<br>
+       <div style="height: 7px;"></div>
     <b>Speaker:</b> Paul Seymour
     <div style="height: 7px;"></div>
     <div class="talk-title">
@@ -230,8 +231,8 @@ Season 1
         This is the abstract of the talk. The text will automatically
         wrap within this width.
       </div>
-      <div style="height: 7px;"></div>
     </details>
+    <div style="height: 7px;"></div>
     <details class="recording">
       <summary>
         <a><i class="fa-brands fa-youtube"></i><b>Recording</b></a>
