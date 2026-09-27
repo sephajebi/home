@@ -246,14 +246,14 @@ Season 1 (2026)
   </summary>
   TBA
       
-      <div class="video-container">
+<!--<div class="video-container">
     <iframe
       src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
       title="YouTube video player"
       loading="lazy"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen>
-    </iframe></div>
+    </iframe></div>-->
   
 </details>
   </div>
