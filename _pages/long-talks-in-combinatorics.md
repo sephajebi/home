@@ -106,6 +106,60 @@ nav: false
 <b>Mailing list:</b> Announcements and Zoom information for the talks are sent to the seminar’s mailing list. To join the list, please email <b><a href="mailto:sepehr.hajebi@utoronto.ca">this</a></b> address.
 </div>
 
+<style>
+.talk {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  column-gap: 20px;
+  width: 45%;
+  margin-bottom: 2em;
+}
+
+.abstract {
+  margin-top: 4px;
+}
+
+.abstract summary {
+  cursor: pointer;
+  color: #0366d6;
+  text-decoration: none;
+  list-style: none;
+}
+
+.abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+.abstract summary:hover {
+  text-decoration: underline;
+}
+
+.abstract-text {
+  margin-top: 10px;
+  line-height: 1.4;
+}
+</style>
+
+
 <blockquote>
 Season 1
 </blockquote>
+
+<div class="talk">
+  <div><b>October 6</b></div>
+
+  <div class="talk-details">
+    <b>Time:</b> 10:00 AM ET<br>
+    <b>Speaker:</b> Paul Seymour<br>
+    <b>Title:</b> Title goes here<br>
+    <details class="abstract">
+      <summary><b>Abstract</b></summary>
+      <div class="abstract-text">
+        This talk is about something very interesting. The abstract can
+        be as long as you like, and the text will automatically wrap
+        within the specified width.
+      </div>
+    </details>
+    <b>Recording:</b> Recording link goes here
+  </div>
+</div>
