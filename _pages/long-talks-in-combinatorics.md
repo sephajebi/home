@@ -216,8 +216,8 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 Season 1 (2026)
 </blockquote>
 
- <b>All talks start at 10:00 AM ET. </b>
-<div style="height: 7px;"></div>
+Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
+<div style="height: 15px;"></div>
 
 <div class="talk">
   <div>
