@@ -205,7 +205,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 
 
 <blockquote>
-Season 1
+Season 1 (2026)
 </blockquote>
 
 <div class="talk">
@@ -225,7 +225,7 @@ Season 1
     <div style="height: 7px;"></div>
     <details class="abstract">
       <summary>
-        <a><i class="fa-regular fa-file-lines"></i><b>Abstract</b></a>
+        <i class="fa-regular fa-file-lines"></i><b>Abstract</b>
       </summary>
       <div class="abstract-text">
         This is the abstract of the talk. The text will automatically
@@ -235,7 +235,7 @@ Season 1
     <div style="height: 7px;"></div>
     <details class="recording">
       <summary>
-        <a><i class="fa-brands fa-youtube"></i><b>Recording</b></a>
+       <i class="fa-brands fa-youtube"></i><b>Recording</b>
       </summary>
       <div class="video-container">
         <iframe
