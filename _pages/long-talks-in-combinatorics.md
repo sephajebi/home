@@ -122,9 +122,9 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 /* Mobile */
 @media (max-width: 768px) {
   .talk {
-    width: 95%;
+    width: 97%;
     grid-template-columns: 75px 1fr;
-    column-gap: 8px;
+    column-gap: 10px;
   }
 }
 
@@ -155,12 +155,19 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   text-align: center;
 }
 
+  /* Abstract */
+
+  .talk-title {
+  text-align: justify;
+}
+
 /* Abstract */
 
 .abstract-text {
   margin-top: 6px;
   width: 100%;
   line-height: 1.4;
+  text-align: justify;
 }
 
 /* YouTube player */
@@ -194,7 +201,9 @@ Season 1
     <b>Time:</b> 10:00 AM ET<br>
     <b>Speaker:</b> Paul Seymour
     <div style="height: 5px;"></div>
-    <b>Title:</b> TBA
+    <div class="talk-title">
+  <b>Title:</b> TBA.
+</div>
     <details class="abstract">
       <summary>
         <a><i class="fa-regular fa-file-lines"></i><b>Abstract</b></a>
