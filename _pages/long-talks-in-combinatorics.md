@@ -295,7 +295,7 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
     </div>
     <div class="title">
       <i class="fa-solid fa-heading"></i>
-      <span class="talk-title">The title of the talk</span>
+      <span class="talk-title">TBA</span>
     </div>
     <details class="abstract">
       <summary>
@@ -303,7 +303,7 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
         <span>Abstract</span>
       </summary>
       <div class="abstract-text">
-        The abstract goes here.
+        TBA.
       </div>
     </details>
     <details class="recording">
@@ -311,12 +311,14 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
         <i class="fa-brands fa-youtube"></i>
         <span>Recording</span>
       </summary>
-      <div class="video-container">
-        <iframe
-          src="YOUTUBE-EMBED-URL"
-          allowfullscreen>
-        </iframe>
-      </div>
+      <!--<div class="video-container">
+    <iframe
+      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      title="YouTube video player"
+      loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe></div>-->
     </details>
   </div>
 </div>
