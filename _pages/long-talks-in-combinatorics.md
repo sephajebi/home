@@ -109,12 +109,33 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   }
 }
 
-/* Abstract and Recording */
+/* Title, Abstract and Recording */
 
+.title,
 .abstract,
 .recording {
   margin-top: 4px;
 }
+
+/* Title */
+
+.title {
+  display: flex;
+  align-items: flex-start;
+}
+
+.title i {
+  width: 18px;
+  margin-right: 3px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.talk-title {
+  text-align: justify;
+}
+
+/* Abstract and Recording */
 
 .abstract summary,
 .recording summary {
@@ -150,12 +171,6 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   margin-right: 3px;
   text-align: center;
   /*color: #1c4587;*/
-}
-  
-  /* Abstract */
-
-  .talk-title {
-  text-align: justify;
 }
 
 /* Abstract */
@@ -274,8 +289,9 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
   <div>
     <b>Speaker:</b> <b><a href="https://people.math.ethz.ch/~sudakovb/">Benny Sudakov</a></b> (ETH Zürich)
     <div style="height: 7px;"></div>
-    <div class="talk-title">
-  <b>Title:</b> The Mihail-Vazirani conjecture and strong edge-expansion in random \(0/1\) polytopes
+    <div class="title">
+  <b>Title:</b>&nbsp;
+  <span class="talk-title">The Mihail-Vazirani conjecture and strong edge-expansion in random 0/1 polytopes</span>
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
