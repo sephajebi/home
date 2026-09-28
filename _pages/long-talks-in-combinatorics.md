@@ -281,53 +281,6 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
 
 
 
-
-
-<div class="talk">
-
-  <div class="date">
-    October 6
-  </div>
-  <div>
-    <div class="speaker">
-      <i class="fa-solid fa-user"></i>
-      <span class="speaker-text">Paul Seymour</span>
-    </div>
-    <div class="title">
-      <i class="fa-solid fa-heading"></i>
-      <span class="talk-title">TBA</span>
-    </div>
-    <details class="abstract">
-      <summary>
-        <i class="fa-solid fa-align-left"></i>
-        <span>Abstract</span>
-      </summary>
-      <div class="abstract-text">
-        TBA.
-      </div>
-    </details>
-    <details class="recording">
-      <summary>
-        <i class="fa-brands fa-youtube"></i>
-        <span>Recording</span>
-      </summary>
-      <!--<div class="video-container">
-    <iframe
-      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
-      title="YouTube video player"
-      loading="lazy"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen>
-    </iframe></div>-->
-    </details>
-  </div>
-</div>
-<div style="height: 10px;"></div>
-
-
-
-
-
 <div class="talk">
 
   <div>
@@ -337,9 +290,8 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
   <div>
     <b>Speaker:</b> <b><a href="https://people.math.ethz.ch/~sudakovb/">Benny Sudakov</a></b> (ETH Zürich)
     <div style="height: 7px;"></div>
-    <div class="title">
-  <b>Title:</b>&nbsp;
-  <span class="talk-title">The Mihail-Vazirani conjecture and strong edge-expansion in random 0/1 polytopes</span>
+<div class="talk-title">
+  <b>Title:</b> The Mihail-Vazirani conjecture and strong edge-expansion in random 0/1 polytopes
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
