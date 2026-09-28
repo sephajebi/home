@@ -109,21 +109,24 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   }
 }
 
-/* Title, Abstract and Recording */
+/* Speaker, Title, Abstract and Recording */
 
+.speaker,
 .title,
 .abstract,
 .recording {
   margin-top: 4px;
 }
 
-/* Title */
+/* Speaker and Title */
 
+.speaker,
 .title {
   display: flex;
   align-items: flex-start;
 }
 
+.speaker i,
 .title i {
   width: 18px;
   margin-right: 3px;
@@ -131,6 +134,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   flex-shrink: 0;
 }
 
+.speaker-text,
 .talk-title {
   text-align: justify;
 }
@@ -197,7 +201,6 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   border: 0;
 }
 </style>
-
 
 <!-- Seminar information below this line. -->
 
@@ -273,6 +276,49 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
 </details>
   </div>
 
+</div>
+<div style="height: 10px;"></div>
+
+
+
+
+
+<div class="talk">
+
+  <div class="date">
+    October 6
+  </div>
+  <div>
+    <div class="speaker">
+      <i class="fa-solid fa-user"></i>
+      <span class="speaker-text">Paul Seymour</span>
+    </div>
+    <div class="title">
+      <i class="fa-solid fa-heading"></i>
+      <span class="talk-title">The title of the talk</span>
+    </div>
+    <details class="abstract">
+      <summary>
+        <i class="fa-solid fa-align-left"></i>
+        <span>Abstract</span>
+      </summary>
+      <div class="abstract-text">
+        The abstract goes here.
+      </div>
+    </details>
+    <details class="recording">
+      <summary>
+        <i class="fa-brands fa-youtube"></i>
+        <span>Recording</span>
+      </summary>
+      <div class="video-container">
+        <iframe
+          src="YOUTUBE-EMBED-URL"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </details>
+  </div>
 </div>
 <div style="height: 10px;"></div>
 
