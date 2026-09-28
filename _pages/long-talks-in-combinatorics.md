@@ -284,6 +284,9 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
   </summary>
   <div class="abstract-text">
 We study the edge-expansion of the graph of a random \(0/1\) polytope \(P^d_p\), the convex hull of a random subset of \(\{0,1\}^d\) obtained by retaining each point independently with probability \(p\). This problem, introduced by Gillmann and Kaibel more than twenty years ago, has since attracted substantial attention. We prove that, for every fixed \(\varepsilon>0\) and every \(p\in(0,1-\varepsilon]\), the graph of \(P^d_p\) has edge-expansion \(\Theta(d)\) with high probability, improving the previous best bound of Ferber, Krivelevich, Sales and Samotij and verifying the Mihail--Vazirani conjecture for random \(0/1\) polytopes in a strong form. We further show that the behavior changes sharply at \(p=1/2\): for every fixed \(\varepsilon>0\) and integer \(k\ge 2\), if \(p\le 1/2-\varepsilon\), then the edge-expansion is \(\Omega(d^k)\) with high probability. Thus, random \(0/1\) polytopes exhibit a striking expansion phase transition at \(p=1/2\).
+<br>
+    
+This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
   </div>
 </details>
     <div style="height: 3px;"></div>
