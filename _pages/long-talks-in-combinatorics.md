@@ -243,10 +243,10 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
   </div>
 
   <div>
-    <b>Speaker:</b> <b><a href="https://web.math.princeton.edu/~pds/">Paul Seymour</a></b> (Princeton University)
+    <i class="fa-solid fa-user"></i> <b>Speaker:</b> <b><a href="https://web.math.princeton.edu/~pds/">Paul Seymour</a></b> (Princeton University)
     <div style="height: 7px;"></div>
     <div class="talk-title">
-  <b>Title:</b> TBA
+  <i class="fa-solid fa-tag"></i> <b>Title:</b> TBA
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
