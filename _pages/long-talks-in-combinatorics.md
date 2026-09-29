@@ -243,45 +243,59 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
 <div class="talk">
 <div class="talk">
 
-  <div>
-    <b>October 6</b>
+<div>
+  <b>October 6</b>
+</div>
+
+<div>
+
+  <div class="speaker">
+    <i class="fa-solid fa-user"></i>
+    <span class="speaker-text">
+      <b>Speaker:</b>&nbsp;
+      <b><a href="https://web.math.princeton.edu/~pds/">Paul&nbsp;Seymour</a></b> (Princeton University)
+    </span>
   </div>
 
-  <div>
-    <div class="speaker">
-      <i class="fa-solid fa-user"></i>
-      <span class="speaker-text"><b><a href="https://web.math.princeton.edu/~pds/">Paul Seymour</a></b> (Princeton University)</span>
-    </div>
-    <div class="title">
-      <i class="fa-solid fa-tag"></i>
-      <span class="talk-title">TBA.</span>
-    </div>
-    <div style="height: 3px;"></div>
-    <details class="abstract">
-      <summary>
-        <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
-      </summary>
-      <div class="abstract-text">
-        TBA
-      </div>
-    </details>
-    <div style="height: 3px;"></div>
-    <details class="recording">
-      <summary>
-        <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
-      </summary>
-      TBA
-      <!--<div class="video-container">
-        <iframe
-          src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
-          title="YouTube video player"
-          loading="lazy"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen>
-        </iframe>
-      </div>-->
-    </details>
+  <div class="title">
+    <i class="fa-solid fa-tag"></i>
+    <span class="talk-title">
+      <b>Title:</b>&nbsp; TBA.
+    </span>
   </div>
+
+  <div style="height: 3px;"></div>
+
+  <details class="abstract">
+    <summary>
+      <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
+    </summary>
+    <div class="abstract-text">
+      TBA
+    </div>
+  </details>
+
+  <div style="height: 3px;"></div>
+
+  <details class="recording">
+    <summary>
+      <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
+    </summary>
+    TBA
+
+    <!--<div class="video-container">
+      <iframe
+        src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+        title="YouTube video player"
+        loading="lazy"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>-->
+
+  </details>
+
+</div>
 </div>
 <div style="height: 10px;"></div>
 
