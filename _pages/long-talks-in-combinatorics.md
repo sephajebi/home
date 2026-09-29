@@ -90,7 +90,6 @@ nav: false
 <!-- Font Awesome icons -->
 <link rel="stylesheet"
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
-
 <style>
 .talk {
   display: grid;
@@ -101,6 +100,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 }
 
 /* Mobile */
+
 @media (max-width: 768px) {
   .talk {
     width: 97%;
@@ -132,6 +132,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   margin-right: 3px;
   text-align: center;
   flex-shrink: 0;
+  line-height: inherit;
 }
 
 .speaker-text,
@@ -202,6 +203,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 }
 </style>
 
+
 <!-- Seminar information below this line. -->
 
 
@@ -242,11 +244,13 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
     <b>October 6</b>
   </div>
 
-  <div>
-    <i class="fa-solid fa-user"></i> <b>Speaker:</b> <b><a href="https://web.math.princeton.edu/~pds/">Paul Seymour</a></b> (Princeton University)
-    <div style="height: 7px;"></div>
-    <div class="talk-title">
-  <i class="fa-solid fa-tag"></i> <b>Title:</b> TBA
+  <div class="speaker">
+  <i class="fa-solid fa-user"></i>
+  <span class="speaker-text"></b> <b><a href="https://web.math.princeton.edu/~pds/">Paul Seymour</a></b> (Princeton University)</span>
+</div>
+<div class="title">
+  <i class="fa-solid fa-tag"></i>
+  <span class="talk-title">TBA.</span>
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
