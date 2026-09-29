@@ -91,6 +91,8 @@ nav: false
 <link rel="stylesheet"
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 
+
+
 <style>
 .talk {
   display: grid;
@@ -127,6 +129,8 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   align-items: flex-start;
 }
 
+/* Speaker and Title icons */
+
 .speaker i,
 .title i {
   width: 18px;
@@ -136,8 +140,12 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   line-height: inherit;
 }
 
+/* Speaker and Title text */
+
 .speaker-text,
 .talk-title {
+  flex: 1;
+  min-width: 0;
   text-align: justify;
 }
 
@@ -155,7 +163,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   display: none;
 }
 
-/* Text */
+/* Abstract and Recording text */
 
 .abstract summary span,
 .recording summary span {
@@ -169,7 +177,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   text-decoration: underline;
 }
 
-/* Icons */
+/* Abstract and Recording icons */
 
 .abstract summary i,
 .recording summary i {
@@ -243,59 +251,20 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
 <div class="talk">
 <div class="talk">
 
-<div>
-  <b>October 6</b>
+
+
+<div class="speaker">
+  <i class="fa-solid fa-user"></i>
+  <span class="speaker-text">
+    <b>Speaker:</b> <b><a href="https://web.math.princeton.edu/~pds/">Paul Seymour</a></b> (Princeton University)
+  </span>
 </div>
 
-<div>
-
-  <div class="speaker">
-    <i class="fa-solid fa-user"></i>
-    <span class="speaker-text">
-      <b>Speaker:</b>&nbsp;
-      <b><a href="https://web.math.princeton.edu/~pds/">Paul&nbsp;Seymour</a></b> (Princeton University)
-    </span>
-  </div>
-
-  <div class="title">
-    <i class="fa-solid fa-tag"></i>
-    <span class="talk-title">
-      <b>Title:</b>&nbsp; TBA.
-    </span>
-  </div>
-
-  <div style="height: 3px;"></div>
-
-  <details class="abstract">
-    <summary>
-      <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
-    </summary>
-    <div class="abstract-text">
-      TBA
-    </div>
-  </details>
-
-  <div style="height: 3px;"></div>
-
-  <details class="recording">
-    <summary>
-      <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
-    </summary>
-    TBA
-
-    <!--<div class="video-container">
-      <iframe
-        src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
-        title="YouTube video player"
-        loading="lazy"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen>
-      </iframe>
-    </div>-->
-
-  </details>
-
-</div>
+<div class="title">
+  <i class="fa-solid fa-tag"></i>
+  <span class="talk-title">
+    <b>Title:</b> TBA.
+  </span>
 </div>
 <div style="height: 10px;"></div>
 
