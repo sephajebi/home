@@ -435,7 +435,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
     <b>Speaker:</b> <b><a href="https://sites.google.com/site/sophiespirkl/">Sophie Spirkl</a></b> (University of Waterloo)
     <div style="height: 7px;"></div>
     <div class="talk-title">
-  <b>Title:</b> TBA
+  <b>Title:</b> Cliques and coloring in tournaments
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
@@ -443,7 +443,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
     <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
   </summary>
   <div class="abstract-text">
-    TBA
+    Tournaments are orientations of complete graphs, and many graph theory questions -- in particular, from the world of induced subgraphs -- have analogues in tournaments. In particular, notions of colouring (due to Neumann-Lara) and clique number (Aboulker, Aubian, Charbit, Lopes) exist. I will tell you what these are, as well as some of what we know about them, and questions that remain.
   </div>
 </details>
     <div style="height: 3px;"></div>
