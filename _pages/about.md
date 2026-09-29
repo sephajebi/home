@@ -22,6 +22,10 @@ social: false  # includes social icons at the bottom of the page
 <b>Currently:</b> I hold a Canada Postdoctoral Research Award in the Department of Mathematics at the University of Toronto. My office is in the Bahen Centre, room BA 6256. You can reach me at first name dot last name at utoronto dot ca.
 </div>
 
+<div style="width: 100%; text-align: justify; padding-top:0.5em; margin-bottom:0.8em">
+With <b><a href='https://sites.google.com/view/lior-gishboliner'>Lior Gishboliner</a></b>, I organize the online seminar <b><a href='https://www.sepehrhajebi.com/long-talks-in-combinatorics/'>Long Talks in Combinatorics.</a></b>
+</div>
+
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em;">
 <b>Previously:</b> I graduated in 2024 from the University of Waterloo where I did my PhD with Sophie Spirkl in the C&O department. My first appointment after PhD was as junior faculty in the Department of Mathematics at Princeton University, but I never made it to Princeton -- courtesy of a <b><a href='https://www.whitehouse.gov/presidential-actions/2025/06/restricting-the-entry-of-foreign-nationals-to-protect-the-united-states-from-foreign-terrorists-and-other-national-security-and-public-safety-threats/'>presidential proclamation</a></b> under which apparently anyone with the wrong citizenship is a "national security and public safety threat." Instead, I stayed in Waterloo as a Postdoctoral Scholar from 2024 to 2026, waiting for this inanity to get over itself. It didn't.
 </div>
