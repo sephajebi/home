@@ -108,7 +108,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   .talk {
     width: 100%;
     grid-template-columns: 70px 1fr;
-    column-gap: 9px;
+    column-gap: 11px;
   }
 }
 
