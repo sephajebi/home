@@ -352,7 +352,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
     <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://sites.google.com/view/oliver-janzer/home">Oliver Janzer</a></b> (EPFL)</span>
     </div>
     <div class="title"><i class="fa-solid fa-tag"></i>
-  <span class="talk-title"><b>Title:</b> TBA</span>
+  <span class="talk-title"><b>Title:</b> On the rational exponents conjecture</span>
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
@@ -360,7 +360,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
     <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
   </summary>
   <div class="abstract-text">
-    TBA
+    The rational exponents conjecture of Erd&#337;s and Simonovits states that for every rational \(r\in [1,2]\), there exists a graph \(H\) such that \(\mathrm{ex}(n,H)=\Theta(n^r)\). In this talk, I will survey the progress made over the past decade in understanding the extremal number of bipartite graphs and explain how AI built on these advances to complete the proof of the conjecture.
   </div>
 </details>
     <div style="height: 3px;"></div>
