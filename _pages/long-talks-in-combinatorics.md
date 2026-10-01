@@ -98,7 +98,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
   display: grid;
   grid-template-columns: 100px 1fr;
   column-gap: 20px;
-  width: 55%;
+  width: 60%;
   margin-bottom: 2em;
 }
 
