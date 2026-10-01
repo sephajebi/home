@@ -270,7 +270,7 @@ Tuesdays at 10:00 a.m. ET, October 6 to December 1 (except October 27).
       </summary>
       <div class="abstract-text">
         Two old theorems of Robertson and Seymour say:
-        <div style="height: 4px;"></div>
+        <div style="height: 20px;"></div>
         
 (1) For any forest \(H\), the graphs with no \(H\) minor have bounded path-width
 (and for any non-forest \(H\), they don't).
