@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 </div>
 
 <div style="width: 100%; text-align: justify; padding-top:0.5em; margin-bottom:1em">
-With <b><a href='https://sites.google.com/view/lior-gishboliner'>Lior Gishboliner</a></b>, I organize the online seminar <b><a href='https://www.sepehrhajebi.com/long-talks-in-combinatorics/'>Long Talks in Combinatorics</a></b>.
+With Lior Gishboliner, I organize the online seminar <b><a href='https://www.sepehrhajebi.com/long-talks-in-combinatorics/'>Long Talks in Combinatorics</a></b>.
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:1em;">
