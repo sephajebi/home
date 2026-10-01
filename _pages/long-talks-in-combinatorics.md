@@ -317,6 +317,7 @@ found some pretty theorems, which will be surveyed in this talk.
   <div>
     <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://people.math.ethz.ch/~sudakovb/">Benny Sudakov</a></b> (ETH Zürich)</span>
     </div>
+     <div style="height: 3px;"></div>
 <div class="title"><i class="fa-solid fa-tag"></i>
   <span class="talk-title"><b>Title:</b> The Mihail-Vazirani conjecture and strong edge-expansion in random 0/1 polytopes</span>
 </div>
@@ -366,6 +367,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
   <div>
     <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://sites.google.com/view/oliver-janzer/home">Oliver Janzer</a></b> (EPFL)</span>
     </div>
+     <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
   <span class="talk-title"><b>Title:</b> On the rational exponents conjecture</span>
 </div>
@@ -413,6 +415,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
   <div>
     <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://shohamlet.github.io">Shoham Letzter</a></b> (University College London)</span>
     </div>
+     <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
   <span class="talk-title"><b>Title:</b> TBA</span>
 </div>
@@ -460,6 +463,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
   <div>
     <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://sites.google.com/site/sophiespirkl/">Sophie Spirkl</a></b> (University of Waterloo)</span>
     </div>
+     <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
   <span class="talk-title"><b>Title:</b> Cliques and coloring in tournaments</span>
 </div>
@@ -507,6 +511,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
   <div>
     <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://sites.google.com/view/domagoj-bradac/">Domagoj Bradač</a></b> (ETH Zürich)</span>
     </div>
+     <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
   <span class="talk-title"><b>Title:</b> TBA</span>
 </div>
@@ -554,6 +559,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
   <div>
     <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://web.math.princeton.edu/~mchudnov/">Maria Chudnovsky</a></b> (Princeton University)</span>
     </div>
+     <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
   <span class="talk-title"><b>Title:</b> TBA</span>
 </div>
@@ -601,6 +607,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
   <div>
     <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://robiscounting.github.io">Rob Morris</a></b> (IMPA)</span>
     </div>
+     <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
   <span class="talk-title"><b>Title:</b> TBA</span>
 </div>
