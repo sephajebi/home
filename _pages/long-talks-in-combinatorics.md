@@ -227,7 +227,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:0.8em">
-<b>Format:</b> Talks are held on Zoom and will be recorded and posted online.
+<b>Format:</b> Talks are held on Zoom and will be recorded and posted <b><a href="https://www.youtube.com/@LongTalksinCombinatorics">online</a></b>.
 </div>
 
 
