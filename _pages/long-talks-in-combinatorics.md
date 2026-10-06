@@ -292,7 +292,6 @@ found some pretty theorems, which will be surveyed in this talk.
       <summary>
         <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
       </summary>
-      TBA
       <div class="video-container">
         <iframe
           src="https://www.youtube.com/embed/S2-xMVt9Ppo"
