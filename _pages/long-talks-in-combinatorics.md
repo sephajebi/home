@@ -384,7 +384,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
   </summary>
 <div class="video-container">
     <iframe
-      src="https://www.youtube.com/embed/o7G4AC8-VH4"
+      src="https://www.youtube.com/embed/o7G4AC8-VH4&t=625s"
       title="YouTube video player"
       loading="lazy"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
