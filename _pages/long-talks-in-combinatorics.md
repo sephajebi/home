@@ -382,16 +382,14 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
   <summary>
     <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
   </summary>
-  TBA
-      
-<!--<div class="video-container">
+<div class="video-container">
     <iframe
-      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      src="https://www.youtube.com/embed/o7G4AC8-VH4"
       title="YouTube video player"
       loading="lazy"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen>
-    </iframe></div>-->
+    </iframe>
   
 </details>
   </div>
