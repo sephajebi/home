@@ -236,7 +236,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
 </div>
 
 <div style="width: 100%; text-align: justify; margin-bottom:3em">
-<b>Mailing list:</b> Announcements and Zoom information for the talks are sent to the seminar mailing list. To join the list, please email <b><a href="mailto:sepehr.hajebi@utoronto.ca">this</a></b> address.
+<b>Mailing list:</b> Announcements and Zoom information for the talks are sent to the seminar's mailing list. To join the list, please email <b><a href="mailto:sepehr.hajebi@utoronto.ca">this</a></b> address.
 </div>
 
 
@@ -379,23 +379,22 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
 </details>
     <div style="height: 3px;"></div>
     <details class="recording">
-  <summary>
+ <summary>
     <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
   </summary>
-<div class="video-container">
+      <div class="video-container">
     <iframe
-      src="https://www.youtube.com/embed/o7G4AC8-VH4&t=625s"
+      src="https://www.youtube.com/embed/o7G4AC8-VH4"
       title="YouTube video player"
       loading="lazy"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen>
-    </iframe>
-  
+    </iframe></div>
 </details>
   </div>
-
 </div>
 <div style="height: 10px;"></div>
+
 
 
 
