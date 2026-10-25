@@ -395,11 +395,6 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
 </div>
 <div style="height: 10px;"></div>
 
-
-
-
-
-
 <div class="talk">
 
   <div>
@@ -411,15 +406,19 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
     </div>
      <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
-  <span class="talk-title"><b>Title:</b> TBA</span>
+  <span class="talk-title"><b>Title:</b> An Exact Minimum Codegree Threshold for Tight Hamilton Cycles
+</span>
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
   <summary>
     <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
   </summary>
-  <div class="abstract-text">
-    TBA
+  <div class="abstract-text">    
+A tight Hamilton cycle in a \(k\)-uniform hypergraph is a cyclic ordering of the vertices such that every \(k\) consecutive vertices form an edge. We solve the following problem (for large \(n\)): what is the minimum m such that if \(G\) is a \(k\)-uniform hypergraph on \(n\) vertices whose every \(k-1\) vertices are in at least \(m\) edges (i.e., \(G\) has minimum codegree at least \(m\)), then G has a tight Hamilton cycle? We show that this minimum m is \((n-k+2)/2\), confirming a conjecture of Katona and Kierstead from 1999.
+<div style="height: 13px;"></div>
+    
+Joint work with Richard Lang, Arjun Ranganathan, and Nicolás Sanhueza-Matamala.
   </div>
 </details>
     <div style="height: 3px;"></div>
