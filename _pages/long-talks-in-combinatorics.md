@@ -406,7 +406,7 @@ This is joint work with Micha Christoph, Sahar Diskin, Lyuben Lichev.
     </div>
      <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
-  <span class="talk-title"><b>Title:</b> An Exact Minimum Codegree Threshold for Tight Hamilton Cycles
+  <span class="talk-title"><b>Title:</b> An exact minimum codegree threshold for tight Hamilton cycles
 </span>
 </div>
     <div style="height: 3px;"></div>
