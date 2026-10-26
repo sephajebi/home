@@ -19,6 +19,9 @@ nav_order: 1
   Preprints
 </blockquote>
 
+<p class="bottom-one"> <li> <b>Off-diagonal Ramsey numbers of 3-graphs</b>, <b><a href="https://arxiv.org/abs/2610.32644" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2026</a></b><br/>
+with L. Gishboliner, X. Li.</li> </p>
+
 <p class="bottom-one"> <li> <b>Cographs in chordal graphs</b>, <b><a href="https://arxiv.org/abs/2610.30299" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2026</a></b></li> </p>
 
 <p class="bottom-one"> <li> <b>Forcing monochromatic induced subgraphs</b>, <b><a href="https://arxiv.org/abs/2606.24695" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2026</a></b><br/>
