@@ -506,7 +506,7 @@ Joint work with Richard Lang, Arjun Ranganathan, and Nicolás Sanhueza-Matamala.
     </div>
      <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
-  <span class="talk-title"><b>Title:</b> TBA</span>
+  <span class="talk-title"><b>Title:</b> Off-diagonal Ramsey Numbers</span>
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
@@ -514,7 +514,7 @@ Joint work with Richard Lang, Arjun Ranganathan, and Nicolás Sanhueza-Matamala.
     <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
   </summary>
   <div class="abstract-text">
-    TBA
+For positive integers \(s\) and \(k\), the Ramsey number \(r(s,k)\) is the minimum integer \(n\) such that any graph on \(n\) vertices contains a clique of size \(s\) or an independent set of size \(k\). The main focus of this talk will be the asymptotic regime of so-called off-diagonal Ramsey numbers, where the parameter \(s\) is fixed and \(k\) tends to infinity. I will give an overview of the ideas that lead to recent advances on the asymptotic bounds for these numbers. Finally, I will sketch the proof of a recent result determining the exponent of \(r(s,k)\) for any fixed \(s\).
   </div>
 </details>
     <div style="height: 3px;"></div>
