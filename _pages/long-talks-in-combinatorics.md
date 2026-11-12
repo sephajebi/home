@@ -548,7 +548,8 @@ For positive integers \(s\) and \(k\), the Ramsey number \(r(s,k)\) is the minim
     </div>
      <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
-  <span class="talk-title"><b>Title:</b> TBA</span>
+  <span class="talk-title"><b>Title:</b> Induced minors and treewidth
+  </span>
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
@@ -556,7 +557,32 @@ For positive integers \(s\) and \(k\), the Ramsey number \(r(s,k)\) is the minim
     <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
   </summary>
   <div class="abstract-text">
-    TBA
+    This talk deals with induced minor obstructions to treewidth.
+The natural setup for this problem is to consider the class of graphs
+excluding some planar graph, and some complete bipartite graph as induced
+minors, and some complete graph as a subgraph. Unfortunately, such classes
+still contain graphs of arbitrarily large treewidth. Moreover, a result of
+Alecu, Bonnet, Bureo Villafana and Trotignon and its extensions suggest
+that there is unlikely to be an elegant characterization of families of
+bounded treewidth in terms of induced obstructions.
+<div style="height: 13px;"></div>
+
+On the other hand, it is conjectured that graphs in the classes as above have
+treewidth bounded by a poly-logarithmic function of their number of
+vertices. If true, this will imply the existence of quasi-polynomial time
+algorithms for a host of problems on such  classes that are NP-complete in
+the general setting.
+<div style="height: 13px;"></div>
+
+While this conjecture remains open, in joint work with Julien Codsi, David
+Fischer and Daniel Lokshtanov, we were able to prove the existence of a
+sub-polynomial bound on treewidth in terms of the number of vertices. This in
+turn leads to sub-exponential algorithmic behavior.
+<div style="height: 13px;"></div>
+
+In this talk we will discuss some ideas of the proof, and, if time permits,
+some results in the more general setting when the bound on the clique size is
+removed.
   </div>
 </details>
     <div style="height: 3px;"></div>
