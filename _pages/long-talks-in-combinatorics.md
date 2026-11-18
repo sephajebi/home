@@ -496,7 +496,7 @@ Joint work with Richard Lang, Arjun Ranganathan, and Nicolás Sanhueza-Matamala.
   </div>
 
   <div>
-    <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://sites.google.com/view/domagoj-bradac/">Domagoj Bradač</a></b> (ETH Zürich)</span>
+    <div class="speaker"><i class="fa-solid fa-user"></i> <span class="speaker-text"><b>Speaker:</b> <b><a href="https://sites.google.com/view/domagoj-bradac/">Domagoj Bradač</a></b> (EPFL)</span>
     </div>
      <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
@@ -516,16 +516,15 @@ For positive integers \(s\) and \(k\), the Ramsey number \(r(s,k)\) is the minim
   <summary>
     <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
   </summary>
-  TBA
-      
-<!--<div class="video-container">
+
+<div class="video-container">
     <iframe
-      src="https://www.youtube.com/embed/3CzRUhi9KFo?rel=0"
+      src="https://www.youtube.com/embed/E1CADY9wnFo"
       title="YouTube video player"
       loading="lazy"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen>
-    </iframe></div>-->
+    </iframe></div>
   
 </details>
   </div>
