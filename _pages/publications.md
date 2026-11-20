@@ -45,9 +45,6 @@ with M. Chudnovsky, S. Spirkl.</li> </p>
 with M. Chudnovsky, P. Gartland, D. Lokshtanov, S. Spirkl.<br/>
 • Conference version appeared in <b><a href='https://epubs.siam.org/doi/10.1137/1.9781611978322.151'>SODA 2025</a></b>.</li> </p>
 
-<p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs have logarithmic treewidth</b>, <b><a href="https://arxiv.org/abs/2402.14211" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2024</a></b><br/>
-with M. Chudnovsky, P. Gartland, D. Lokshtanov, S. Spirkl.</li> </p>
-
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XI. Local structure in even-hole-free graphs of large treewidth</b>, <b><a href="https://arxiv.org/abs/2309.04390" style="white-space: nowrap;"><i class="ai ai-arxiv"></i>2023</a></b><br/>
 with B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 
