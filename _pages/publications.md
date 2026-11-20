@@ -58,10 +58,12 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
   Journal publications
 </blockquote>
 
-<p class="bottom-one">
+<li>
+  <p class="bottom-one">
     <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs with bounded clique number have logarithmic treewidth</b><br>
     to appear in <a href="https://doi.org/10.1090/tran/9807"><b>Transactions of the American Mathematical Society (2026)</b></a>, with M. Chudnovsky, P. Gartland, D. Lokshtanov, S. Spirkl.
   </p>
+</li>
 
 <p class="bottom-one"> <li> <b>Induced subgraphs and tree decompositions XVIII. Obstructions to bounded pathwidth</b><br/>
 <a href='https://www.advancesincombinatorics.com/article/165933-induced-subgraphs-and-tree-decompositions-xviii-obstructions-to-bounded-pathwidth'><b><i class="ai ai-open-access"></i> Advances in Combinatorics (2026)</b></a>, with M. Chudnovsky, S. Spirkl.</li> </p>
