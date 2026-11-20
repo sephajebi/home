@@ -58,7 +58,7 @@ with T. Abrishami, B. Alecu, M. Chudnovsky, S. Spirkl.</li> </p>
 <li>
   <p class="bottom-one">
     <b>Induced subgraphs and tree decompositions XV. Even-hole-free graphs with bounded clique number have logarithmic treewidth</b><br>
-    to appear in <a href="https://doi.org/10.1090/tran/9807"><b>Transactions of the American Mathematical Society (2026)</b></a>, with M. Chudnovsky, P. Gartland, D. Lokshtanov, S. Spirkl.
+    <i>to appear in</i> <a href="https://doi.org/10.1090/tran/9807"><b>Transactions of the American Mathematical Society (2026)</b></a>, with M. Chudnovsky, P. Gartland, D. Lokshtanov, S. Spirkl.
   </p>
 </li>
 
