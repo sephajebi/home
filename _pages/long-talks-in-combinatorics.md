@@ -621,7 +621,7 @@ removed.
     </div>
      <div style="height: 3px;"></div>
     <div class="title"><i class="fa-solid fa-tag"></i>
-  <span class="talk-title"><b>Title:</b> TBA</span>
+  <span class="talk-title"><b>Title:</b> Containers for large sparse graphs</span>
 </div>
     <div style="height: 3px;"></div>
 <details class="abstract">
@@ -629,7 +629,10 @@ removed.
     <i class="fa-regular fa-file-lines"></i><span><b>Abstract</b></span>
   </summary>
   <div class="abstract-text">
-    TBA
+    A couple of years ago, Campos and Samotij introduced a new container theorem that does not depend on the uniformity of the hypergraph. This container theorem was used by Aragao, Campos, Dahia, Filipe and Marciano to prove that induced Ramsey numbers are exponential, and in this talk I will discuss some further applications of the method.
+<div style="height: 13px;"></div>
+
+Based on joint work with Marcelo Campos, Patrick Morris and Oliver Riordan, and also on work of Campos-Samotij, Aragao-Campos-Dahia-Filipe-Marciano, Campos-Cheng and Campos-Dahia-Marciano-Mota.
   </div>
 </details>
     <div style="height: 3px;"></div>
