@@ -589,7 +589,6 @@ removed.
   <summary>
     <i class="fa-brands fa-youtube"></i><span><b>Recording</b></span>
   </summary>
-  TBA
  <div class="video-container">
     <iframe
       src="https://www.youtube.com/embed/p91QCRQPcaA"
